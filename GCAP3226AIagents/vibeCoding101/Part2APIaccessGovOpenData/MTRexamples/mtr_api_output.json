@@ -1,0 +1,980 @@
+{
+  "test_timestamp": "2025-10-13T15:41:43.054088",
+  "total_tests": 7,
+  "results": [
+    {
+      "line": "TML",
+      "station": "TUM",
+      "description": "Tuen Ma Line - Tuen Mun (Single Test)",
+      "data": {
+        "sys_time": "2025-10-13 23:41:38",
+        "curr_time": "2025-10-13 23:41:31",
+        "data": {
+          "TML-TUM": {
+            "curr_time": "2025-10-13 23:41:31",
+            "sys_time": "2025-10-13 23:41:38",
+            "DOWN": [
+              {
+                "seq": "1",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:46:31",
+                "ttnt": "5",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "2",
+                "dest": "WKS",
+                "plat": "1",
+                "time": "2025-10-13 23:52:31",
+                "ttnt": "11",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "3",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:58:31",
+                "ttnt": "17",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "4",
+                "dest": "WKS",
+                "plat": "1",
+                "time": "2025-10-14 00:04:31",
+                "ttnt": "23",
+                "valid": "Y",
+                "source": "-"
+              }
+            ]
+          }
+        },
+        "isdelay": "N",
+        "status": 1,
+        "message": "successful"
+      },
+      "parsed": {
+        "success": true,
+        "system_time": "2025-10-13 23:41:38",
+        "current_time": "2025-10-13 23:41:31",
+        "is_delayed": false,
+        "stations": {
+          "TML-TUM": {
+            "up_trains": [],
+            "down_trains": [
+              {
+                "sequence": "1",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:46:31",
+                "minutes_to_arrival": "5",
+                "valid": true
+              },
+              {
+                "sequence": "2",
+                "destination": "WKS",
+                "platform": "1",
+                "time": "2025-10-13 23:52:31",
+                "minutes_to_arrival": "11",
+                "valid": true
+              },
+              {
+                "sequence": "3",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:58:31",
+                "minutes_to_arrival": "17",
+                "valid": true
+              },
+              {
+                "sequence": "4",
+                "destination": "WKS",
+                "platform": "1",
+                "time": "2025-10-14 00:04:31",
+                "minutes_to_arrival": "23",
+                "valid": true
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "line": "TML",
+      "station": "TUM",
+      "description": "Tuen Ma Line - Tuen Mun",
+      "data": {
+        "sys_time": "2025-10-13 23:41:38",
+        "curr_time": "2025-10-13 23:41:31",
+        "data": {
+          "TML-TUM": {
+            "curr_time": "2025-10-13 23:41:31",
+            "sys_time": "2025-10-13 23:41:38",
+            "DOWN": [
+              {
+                "seq": "1",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:46:31",
+                "ttnt": "5",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "2",
+                "dest": "WKS",
+                "plat": "1",
+                "time": "2025-10-13 23:52:31",
+                "ttnt": "11",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "3",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:58:31",
+                "ttnt": "17",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "4",
+                "dest": "WKS",
+                "plat": "1",
+                "time": "2025-10-14 00:04:31",
+                "ttnt": "23",
+                "valid": "Y",
+                "source": "-"
+              }
+            ]
+          }
+        },
+        "isdelay": "N",
+        "status": 1,
+        "message": "successful"
+      },
+      "parsed": {
+        "success": true,
+        "system_time": "2025-10-13 23:41:38",
+        "current_time": "2025-10-13 23:41:31",
+        "is_delayed": false,
+        "stations": {
+          "TML-TUM": {
+            "up_trains": [],
+            "down_trains": [
+              {
+                "sequence": "1",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:46:31",
+                "minutes_to_arrival": "5",
+                "valid": true
+              },
+              {
+                "sequence": "2",
+                "destination": "WKS",
+                "platform": "1",
+                "time": "2025-10-13 23:52:31",
+                "minutes_to_arrival": "11",
+                "valid": true
+              },
+              {
+                "sequence": "3",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:58:31",
+                "minutes_to_arrival": "17",
+                "valid": true
+              },
+              {
+                "sequence": "4",
+                "destination": "WKS",
+                "platform": "1",
+                "time": "2025-10-14 00:04:31",
+                "minutes_to_arrival": "23",
+                "valid": true
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "line": "TML",
+      "station": "TIS",
+      "description": "Tuen Ma Line - Tin Shui Wai",
+      "data": {
+        "sys_time": "2025-10-13 23:41:38",
+        "curr_time": "2025-10-13 23:41:31",
+        "data": {
+          "TML-TIS": {
+            "curr_time": "2025-10-13 23:41:31",
+            "sys_time": "2025-10-13 23:41:38",
+            "UP": [
+              {
+                "seq": "1",
+                "dest": "TUM",
+                "plat": "1",
+                "time": "2025-10-13 23:44:31",
+                "ttnt": "3",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "2",
+                "dest": "TUM",
+                "plat": "1",
+                "time": "2025-10-13 23:50:31",
+                "ttnt": "9",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "3",
+                "dest": "TUM",
+                "plat": "1",
+                "time": "2025-10-13 23:56:31",
+                "ttnt": "15",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "4",
+                "dest": "TUM",
+                "plat": "1",
+                "time": "2025-10-14 00:03:31",
+                "ttnt": "22",
+                "valid": "Y",
+                "source": "-"
+              }
+            ],
+            "DOWN": [
+              {
+                "seq": "1",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:46:31",
+                "ttnt": "5",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "2",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:53:31",
+                "ttnt": "12",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "3",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:59:31",
+                "ttnt": "18",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "4",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-14 00:05:31",
+                "ttnt": "24",
+                "valid": "Y",
+                "source": "-"
+              }
+            ]
+          }
+        },
+        "isdelay": "N",
+        "status": 1,
+        "message": "successful"
+      },
+      "parsed": {
+        "success": true,
+        "system_time": "2025-10-13 23:41:38",
+        "current_time": "2025-10-13 23:41:31",
+        "is_delayed": false,
+        "stations": {
+          "TML-TIS": {
+            "up_trains": [
+              {
+                "sequence": "1",
+                "destination": "TUM",
+                "platform": "1",
+                "time": "2025-10-13 23:44:31",
+                "minutes_to_arrival": "3",
+                "valid": true
+              },
+              {
+                "sequence": "2",
+                "destination": "TUM",
+                "platform": "1",
+                "time": "2025-10-13 23:50:31",
+                "minutes_to_arrival": "9",
+                "valid": true
+              },
+              {
+                "sequence": "3",
+                "destination": "TUM",
+                "platform": "1",
+                "time": "2025-10-13 23:56:31",
+                "minutes_to_arrival": "15",
+                "valid": true
+              },
+              {
+                "sequence": "4",
+                "destination": "TUM",
+                "platform": "1",
+                "time": "2025-10-14 00:03:31",
+                "minutes_to_arrival": "22",
+                "valid": true
+              }
+            ],
+            "down_trains": [
+              {
+                "sequence": "1",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:46:31",
+                "minutes_to_arrival": "5",
+                "valid": true
+              },
+              {
+                "sequence": "2",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:53:31",
+                "minutes_to_arrival": "12",
+                "valid": true
+              },
+              {
+                "sequence": "3",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:59:31",
+                "minutes_to_arrival": "18",
+                "valid": true
+              },
+              {
+                "sequence": "4",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-14 00:05:31",
+                "minutes_to_arrival": "24",
+                "valid": true
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "line": "TML",
+      "station": "MEF",
+      "description": "Tuen Ma Line - Mei Foo",
+      "data": {
+        "sys_time": "2025-10-13 23:41:38",
+        "curr_time": "2025-10-13 23:41:31",
+        "data": {
+          "TML-MEF": {
+            "curr_time": "2025-10-13 23:41:31",
+            "sys_time": "2025-10-13 23:41:38",
+            "UP": [
+              {
+                "seq": "1",
+                "dest": "TUM",
+                "plat": "1",
+                "time": "2025-10-13 23:44:31",
+                "ttnt": "3",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "2",
+                "dest": "TUM",
+                "plat": "1",
+                "time": "2025-10-13 23:52:31",
+                "ttnt": "11",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "3",
+                "dest": "TUM",
+                "plat": "1",
+                "time": "2025-10-13 23:59:31",
+                "ttnt": "18",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "4",
+                "dest": "TUM",
+                "plat": "1",
+                "time": "2025-10-14 00:07:31",
+                "ttnt": "26",
+                "valid": "Y",
+                "source": "-"
+              }
+            ],
+            "DOWN": [
+              {
+                "seq": "1",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:46:31",
+                "ttnt": "5",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "2",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:53:31",
+                "ttnt": "12",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "3",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:59:31",
+                "ttnt": "18",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "4",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-14 00:06:31",
+                "ttnt": "25",
+                "valid": "Y",
+                "source": "-"
+              }
+            ]
+          }
+        },
+        "isdelay": "N",
+        "status": 1,
+        "message": "successful"
+      },
+      "parsed": {
+        "success": true,
+        "system_time": "2025-10-13 23:41:38",
+        "current_time": "2025-10-13 23:41:31",
+        "is_delayed": false,
+        "stations": {
+          "TML-MEF": {
+            "up_trains": [
+              {
+                "sequence": "1",
+                "destination": "TUM",
+                "platform": "1",
+                "time": "2025-10-13 23:44:31",
+                "minutes_to_arrival": "3",
+                "valid": true
+              },
+              {
+                "sequence": "2",
+                "destination": "TUM",
+                "platform": "1",
+                "time": "2025-10-13 23:52:31",
+                "minutes_to_arrival": "11",
+                "valid": true
+              },
+              {
+                "sequence": "3",
+                "destination": "TUM",
+                "platform": "1",
+                "time": "2025-10-13 23:59:31",
+                "minutes_to_arrival": "18",
+                "valid": true
+              },
+              {
+                "sequence": "4",
+                "destination": "TUM",
+                "platform": "1",
+                "time": "2025-10-14 00:07:31",
+                "minutes_to_arrival": "26",
+                "valid": true
+              }
+            ],
+            "down_trains": [
+              {
+                "sequence": "1",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:46:31",
+                "minutes_to_arrival": "5",
+                "valid": true
+              },
+              {
+                "sequence": "2",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:53:31",
+                "minutes_to_arrival": "12",
+                "valid": true
+              },
+              {
+                "sequence": "3",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:59:31",
+                "minutes_to_arrival": "18",
+                "valid": true
+              },
+              {
+                "sequence": "4",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-14 00:06:31",
+                "minutes_to_arrival": "25",
+                "valid": true
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "line": "TML",
+      "station": "HUH",
+      "description": "Tuen Ma Line - Hung Hom",
+      "data": {
+        "sys_time": "2025-10-13 23:41:38",
+        "curr_time": "2025-10-13 23:41:31",
+        "data": {
+          "TML-HUH": {
+            "curr_time": "2025-10-13 23:41:31",
+            "sys_time": "2025-10-13 23:41:38",
+            "UP": [
+              {
+                "seq": "1",
+                "dest": "TUM",
+                "plat": "3",
+                "time": "2025-10-13 23:41:31",
+                "ttnt": "0",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "2",
+                "dest": "TUM",
+                "plat": "3",
+                "time": "2025-10-13 23:48:31",
+                "ttnt": "7",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "3",
+                "dest": "TUM",
+                "plat": "3",
+                "time": "2025-10-13 23:55:31",
+                "ttnt": "14",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "4",
+                "dest": "TUM",
+                "plat": "3",
+                "time": "2025-10-14 00:03:31",
+                "ttnt": "22",
+                "valid": "Y",
+                "source": "-"
+              }
+            ],
+            "DOWN": [
+              {
+                "seq": "1",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:42:31",
+                "ttnt": "1",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "2",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:49:31",
+                "ttnt": "8",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "3",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-13 23:57:31",
+                "ttnt": "16",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "4",
+                "dest": "WKS",
+                "plat": "2",
+                "time": "2025-10-14 00:04:31",
+                "ttnt": "23",
+                "valid": "Y",
+                "source": "-"
+              }
+            ]
+          }
+        },
+        "isdelay": "N",
+        "status": 1,
+        "message": "successful"
+      },
+      "parsed": {
+        "success": true,
+        "system_time": "2025-10-13 23:41:38",
+        "current_time": "2025-10-13 23:41:31",
+        "is_delayed": false,
+        "stations": {
+          "TML-HUH": {
+            "up_trains": [
+              {
+                "sequence": "1",
+                "destination": "TUM",
+                "platform": "3",
+                "time": "2025-10-13 23:41:31",
+                "minutes_to_arrival": "0",
+                "valid": true
+              },
+              {
+                "sequence": "2",
+                "destination": "TUM",
+                "platform": "3",
+                "time": "2025-10-13 23:48:31",
+                "minutes_to_arrival": "7",
+                "valid": true
+              },
+              {
+                "sequence": "3",
+                "destination": "TUM",
+                "platform": "3",
+                "time": "2025-10-13 23:55:31",
+                "minutes_to_arrival": "14",
+                "valid": true
+              },
+              {
+                "sequence": "4",
+                "destination": "TUM",
+                "platform": "3",
+                "time": "2025-10-14 00:03:31",
+                "minutes_to_arrival": "22",
+                "valid": true
+              }
+            ],
+            "down_trains": [
+              {
+                "sequence": "1",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:42:31",
+                "minutes_to_arrival": "1",
+                "valid": true
+              },
+              {
+                "sequence": "2",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:49:31",
+                "minutes_to_arrival": "8",
+                "valid": true
+              },
+              {
+                "sequence": "3",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-13 23:57:31",
+                "minutes_to_arrival": "16",
+                "valid": true
+              },
+              {
+                "sequence": "4",
+                "destination": "WKS",
+                "platform": "2",
+                "time": "2025-10-14 00:04:31",
+                "minutes_to_arrival": "23",
+                "valid": true
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "line": "ISL",
+      "station": "CEN",
+      "description": "Island Line - Central",
+      "data": {
+        "sys_time": "2025-10-13 23:41:38",
+        "curr_time": "2025-10-13 23:41:25",
+        "data": {
+          "ISL-CEN": {
+            "curr_time": "2025-10-13 23:41:25",
+            "sys_time": "2025-10-13 23:41:38",
+            "UP": [
+              {
+                "seq": "1",
+                "dest": "CHW",
+                "plat": "3",
+                "time": "2025-10-13 23:42:25",
+                "ttnt": "1",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "2",
+                "dest": "CHW",
+                "plat": "3",
+                "time": "2025-10-13 23:47:25",
+                "ttnt": "6",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "3",
+                "dest": "CHW",
+                "plat": "3",
+                "time": "2025-10-13 23:53:25",
+                "ttnt": "12",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "4",
+                "dest": "CHW",
+                "plat": "3",
+                "time": "2025-10-13 23:58:25",
+                "ttnt": "17",
+                "valid": "Y",
+                "source": "-"
+              }
+            ],
+            "DOWN": [
+              {
+                "seq": "1",
+                "dest": "KET",
+                "plat": "4",
+                "time": "2025-10-13 23:45:25",
+                "ttnt": "4",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "2",
+                "dest": "KET",
+                "plat": "4",
+                "time": "2025-10-13 23:50:25",
+                "ttnt": "9",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "3",
+                "dest": "KET",
+                "plat": "4",
+                "time": "2025-10-13 23:55:25",
+                "ttnt": "14",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "4",
+                "dest": "KET",
+                "plat": "4",
+                "time": "2025-10-14 00:05:25",
+                "ttnt": "24",
+                "valid": "Y",
+                "source": "-"
+              }
+            ]
+          }
+        },
+        "isdelay": "N",
+        "status": 1,
+        "message": "successful"
+      },
+      "parsed": {
+        "success": true,
+        "system_time": "2025-10-13 23:41:38",
+        "current_time": "2025-10-13 23:41:25",
+        "is_delayed": false,
+        "stations": {
+          "ISL-CEN": {
+            "up_trains": [
+              {
+                "sequence": "1",
+                "destination": "CHW",
+                "platform": "3",
+                "time": "2025-10-13 23:42:25",
+                "minutes_to_arrival": "1",
+                "valid": true
+              },
+              {
+                "sequence": "2",
+                "destination": "CHW",
+                "platform": "3",
+                "time": "2025-10-13 23:47:25",
+                "minutes_to_arrival": "6",
+                "valid": true
+              },
+              {
+                "sequence": "3",
+                "destination": "CHW",
+                "platform": "3",
+                "time": "2025-10-13 23:53:25",
+                "minutes_to_arrival": "12",
+                "valid": true
+              },
+              {
+                "sequence": "4",
+                "destination": "CHW",
+                "platform": "3",
+                "time": "2025-10-13 23:58:25",
+                "minutes_to_arrival": "17",
+                "valid": true
+              }
+            ],
+            "down_trains": [
+              {
+                "sequence": "1",
+                "destination": "KET",
+                "platform": "4",
+                "time": "2025-10-13 23:45:25",
+                "minutes_to_arrival": "4",
+                "valid": true
+              },
+              {
+                "sequence": "2",
+                "destination": "KET",
+                "platform": "4",
+                "time": "2025-10-13 23:50:25",
+                "minutes_to_arrival": "9",
+                "valid": true
+              },
+              {
+                "sequence": "3",
+                "destination": "KET",
+                "platform": "4",
+                "time": "2025-10-13 23:55:25",
+                "minutes_to_arrival": "14",
+                "valid": true
+              },
+              {
+                "sequence": "4",
+                "destination": "KET",
+                "platform": "4",
+                "time": "2025-10-14 00:05:25",
+                "minutes_to_arrival": "24",
+                "valid": true
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "line": "TWL",
+      "station": "TSW",
+      "description": "Tsuen Wan Line - Tsim Sha Tsui",
+      "data": {
+        "sys_time": "2025-10-13 23:41:38",
+        "curr_time": "2025-10-13 23:41:31",
+        "data": {
+          "TWL-TSW": {
+            "curr_time": "2025-10-13 23:41:31",
+            "sys_time": "2025-10-13 23:41:38",
+            "DOWN": [
+              {
+                "seq": "1",
+                "dest": "CEN",
+                "plat": "2",
+                "time": "2025-10-13 23:50:31",
+                "ttnt": "9",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "2",
+                "dest": "CEN",
+                "plat": "2",
+                "time": "2025-10-14 00:00:31",
+                "ttnt": "19",
+                "valid": "Y",
+                "source": "-"
+              },
+              {
+                "seq": "3",
+                "dest": "CEN",
+                "plat": "2",
+                "time": "2025-10-14 00:10:31",
+                "ttnt": "29",
+                "valid": "Y",
+                "source": "-"
+              }
+            ]
+          }
+        },
+        "isdelay": "N",
+        "status": 1,
+        "message": "successful"
+      },
+      "parsed": {
+        "success": true,
+        "system_time": "2025-10-13 23:41:38",
+        "current_time": "2025-10-13 23:41:31",
+        "is_delayed": false,
+        "stations": {
+          "TWL-TSW": {
+            "up_trains": [],
+            "down_trains": [
+              {
+                "sequence": "1",
+                "destination": "CEN",
+                "platform": "2",
+                "time": "2025-10-13 23:50:31",
+                "minutes_to_arrival": "9",
+                "valid": true
+              },
+              {
+                "sequence": "2",
+                "destination": "CEN",
+                "platform": "2",
+                "time": "2025-10-14 00:00:31",
+                "minutes_to_arrival": "19",
+                "valid": true
+              },
+              {
+                "sequence": "3",
+                "destination": "CEN",
+                "platform": "2",
+                "time": "2025-10-14 00:10:31",
+                "minutes_to_arrival": "29",
+                "valid": true
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

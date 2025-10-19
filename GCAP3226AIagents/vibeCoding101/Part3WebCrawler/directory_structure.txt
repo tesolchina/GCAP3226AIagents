@@ -1,0 +1,27 @@
+[122K]  .
+├── [ 12K]  PROJECT_SUMMARY.md
+├── [6.3K]  QUICK_REFERENCE.md
+├── [ 11K]  README.md
+├── [ 19K]  WebCrawling_Tutorial.ipynb
+├── [ 60K]  cyberdefender
+│   ├── [2.9K]  README.md
+│   ├── [6.1K]  analysis
+│   │   └── [2.1K]  crawl_results_20251013_170635.json
+│   ├── [ 16K]  data
+│   │   ├── [4.0K]  downloads
+│   │   ├── [4.0K]  pages
+│   │   └── [4.0K]  sitemaps
+│   ├── [8.5K]  logs
+│   │   ├── [3.5K]  crawl_20251013_170552.log
+│   │   ├── [ 971]  crawl_20251013_170835.log
+│   │   └── [   0]  crawl_20_pages.txt
+│   ├── [  66]  requirements.txt
+│   └── [ 22K]  scripts
+│       ├── [3.4K]  analyze_results.py
+│       ├── [1.1K]  crawl_downloads.py
+│       └── [ 14K]  crawler.py
+├── [   0]  directory_structure.txt
+├── [ 854]  overviewPlan.md
+└── [9.3K]  work_log.md
+
+ 211K used in 9 directories, 16 files

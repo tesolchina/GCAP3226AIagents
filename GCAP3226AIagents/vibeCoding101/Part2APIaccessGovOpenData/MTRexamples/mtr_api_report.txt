@@ -1,0 +1,68 @@
+================================================================================
+MTR API TEST SUMMARY REPORT
+================================================================================
+Generated: 2025-10-13 15:41:43
+
+Tests Completed: 7
+Successful: 7
+Failed: 0
+
+Detailed Results:
+--------------------------------------------------------------------------------
+
+1. Tuen Ma Line - Tuen Mun (Single Test) (TML-TUM)
+   Status: ✓ SUCCESS
+   System Time: 2025-10-13 23:41:38
+   Delayed: No
+   Trains Found: 4
+   DOWN: 4 trains
+
+2. Tuen Ma Line - Tuen Mun (TML-TUM)
+   Status: ✓ SUCCESS
+   System Time: 2025-10-13 23:41:38
+   Delayed: No
+   Trains Found: 4
+   DOWN: 4 trains
+
+3. Tuen Ma Line - Tin Shui Wai (TML-TIS)
+   Status: ✓ SUCCESS
+   System Time: 2025-10-13 23:41:38
+   Delayed: No
+   Trains Found: 8
+   DOWN: 4 trains
+   UP: 4 trains
+
+4. Tuen Ma Line - Mei Foo (TML-MEF)
+   Status: ✓ SUCCESS
+   System Time: 2025-10-13 23:41:38
+   Delayed: No
+   Trains Found: 8
+   DOWN: 4 trains
+   UP: 4 trains
+
+5. Tuen Ma Line - Hung Hom (TML-HUH)
+   Status: ✓ SUCCESS
+   System Time: 2025-10-13 23:41:38
+   Delayed: No
+   Trains Found: 8
+   DOWN: 4 trains
+   UP: 4 trains
+
+6. Island Line - Central (ISL-CEN)
+   Status: ✓ SUCCESS
+   System Time: 2025-10-13 23:41:38
+   Delayed: No
+   Trains Found: 8
+   DOWN: 4 trains
+   UP: 4 trains
+
+7. Tsuen Wan Line - Tsim Sha Tsui (TWL-TSW)
+   Status: ✓ SUCCESS
+   System Time: 2025-10-13 23:41:38
+   Delayed: No
+   Trains Found: 3
+   DOWN: 3 trains
+
+================================================================================
+END OF REPORT
+================================================================================

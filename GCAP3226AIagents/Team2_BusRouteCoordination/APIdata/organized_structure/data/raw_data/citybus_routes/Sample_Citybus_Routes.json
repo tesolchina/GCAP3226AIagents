@@ -1,0 +1,37 @@
+[
+  {
+    "route": "582",
+    "dest_tc": "大學站",
+    "orig_tc": "大埔",
+    "bound": "O",
+    "service_type": "1"
+  },
+  {
+    "route": "581",
+    "dest_tc": "尖沙咀",
+    "orig_tc": "大埔",
+    "bound": "O",
+    "service_type": "1"
+  },
+  {
+    "route": "580",
+    "dest_tc": "中環",
+    "orig_tc": "大埔",
+    "bound": "O",
+    "service_type": "1"
+  },
+  {
+    "route": "583",
+    "dest_tc": "銅鑼灣",
+    "orig_tc": "大埔",
+    "bound": "O",
+    "service_type": "1"
+  },
+  {
+    "route": "584",
+    "dest_tc": "金鐘",
+    "orig_tc": "大埔",
+    "bound": "O",
+    "service_type": "1"
+  }
+]

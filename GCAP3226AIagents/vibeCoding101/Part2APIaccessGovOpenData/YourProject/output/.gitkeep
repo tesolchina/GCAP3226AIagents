@@ -1,0 +1,31 @@
+# Output Folder
+
+This folder is where your generated data files, reports, and visualizations will be saved.
+
+## What Goes Here
+
+### Data Files
+- `raw_data_[timestamp].json` - Raw data from API
+- `processed_data_[timestamp].csv` - Cleaned/processed data
+- `summary_stats.json` - Statistical summaries
+
+### Reports
+- `analysis_report.txt` - Main analysis findings
+- `data_quality_report.txt` - Data validation results
+
+### Visualizations
+- `chart_[name].png` - Generated charts
+- `figure_[name].png` - Generated figures
+
+## Notes
+
+- Files are automatically timestamped
+- AI-generated code will save output here
+- Keep this folder organized as files accumulate
+- You can create subfolders (e.g., `output/charts/`) if needed
+
+## Placeholder
+
+This `.gitkeep` file ensures the output folder exists in version control even when empty.
+
+Delete this file after you start generating real output files.
