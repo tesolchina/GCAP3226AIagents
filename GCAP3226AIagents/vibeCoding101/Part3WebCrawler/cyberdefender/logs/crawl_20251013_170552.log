@@ -1,0 +1,54 @@
+[2025-10-13 17:05:52] [INFO] ================================================================================
+[2025-10-13 17:05:52] [INFO] Starting Cyberdefender.hk Crawl
+[2025-10-13 17:05:52] [INFO] ================================================================================
+[2025-10-13 17:05:52] [INFO] Fetching sitemap index...
+[2025-10-13 17:05:54] [INFO] Found 6 sitemaps
+[2025-10-13 17:05:55] [INFO] Fetching post-sitemap.xml...
+[2025-10-13 17:05:57] [INFO]   → Found 6 URLs in post-sitemap.xml
+[2025-10-13 17:05:58] [INFO] Fetching page-sitemap.xml...
+[2025-10-13 17:05:59] [INFO]   → Found 102 URLs in page-sitemap.xml
+[2025-10-13 17:06:00] [INFO] Fetching gm_menu_block-sitemap.xml...
+[2025-10-13 17:06:02] [INFO]   → Found 1 URLs in gm_menu_block-sitemap.xml
+[2025-10-13 17:06:03] [INFO] Fetching r3d-sitemap.xml...
+[2025-10-13 17:06:04] [INFO]   → Found 4 URLs in r3d-sitemap.xml
+[2025-10-13 17:06:05] [INFO] Fetching sdm_downloads-sitemap.xml...
+[2025-10-13 17:06:07] [INFO]   → Found 21 URLs in sdm_downloads-sitemap.xml
+[2025-10-13 17:06:08] [INFO] Fetching category-sitemap.xml...
+[2025-10-13 17:06:09] [INFO]   → Found 15 URLs in category-sitemap.xml
+[2025-10-13 17:06:09] [INFO] Total URLs found: 149
+[2025-10-13 17:06:09] [INFO] Limiting crawl to 5 pages (for testing)
+[2025-10-13 17:06:09] [INFO] 
+--- Page 1/5 ---
+[2025-10-13 17:06:09] [INFO] Crawling: https://cyberdefender.hk/%e3%80%8c%e8%b5%b7%e5%ba%95%e3%80%8d%e8%a1%8c%e7%82%ba%e5%88%91%e4%ba%8b%e5%8c%96%e2%9d%97%ef%b8%8f/
+[2025-10-13 17:06:13] [INFO]   ✓ Page has quantitative data! Numbers: 0, Tables: 1
+[2025-10-13 17:06:13] [INFO]   → Saved: %e3%80%8c%e8%b5%b7%e5%ba%95%e3%80%8d%e8%a1%8c%e7%82%ba%e5%88%91%e4%ba%8b%e5%8c%96%e2%9d%97%ef%b8%8f_bbc453e1.html
+[2025-10-13 17:06:15] [INFO] 
+--- Page 2/5 ---
+[2025-10-13 17:06:15] [INFO] Crawling: https://cyberdefender.hk/whatsapp-scam/
+[2025-10-13 17:06:18] [INFO]   ✓ Page has quantitative data! Numbers: 0, Tables: 1
+[2025-10-13 17:06:18] [INFO]   → Saved: whatsapp-scam_5d00a218.html
+[2025-10-13 17:06:20] [INFO] 
+--- Page 3/5 ---
+[2025-10-13 17:06:20] [INFO] Crawling: https://cyberdefender.hk/sms-scam/
+[2025-10-13 17:06:23] [INFO]   ✓ Page has quantitative data! Numbers: 0, Tables: 1
+[2025-10-13 17:06:23] [INFO]   → Saved: sms-scam_c75dfa21.html
+[2025-10-13 17:06:25] [INFO] 
+--- Page 4/5 ---
+[2025-10-13 17:06:25] [INFO] Crawling: https://cyberdefender.hk/2024-dragon-year-fortune/
+[2025-10-13 17:06:28] [ERROR] Error crawling https://cyberdefender.hk/2024-dragon-year-fortune/: 404 Client Error: Not Found for url: https://cyberdefender.hk/2024-dragon-year-fortune/
+[2025-10-13 17:06:30] [INFO] 
+--- Page 5/5 ---
+[2025-10-13 17:06:30] [INFO] Crawling: https://cyberdefender.hk/carousell-scam/
+[2025-10-13 17:06:33] [INFO]   ✓ Page has quantitative data! Numbers: 0, Tables: 1
+[2025-10-13 17:06:33] [INFO]   → Saved: carousell-scam_e74dd9a0.html
+[2025-10-13 17:06:35] [INFO] Results saved to: analysis/crawl_results_20251013_170635.json
+[2025-10-13 17:06:35] [INFO] 
+================================================================================
+[2025-10-13 17:06:35] [INFO] CRAWL SUMMARY
+[2025-10-13 17:06:35] [INFO] ================================================================================
+[2025-10-13 17:06:35] [INFO] URLs visited: 5
+[2025-10-13 17:06:35] [INFO] Pages with quantitative data: 4
+[2025-10-13 17:06:35] [INFO] Files downloaded: 0
+[2025-10-13 17:06:35] [INFO] Errors encountered: 1
+[2025-10-13 17:06:35] [INFO] Success rate: 80.0%
+[2025-10-13 17:06:35] [INFO] ================================================================================

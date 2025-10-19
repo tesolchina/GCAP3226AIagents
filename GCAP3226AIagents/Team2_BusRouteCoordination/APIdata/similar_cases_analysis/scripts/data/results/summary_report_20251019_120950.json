@@ -1,0 +1,72 @@
+{
+  "analysis_timestamp": "2025-10-19T12:09:50.726200",
+  "summary": {
+    "total_routes_analyzed": 4,
+    "total_overlapping_pairs": 2,
+    "top_overlapping_routes": [
+      {
+        "route1": {
+          "operator": "kmb",
+          "route_id": "272A",
+          "route_name": "大學站",
+          "total_stops": 5
+        },
+        "route2": {
+          "operator": "citybus",
+          "route_id": "582",
+          "route_name": "大學站",
+          "total_stops": 5
+        },
+        "overlap_count": 4,
+        "overlap_percentage": 0.8,
+        "common_stops": [
+          "STOP002",
+          "STOP003",
+          "STOP004",
+          "STOP001"
+        ],
+        "analysis_timestamp": "2025-10-19T12:09:50.725060"
+      },
+      {
+        "route1": {
+          "operator": "kmb",
+          "route_id": "271",
+          "route_name": "尖沙咀",
+          "total_stops": 5
+        },
+        "route2": {
+          "operator": "citybus",
+          "route_id": "581",
+          "route_name": "尖沙咀",
+          "total_stops": 5
+        },
+        "overlap_count": 4,
+        "overlap_percentage": 0.8,
+        "common_stops": [
+          "STOP104",
+          "STOP102",
+          "STOP101",
+          "STOP103"
+        ],
+        "analysis_timestamp": "2025-10-19T12:09:50.725071"
+      }
+    ],
+    "coordination_patterns": {
+      "total_overlapping_pairs": 2,
+      "operator_combinations": {
+        "kmb-citybus": 2
+      },
+      "geographic_distribution": {},
+      "overlap_statistics": {
+        "max_overlap": 4,
+        "min_overlap": 4,
+        "avg_overlap": 4.0
+      }
+    }
+  },
+  "recommendations": {
+    "high_priority_coordination": [],
+    "medium_priority_coordination": [],
+    "coordination_opportunities": 0
+  }
+}

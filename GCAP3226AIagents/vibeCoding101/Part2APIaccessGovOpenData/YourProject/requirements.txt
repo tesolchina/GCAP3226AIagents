@@ -1,0 +1,15 @@
+# Python packages for your project
+# AI will customize this based on your specific needs
+
+# Core packages for data access
+requests>=2.31.0
+
+# Data processing (AI will add these if you need them)
+# pandas>=2.0.0
+# numpy>=1.24.0
+
+# Visualization (AI will add these if you need them)
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+
+# Additional packages will be added by AI based on your project requirements
