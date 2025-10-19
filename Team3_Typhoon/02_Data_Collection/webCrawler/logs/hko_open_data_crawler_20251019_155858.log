@@ -1,0 +1,33 @@
+2025-10-19 15:58:58,623 - HKOOpenDataCrawler - INFO - Logging setup complete. Log file: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/logs/hko_open_data_crawler_20251019_155858.log
+2025-10-19 15:58:58,623 - HKOOpenDataCrawler - INFO - HKO Open Data Crawler initialized
+2025-10-19 15:58:58,623 - HKOOpenDataCrawler - INFO - Base directory: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler
+2025-10-19 15:58:58,623 - HKOOpenDataCrawler - INFO - Output directory: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/output
+2025-10-19 15:58:58,623 - HKOOpenDataCrawler - INFO - Logs directory: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/logs
+2025-10-19 15:58:58,623 - HKOOpenDataCrawler - INFO - Data directory: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data
+2025-10-19 15:58:58,623 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: CRAWL_START - Starting HKO open data crawling
+2025-10-19 15:58:58,623 - HKOOpenDataCrawler - INFO - Starting HKO open data crawling
+2025-10-19 15:58:58,623 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: CRAWL_OPEN_DATA - Crawling HKO open data introduction page
+2025-10-19 15:58:58,623 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: HTTP_REQUEST - Fetching: https://www.hko.gov.hk/en/abouthko/opendata_intro.htm
+2025-10-19 15:58:58,717 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: HTTP_SUCCESS - Status: 200, URL: https://www.hko.gov.hk/en/abouthko/opendata_intro.htm
+2025-10-19 15:58:58,734 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: PARSE_OPEN_DATA - Found 10 dataset references
+2025-10-19 15:58:58,734 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: CRAWL_OPEN_DATA - Found 10 dataset references
+2025-10-19 15:58:58,734 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: CRAWL_TC_IMPACT - Crawling tropical cyclone impact data page
+2025-10-19 15:58:58,734 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: HTTP_REQUEST - Fetching: https://www.hko.gov.hk/en/informtc/tc_impact.html
+2025-10-19 15:58:58,746 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: HTTP_SUCCESS - Status: 200, URL: https://www.hko.gov.hk/en/informtc/tc_impact.html
+2025-10-19 15:58:58,748 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: PARSE_TC_IMPACT - Found 8 TC impact data points
+2025-10-19 15:58:58,748 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: CRAWL_TC_IMPACT - Found 8 TC impact data points
+2025-10-19 15:58:58,748 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: SAVE_DATA - Saving collected data
+2025-10-19 15:58:58,749 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: SAVE_CSV - Saved 10 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_open_data_info.csv
+2025-10-19 15:58:58,749 - HKOOpenDataCrawler - INFO - Data saved to CSV: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_open_data_info.csv
+2025-10-19 15:58:58,749 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: SAVE_JSON - Saved 10 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_open_data_info.json
+2025-10-19 15:58:58,749 - HKOOpenDataCrawler - INFO - Data saved to JSON: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_open_data_info.json
+2025-10-19 15:58:58,749 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: SAVE_CSV - Saved 8 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_tc_impact_data.csv
+2025-10-19 15:58:58,749 - HKOOpenDataCrawler - INFO - Data saved to CSV: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_tc_impact_data.csv
+2025-10-19 15:58:58,749 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: SAVE_JSON - Saved 8 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_tc_impact_data.json
+2025-10-19 15:58:58,749 - HKOOpenDataCrawler - INFO - Data saved to JSON: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_tc_impact_data.json
+2025-10-19 15:58:58,750 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: SAVE_JSON - Saved 16 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_open_data_crawl_log.json
+2025-10-19 15:58:58,750 - HKOOpenDataCrawler - INFO - Data saved to JSON: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_open_data_crawl_log.json
+2025-10-19 15:58:58,750 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: GENERATE_REPORT - Report generated: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/output/hko_open_data_report_20251019_155858.md
+2025-10-19 15:58:58,750 - HKOOpenDataCrawler - INFO - Crawling report generated: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/output/hko_open_data_report_20251019_155858.md
+2025-10-19 15:58:58,750 - HKOOpenDataCrawler - INFO - CRAWL ACTIVITY: CRAWL_COMPLETE - HKO open data crawling completed successfully
+2025-10-19 15:58:58,750 - HKOOpenDataCrawler - INFO - HKO open data crawling completed successfully

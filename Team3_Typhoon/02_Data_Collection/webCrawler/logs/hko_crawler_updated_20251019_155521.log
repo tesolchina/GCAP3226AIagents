@@ -1,0 +1,29 @@
+2025-10-19 15:55:21,018 - HKOTyphoonCrawlerUpdated - INFO - Logging setup complete. Log file: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/logs/hko_crawler_updated_20251019_155521.log
+2025-10-19 15:55:21,018 - HKOTyphoonCrawlerUpdated - INFO - HKO Typhoon Crawler (Updated) initialized
+2025-10-19 15:55:21,018 - HKOTyphoonCrawlerUpdated - INFO - Base directory: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler
+2025-10-19 15:55:21,018 - HKOTyphoonCrawlerUpdated - INFO - Output directory: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/output
+2025-10-19 15:55:21,018 - HKOTyphoonCrawlerUpdated - INFO - Logs directory: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/logs
+2025-10-19 15:55:21,018 - HKOTyphoonCrawlerUpdated - INFO - Data directory: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data
+2025-10-19 15:55:21,018 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: CRAWL_START - Starting HKO typhoon data crawling (Updated)
+2025-10-19 15:55:21,018 - HKOTyphoonCrawlerUpdated - INFO - Starting HKO typhoon data crawling (Updated)
+2025-10-19 15:55:21,018 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: CRAWL_API - Fetching data from HKO API
+2025-10-19 15:55:21,018 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: API_REQUEST - Fetching API data from: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=warnsum&lang=en
+2025-10-19 15:55:21,018 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: HTTP_REQUEST - Fetching: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=warnsum&lang=en
+2025-10-19 15:55:21,086 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: HTTP_SUCCESS - Status: 200, URL: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=warnsum&lang=en
+2025-10-19 15:55:21,086 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: API_SUCCESS - Retrieved API data: 2 items
+2025-10-19 15:55:21,086 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: API_PARSE - Found 0 Signal 8 references in API
+2025-10-19 15:55:21,086 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: CRAWL_WARNING - Crawling typhoon warning page
+2025-10-19 15:55:21,086 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: HTTP_REQUEST - Fetching: https://www.hko.gov.hk/en/wservice/warning/ts.htm
+2025-10-19 15:55:21,203 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: HTTP_ERROR - Error fetching https://www.hko.gov.hk/en/wservice/warning/ts.htm: 404 Client Error: Not Found for url: https://www.hko.gov.hk/en/wservice/warning/ts.htm
+2025-10-19 15:55:21,203 - HKOTyphoonCrawlerUpdated - ERROR - Request failed for https://www.hko.gov.hk/en/wservice/warning/ts.htm: 404 Client Error: Not Found for url: https://www.hko.gov.hk/en/wservice/warning/ts.htm
+2025-10-19 15:55:21,203 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: CRAWL_WEATHER - Crawling weather page
+2025-10-19 15:55:21,204 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: HTTP_REQUEST - Fetching: https://www.hko.gov.hk/en/wxinfo/currwx/weather.htm
+2025-10-19 15:55:21,272 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: HTTP_ERROR - Error fetching https://www.hko.gov.hk/en/wxinfo/currwx/weather.htm: 404 Client Error: Not Found for url: https://www.hko.gov.hk/en/wxinfo/currwx/weather.htm
+2025-10-19 15:55:21,272 - HKOTyphoonCrawlerUpdated - ERROR - Request failed for https://www.hko.gov.hk/en/wxinfo/currwx/weather.htm: 404 Client Error: Not Found for url: https://www.hko.gov.hk/en/wxinfo/currwx/weather.htm
+2025-10-19 15:55:21,272 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: SAVE_DATA - Saving collected data
+2025-10-19 15:55:21,272 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: SAVE_JSON - Saved 14 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/crawl_log_updated.json
+2025-10-19 15:55:21,273 - HKOTyphoonCrawlerUpdated - INFO - Data saved to JSON: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/crawl_log_updated.json
+2025-10-19 15:55:21,273 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: GENERATE_REPORT - Report generated: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/output/crawling_report_updated_20251019_155521.md
+2025-10-19 15:55:21,273 - HKOTyphoonCrawlerUpdated - INFO - Crawling report generated: /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/output/crawling_report_updated_20251019_155521.md
+2025-10-19 15:55:21,273 - HKOTyphoonCrawlerUpdated - INFO - CRAWL ACTIVITY: CRAWL_COMPLETE - HKO typhoon data crawling completed successfully
+2025-10-19 15:55:21,273 - HKOTyphoonCrawlerUpdated - INFO - HKO typhoon data crawling completed successfully

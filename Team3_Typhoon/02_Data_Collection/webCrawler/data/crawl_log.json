@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": "2025-10-19T16:00:26.877539",
+    "activity": "CRAWL_START",
+    "details": "Starting HKO typhoon data crawling"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:26.877593",
+    "activity": "CRAWL_WARNING",
+    "details": "Crawling typhoon warning page"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:26.877615",
+    "activity": "HTTP_REQUEST",
+    "details": "Fetching: https://www.hko.gov.hk/en/wxinfo/currwx/tc_warning.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:27.054014",
+    "activity": "HTTP_ERROR",
+    "details": "Error fetching https://www.hko.gov.hk/en/wxinfo/currwx/tc_warning.htm: 404 Client Error: Not Found for url: https://www.hko.gov.hk/en/wxinfo/currwx/tc_warning.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:27.054219",
+    "activity": "CRAWL_WEATHER",
+    "details": "Crawling weather page"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:27.054264",
+    "activity": "HTTP_REQUEST",
+    "details": "Fetching: https://www.hko.gov.hk/en/wxinfo/currwx/weather.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:27.126652",
+    "activity": "HTTP_ERROR",
+    "details": "Error fetching https://www.hko.gov.hk/en/wxinfo/currwx/weather.htm: 404 Client Error: Not Found for url: https://www.hko.gov.hk/en/wxinfo/currwx/weather.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:27.126824",
+    "activity": "CRAWL_TRACK",
+    "details": "Crawling tropical cyclone track page"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:27.126864",
+    "activity": "HTTP_REQUEST",
+    "details": "Fetching: https://www.hko.gov.hk/en/wxinfo/currwx/tc_track.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:27.195690",
+    "activity": "HTTP_ERROR",
+    "details": "Error fetching https://www.hko.gov.hk/en/wxinfo/currwx/tc_track.htm: 404 Client Error: Not Found for url: https://www.hko.gov.hk/en/wxinfo/currwx/tc_track.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:27.195866",
+    "activity": "SAVE_DATA",
+    "details": "Saving collected data"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": "2025-10-19T16:00:24.955390",
+    "activity": "CRAWL_START",
+    "details": "Starting HKO open data crawling"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:24.955457",
+    "activity": "CRAWL_OPEN_DATA",
+    "details": "Crawling HKO open data introduction page"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:24.955479",
+    "activity": "HTTP_REQUEST",
+    "details": "Fetching: https://www.hko.gov.hk/en/abouthko/opendata_intro.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.052822",
+    "activity": "HTTP_SUCCESS",
+    "details": "Status: 200, URL: https://www.hko.gov.hk/en/abouthko/opendata_intro.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.069710",
+    "activity": "PARSE_OPEN_DATA",
+    "details": "Found 10 dataset references"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.069771",
+    "activity": "CRAWL_OPEN_DATA",
+    "details": "Found 10 dataset references"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.069800",
+    "activity": "CRAWL_TC_IMPACT",
+    "details": "Crawling tropical cyclone impact data page"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.069824",
+    "activity": "HTTP_REQUEST",
+    "details": "Fetching: https://www.hko.gov.hk/en/informtc/tc_impact.html"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.084417",
+    "activity": "HTTP_SUCCESS",
+    "details": "Status: 200, URL: https://www.hko.gov.hk/en/informtc/tc_impact.html"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.086148",
+    "activity": "PARSE_TC_IMPACT",
+    "details": "Found 8 TC impact data points"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.086192",
+    "activity": "CRAWL_TC_IMPACT",
+    "details": "Found 8 TC impact data points"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.086221",
+    "activity": "SAVE_DATA",
+    "details": "Saving collected data"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.086484",
+    "activity": "SAVE_CSV",
+    "details": "Saved 10 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_open_data_info.csv"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.086698",
+    "activity": "SAVE_JSON",
+    "details": "Saved 10 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_open_data_info.json"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.087065",
+    "activity": "SAVE_CSV",
+    "details": "Saved 8 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_tc_impact_data.csv"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.087237",
+    "activity": "SAVE_JSON",
+    "details": "Saved 8 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/hko_tc_impact_data.json"
+  }
+]

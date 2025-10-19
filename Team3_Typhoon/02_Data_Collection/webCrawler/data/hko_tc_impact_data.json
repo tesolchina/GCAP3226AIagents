@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": "2025-10-19T16:00:25.085834",
+    "pattern_matched": "Tropical Cyclone.*?(\\w+)",
+    "matches": [
+      "Impact"
+    ],
+    "context": "Tropical Cyclone Impact Data｜Hong Kong Observatory(HKO)｜Tropical Cyclone\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkip Co",
+    "source": "HKO_TC_IMPACT"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.085840",
+    "pattern_matched": "Tropical Cyclone.*?(\\w+)",
+    "matches": [
+      "Impact"
+    ],
+    "context": "ory(HKO)｜Tropical Cyclone\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkip Content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTropical Cyclone Impact Data\n\n\nTropical Cyclone Impact Data\nTropical Cyclone Impact Data was consolidated based on relevant",
+    "source": "HKO_TC_IMPACT"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.085842",
+    "pattern_matched": "Tropical Cyclone.*?(\\w+)",
+    "matches": [
+      "Impact"
+    ],
+    "context": "Skip Content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTropical Cyclone Impact Data\n\n\nTropical Cyclone Impact Data\nTropical Cyclone Impact Data was consolidated based on relevant data/information documented in",
+    "source": "HKO_TC_IMPACT"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.085844",
+    "pattern_matched": "Tropical Cyclone.*?(\\w+)",
+    "matches": [
+      "Impact"
+    ],
+    "context": "Skip Content\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTropical Cyclone Impact Data\n\n\nTropical Cyclone Impact Data\nTropical Cyclone Impact Data was consolidated based on relevant data/information documented in the Tropical Cyclone Annual",
+    "source": "HKO_TC_IMPACT"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.085846",
+    "pattern_matched": "Tropical Cyclone.*?(\\w+)",
+    "matches": [
+      "Annual"
+    ],
+    "context": "Tropical Cyclone Impact Data was consolidated based on relevant data/information documented in the Tropical Cyclone Annual Publications since 1988. The dataset consists of tropical cyclone warning signal records, key meteo",
+    "source": "HKO_TC_IMPACT"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.085849",
+    "pattern_matched": "Tropical Cyclone.*?(\\w+)",
+    "matches": [
+      "warning"
+    ],
+    "context": "ormation documented in the Tropical Cyclone Annual Publications since 1988. The dataset consists of tropical cyclone warning signal records, key meteorological and tidal data at different stations (e.g. maximum wind speed/di",
+    "source": "HKO_TC_IMPACT"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.086142",
+    "title": "Tropical Cyclone Impact Data",
+    "url": "files/TC_Impact_Data_HKO.xlsx",
+    "source": "HKO_TC_IMPACT"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:25.086146",
+    "title": "data dictionary",
+    "url": "files/TC_Impact_Data_Metadata_HKO.pdf",
+    "source": "HKO_TC_IMPACT"
+  }
+]
