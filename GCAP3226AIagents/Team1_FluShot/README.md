@@ -1,54 +1,46 @@
-# Team 1: Flu Shot Campaign Analysis
+# Team 1: Flu Shot Participation Project
 
 ## Project Overview
-Analysis of flu vaccination campaigns and public health policy effectiveness in Hong Kong.
+This project focuses on analyzing and improving flu vaccination participation rates in Hong Kong through data-driven policy analysis and government engagement.
 
-## Team Members
-- [ ] Add team member names here
+## Folder Organization
 
-## Project Objectives
-1. Analyze flu vaccination coverage patterns
-2. Identify factors affecting vaccination uptake
-3. Evaluate policy interventions
-4. Recommend improvements for future campaigns
+### 📊 01_Project_Report
+Contains all project report documents and outlines:
+- `Project_Report_Outline.md` - Initial project report outline
+- `Project_Report_Outline_v2.md` - Second version with updates
+- `Project_Report_Outline_v3.md` - Third version with refinements
+- `Project_Report_Outline_v4.md` - Final version of project report outline
 
-## Key Research Questions
-- What demographic factors influence flu vaccination rates?
-- How effective are current public health campaigns?
-- What policy changes could improve vaccination coverage?
+### 📋 02_Data_Collection
+Contains government communication drafts and data collection materials:
+- `Department_of_Health_Email_Draft.md` - Initial email draft to Department of Health
+- `Department_of_Health_Email_Draft_v2.md` - Revised email draft
+- `Education_Bureau_Email_Draft.md` - Email draft to Education Bureau
+- `Government_Enquiry_Email_Review.md` - Review of government enquiry emails
+- `Health_Bureau_Email_Draft.md` - Email draft to Health Bureau
+- `govEmailDraft01.md` - General government email draft
 
-## Data Sources
-- [ ] Department of Health vaccination records
-- [ ] Census demographic data
-- [ ] Public health survey data
-- [ ] Healthcare facility data
+### 🤖 03_Human_AI_Report
+Contains human-AI collaboration documentation:
+- `Flu Vaccination Strategy Meeting_otter_ai.md` - AI-generated meeting notes
+- `MeetingTranscript30Sept.md` - Meeting transcript from September 30th
 
-## Methodology
-### Regression Analysis
-- Dependent variables: Vaccination rates, campaign effectiveness
-- Independent variables: Age, income, education, accessibility
+### 🎯 04_In_Class_Exercises
+Contains project planning and in-class exercise materials:
+- `Flu_Shot_Project_Roadmap.md` - Project roadmap for flu shot initiative
+- `Project_Roadmap_Team1.md` - Team 1 specific project roadmap
+- `SimonTaliaDiscuss.md` - Discussion notes between Simon and Talia
 
-### Simulation Models
-- Policy intervention scenarios
-- Campaign effectiveness modeling
-- Resource allocation optimization
+### ⚙️ 05_Project_Admin_Tutoring
+Contains administrative and tutoring materials:
+- `adminFluShot.md` - Administrative notes for flu shot project
+- `README.md` - Project documentation
+- `Published letters/` - Directory containing published correspondence
+  - `letters.md` - Published letters and communications
 
-## Deliverables
-- [ ] Data analysis report
-- [ ] Policy recommendations
-- [ ] Presentation slides
-- [ ] Interactive dashboard (optional)
+## Project Status
+This project is part of GCAP3226: Empowering Citizens through Data - Participatory Policy Analysis for Hong Kong.
 
-## Timeline
-- [ ] Week 1-2: Data collection and literature review
-- [ ] Week 3-4: Regression analysis
-- [ ] Week 5-6: Simulation modeling
-- [ ] Week 7-8: Report writing and presentation preparation
-
-## Resources
-- Course materials in `../00_Course_Materials/`
-- Google Drive technical tools: `03_instructor_tools/chatbots4students`
-- API integration guides: `98_technical/google_api_reusable`
-
----
-*Last updated: September 27, 2024*
+## Contact
+For questions about this project, please refer to the team members or course instructor.
