@@ -1,0 +1,92 @@
+================================================================================
+🚌 COMPLETE DATA COLLECTION LOG
+================================================================================
+📅 Start Time: 2025-10-19 14:28:25
+📁 Log File: complete_data_collection_log_20251019_142825.txt
+================================================================================
+
+[14:28:25] 🚀 STEP 1: Collecting KMB Routes
+[14:28:25] ==================================================
+[14:28:25] 📡 Making KMB routes API request...
+[14:28:26] ⏱️  Request completed in 0.33 seconds
+[14:28:26] 📊 Status Code: 200
+[14:28:26] ✅ Found 1574 KMB routes
+[14:28:26] ✅ KMB routes saved: data/collected_data/kmb_all_routes_20251019_142825.csv
+[14:28:26] 📁 File size: 172051 bytes
+[14:28:26] 
+🚀 STEP 2: Collecting KMB Stops
+[14:28:26] ==================================================
+[14:28:26] 📡 Making KMB stops API request...
+[14:28:26] ⏱️  Request completed in 0.53 seconds
+[14:28:26] 📊 Status Code: 200
+[14:28:26] ✅ Found 6667 KMB stops
+[14:28:26] ✅ KMB stops saved: data/collected_data/kmb_all_stops_20251019_142825.csv
+[14:28:26] 📁 File size: 758711 bytes
+[14:28:26] 
+🚀 STEP 3: Collecting Citybus Routes
+[14:28:26] ==================================================
+[14:28:26] 📡 Making Citybus routes API request...
+[14:28:33] ⏱️  Request completed in 6.53 seconds
+[14:28:33] 📊 Status Code: 200
+[14:28:33] ✅ Found 394 Citybus routes
+[14:28:33] ✅ Citybus routes saved: data/collected_data/citybus_all_routes_20251019_142825.csv
+[14:28:33] 📁 File size: 44370 bytes
+[14:28:33] 
+🚀 STEP 4: Collecting Route-Stop Mappings (Sample)
+[14:28:33] ==================================================
+[14:28:33] 🔍 Testing routes: 272A, 272K, 582, 581, 1, 2, 3, 5, 6, 9
+[14:28:33] 
+🔍 Processing route: 272A
+[14:28:34]    ✅ Found 18 stops for KMB 272A outbound service type 1
+[14:28:35] 
+🔍 Processing route: 272K
+[14:28:36]    ✅ Found 11 stops for KMB 272K outbound service type 1
+[14:28:36] 
+🔍 Processing route: 582
+[14:28:39]    ✅ Found 13 stops for Citybus 582 inbound
+[14:28:39] 
+🔍 Processing route: 581
+[14:28:41]    ✅ Found 12 stops for Citybus 581 inbound
+[14:28:41] 
+🔍 Processing route: 1
+[14:28:41]    ✅ Found 25 stops for KMB 1 inbound service type 1
+[14:28:41]    ✅ Found 25 stops for KMB 1 outbound service type 1
+[14:28:42]    ✅ Found 18 stops for Citybus 1 inbound
+[14:28:42] 
+🔍 Processing route: 2
+[14:28:42]    ✅ Found 20 stops for KMB 2 inbound service type 1
+[14:28:43]    ✅ Found 18 stops for KMB 2 outbound service type 1
+[14:28:44]    ✅ Found 34 stops for Citybus 2 inbound
+[14:28:44] 
+🔍 Processing route: 3
+[14:28:46] 
+🔍 Processing route: 5
+[14:28:47]    ✅ Found 22 stops for KMB 5 inbound service type 1
+[14:28:47]    ✅ Found 19 stops for KMB 5 outbound service type 1
+[14:28:47] 
+🔍 Processing route: 6
+[14:28:48]    ✅ Found 22 stops for KMB 6 inbound service type 1
+[14:28:48]    ✅ Found 23 stops for KMB 6 outbound service type 1
+[14:28:49]    ✅ Found 47 stops for Citybus 6 inbound
+[14:28:49] 
+🔍 Processing route: 9
+[14:28:49]    ✅ Found 30 stops for KMB 9 inbound service type 1
+[14:28:50]    ✅ Found 27 stops for KMB 9 outbound service type 1
+[14:28:50]    ✅ Found 18 stops for Citybus 9 inbound
+[14:28:50] 
+📊 Creating route-stop mappings CSV: data/collected_data/route_stop_mappings_20251019_142825.csv
+[14:28:50] ✅ Route-stop mappings saved: data/collected_data/route_stop_mappings_20251019_142825.csv
+[14:28:50] 📊 Total mappings: 402
+[14:28:50] 
+================================================================================
+[14:28:50] 🎉 COMPLETE DATA COLLECTION FINISHED!
+[14:28:50] ================================================================================
+[14:28:50] 📁 Created Files:
+[14:28:50]    📄 kmb_all_stops_20251019_142825.csv (758711 bytes)
+[14:28:50]    📄 kmb_all_routes_20251019_142825.csv (172051 bytes)
+[14:28:50]    📄 citybus_all_routes_20251019_142825.csv (44370 bytes)
+[14:28:50]    📄 route_stop_mappings_20251019_142825.csv (14478 bytes)
+[14:28:50] 
+📁 Log file: complete_data_collection_log_20251019_142825.txt
+[14:28:50] 📊 Check data/collected_data/ for all CSV files
+[14:28:50] ================================================================================

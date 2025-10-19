@@ -1,0 +1,338 @@
+route,operator,direction,service_type,stop_id,stop_name_tc,stop_name_en,lat,long,sequence
+582,Citybus,inbound,N/A,003831,"西沙GO PARK, 海映路","GO PARK Sai Sha, Hoi Ying Road",22.427089812091,114.26587060053,1
+582,Citybus,inbound,N/A,003832,"田寮, 西沙路","Tin Liu, Sai Sha Road",22.425900212091,114.26247205053,2
+582,Citybus,inbound,N/A,003833,"官坑, 西沙路","Kwun Hang, Sai Sha Road",22.428665132091,114.26088640053,3
+582,Citybus,inbound,N/A,003834,"西澳, 西沙路","Sai O, Sai Sha Road",22.430592002091,114.25499703053,4
+582,Citybus,inbound,N/A,003457,"樟木頭帝琴灣, 西沙路","Symphony Bay Cheung Muk Tau, Sai Sha Road",22.430093422091,114.25115679053,5
+582,Citybus,inbound,N/A,003841,大學站,University Station,22.412433952091,114.21104821053,6
+582,Citybus,inbound,N/A,003743,"馬料水公眾碼頭, 科學園路","Ma Liu Shui Public Pier, Science Park Road",22.415903682091,114.21369382053,7
+582,Citybus,inbound,N/A,003744,"水上活動中心, 科學園路","Water Sports Centre, Science Park Road",22.419991972091,114.21418574053,8
+582,Citybus,inbound,N/A,003745,"香港生物科技研究院, 科學園路","Hong Kong Institute of Biotechnology, Science Park Road",22.422587832091,114.21398385053,9
+582,Citybus,inbound,N/A,003839,"香港科學園, 科技大道西","Hong Kong Science Park, Science Park West Avenue",22.424887092091,114.21193669053,10
+582,Citybus,inbound,N/A,003840,"香港科學園第三期, 科技大道西","Hong Kong Science Park Phase 3, Science Park West Avenue",22.426594992091,114.20930796053,11
+582,Citybus,inbound,N/A,003748,"雲滙, 創新路","St Martin, Chong San Road",22.429526792091,114.20329357053,12
+582,Citybus,inbound,N/A,003838,白石角,Pak Shek Kok,22.431492592091,114.20192418053,13
+581,Citybus,inbound,N/A,001950,馬鞍山市中心,Ma On Shan Town Centre,22.424134522091,114.23169341053,1
+581,Citybus,inbound,N/A,001944,"馬鞍山公園, 鞍駿街","Ma On Shan Park, On Chun Street",22.426072292091,114.23153547053,2
+581,Citybus,inbound,N/A,003094,"雅典居, 西沙路","Villa Athena, Sai Sha Road",22.425905762091,114.23641325053,3
+581,Citybus,inbound,N/A,003344,"烏溪沙村, 西沙路","Wu Kai Sha Village, Sai Sha Road",22.427591282091,114.24030170053,4
+581,Citybus,inbound,N/A,003582,"雲海, 耀沙路","St. Barths, Yiu Sha Road",22.433211422091,114.24145070053,5
+581,Citybus,inbound,N/A,003583,"迎海 (第四期), 烏溪沙路","Double Cove (Phase 4), Wu Kai Sha Road",22.430877252091,114.24075938053,6
+581,Citybus,inbound,N/A,003345,烏溪沙站,Wu Kai Sha Station,22.428280222091,114.24381783053,7
+581,Citybus,inbound,N/A,003455,"樟木頭帝琴灣, 西沙路","Symphony Bay Cheung Muk Tau, Sai Sha Road",22.430263402091,114.25118934053,8
+581,Citybus,inbound,N/A,003828,"泥涌, 西沙路","Nai Chung, Sai Sha Road",22.430554392091,114.25672835053,9
+581,Citybus,inbound,N/A,003829,"輋下, 西沙路","Che Ha, Sai Sha Road",22.428951372091,114.26078435053,10
+581,Citybus,inbound,N/A,003830,"馬牯纜, 西沙路","Ma Kwu Lam, Sai Sha Road",22.425736352091,114.26266746053,11
+581,Citybus,inbound,N/A,003831,"西沙GO PARK, 海映路","GO PARK Sai Sha, Hoi Ying Road",22.427089812091,114.26587060053,12
+580,Citybus,inbound,N/A,002046,沙田市中心,Shatin Central,22.381835322091,114.18778923053,1
+580,Citybus,inbound,N/A,002047,"好運中心, 橫壆街","Lucky Plaza, Wang Pok Street",22.382822122091,114.19045465053,2
+580,Citybus,inbound,N/A,001963,"田園閣, 沙田圍路","Greenfield Court, Sha Tin Wai Road",22.379825532091,114.19568000053,3
+580,Citybus,inbound,N/A,003388,"崗背街休憩花園, 沙田圍路","Kong Pui Street Rest Garden, Sha Tin Wai Road",22.378830522091,114.19755130053,4
+580,Citybus,inbound,N/A,003850,"錦駿苑, 馬鞍山路","Kam Chun Court, Ma On Shan Road",22.411838772091,114.22409992053,5
+580,Citybus,inbound,N/A,003455,"樟木頭帝琴灣, 西沙路","Symphony Bay Cheung Muk Tau, Sai Sha Road",22.430263402091,114.25118934053,6
+580,Citybus,inbound,N/A,003828,"泥涌, 西沙路","Nai Chung, Sai Sha Road",22.430554392091,114.25672835053,7
+580,Citybus,inbound,N/A,003829,"輋下, 西沙路","Che Ha, Sai Sha Road",22.428951372091,114.26078435053,8
+580,Citybus,inbound,N/A,003830,"馬牯纜, 西沙路","Ma Kwu Lam, Sai Sha Road",22.425736352091,114.26266746053,9
+580,Citybus,inbound,N/A,003831,"西沙GO PARK, 海映路","GO PARK Sai Sha, Hoi Ying Road",22.427089812091,114.26587060053,10
+580,Citybus,inbound,N/A,003886,西沙灣,Sai Sha Residences,22.426329112091,114.26703768053,11
+1,Citybus,inbound,N/A,002403,跑馬地 (上),Happy Valley (Upper),22.264400182091,114.18864188053,1
+1,Citybus,inbound,N/A,002402,"箕璉坊, 藍塘道","Green Lane, Blue Pool Road",22.265580672091,114.18873205053,2
+1,Citybus,inbound,N/A,002492,"桂芳街, 成和道","Kwai Fong Street, Sing Woo Road",22.266827182091,114.18744416053,3
+1,Citybus,inbound,N/A,002493,"山村道, 成和道","Village Road, Sing Woo Road",22.268295142091,114.18647527053,4
+1,Citybus,inbound,N/A,002453,景光街,King Kwong Street,22.268939962091,114.18483901053,5
+1,Citybus,inbound,N/A,002552,"養和醫院, 黃泥涌道","Hong Kong Sanatorium and Hospital, Wong Nai Chung Road",22.270151022091,114.18267105053,6
+1,Citybus,inbound,N/A,002553,"跑馬地馬場, 黃泥涌道","Happy Valley Racecourse, Wong Nai Chung Road",22.271341142091,114.18075706053,7
+1,Citybus,inbound,N/A,002467,"立德里, 摩理臣山道","Lap Tak Lane, Morrison Hill Road",22.276064312091,114.18020849053,8
+1,Citybus,inbound,N/A,002566,"利景酒店, 灣仔道","The Charterhouse, Wan Chai Road",22.277832632091,114.17916549053,9
+1,Citybus,inbound,N/A,002537,"普樂里, 灣仔道","Bullock Lane, Wan Chai Road",22.276798792091,114.17597252053,10
+1,Citybus,inbound,N/A,002446,"修頓球場, 軒尼詩道","Southorn Playground, Hennessy Road",22.277433042091,114.17187855053,11
+1,Citybus,inbound,N/A,002449,"晏頓街, 軒尼詩道","Anton Street, Hennessy Road",22.277666072091,114.16883945053,12
+1,Citybus,inbound,N/A,001140,"金鐘 - 太古廣場, 金鐘道","Admiralty - Pacific Place, Queensway",22.278070732091,114.16486695053,13
+1,Citybus,inbound,N/A,001142,"中銀大廈, 金鐘道","Bank of China Tower, Queensway",22.279480102091,114.16214434053,14
+1,Citybus,inbound,N/A,001054,"置地廣場, 德輔道中","The Landmark, Des Voeux Road Central",22.281316152091,114.15825054053,15
+1,Citybus,inbound,N/A,001056,"中環街市, 德輔道中","Central Market, Des Voeux Road Central",22.284855172091,114.15539392053,16
+1,Citybus,inbound,N/A,001175,"急庇利街, 德輔道中","Cleverly Street, Des Voeux Road Central",22.286597682091,114.15157623053,17
+1,Citybus,inbound,N/A,001027,中環 (港澳碼頭),Central (Macau Ferry),22.288274152091,114.15042248053,18
+2,Citybus,inbound,N/A,001027,中環 (港澳碼頭),Central (Macau Ferry),22.288274152091,114.15042248053,1
+2,Citybus,inbound,N/A,001107,"中區政府碼頭, 民光街","Central Government Pier, Man Kwong Street",22.287445772091,114.15481928053,2
+2,Citybus,inbound,N/A,001170,"中環碼頭 - 愉景灣渡輪, 民光街","Central Ferry - Discovery Bay Ferry, Man Kwong Street",22.287371322091,114.15761689053,3
+2,Citybus,inbound,N/A,001195,中環碼頭 - 長洲及南丫島渡輪,Central Ferry – Cheung Chau & Lamma Island Ferry,22.286972312091,114.15917127053,4
+2,Citybus,inbound,N/A,001171,中環碼頭 - 天星小輪,Central Ferry - Star Ferry,22.286604172091,114.16035307053,5
+2,Citybus,inbound,N/A,001144,"國際金融中心二期, 民耀街","Two International Finance Centre, Man Yiu Street",22.285016122091,114.15994519053,6
+2,Citybus,inbound,N/A,001032,中環 (交易廣場),Central (Exchange Square),22.283695952091,114.15803274053,7
+2,Citybus,inbound,N/A,001030,"怡和大廈, 干諾道中","Jardine House, Connaught Road Central",22.282618792091,114.15929917053,8
+2,Citybus,inbound,N/A,001031,"大會堂, 干諾道中","City Hall, Connaught Road Central",22.281868122091,114.16153245053,9
+2,Citybus,inbound,N/A,003845,"金鐘 - 金鐘廊, 金鐘道","Admiralty - Queensway Plaza, Queensway",22.278485362091,114.16447808053,10
+2,Citybus,inbound,N/A,002967,"金星大廈, 駱克道","Golden Star Building, Lockhart Road",22.278188642091,114.16975256053,11
+2,Citybus,inbound,N/A,002423,"入境事務大樓, 告士打道","Immigration Tower, Gloucester Road",22.279435952091,114.17270317053,12
+2,Citybus,inbound,N/A,002561,"維多利亞公園, 告士打道","Victoria Park, Gloucester Road",22.279941672091,114.18746677053,13
+2,Citybus,inbound,N/A,001213,"維多利亞公園, 高士威道","Victoria Park, Causeway Road",22.281133262091,114.19006592053,14
+2,Citybus,inbound,N/A,001259,"銀幕街, 英皇道","Ngan Mok Street, King's Road",22.283615512091,114.19246041053,15
+2,Citybus,inbound,N/A,001260,"七海商業中心, 英皇道","7 Seas Shopping Centre, King's Road",22.287742812091,114.19296558053,16
+2,Citybus,inbound,N/A,001261,"電廠街, 英皇道","Tin Chong Street, King's Road",22.290056622091,114.19505769053,17
+2,Citybus,inbound,N/A,001262,"糖水道, 英皇道","Tong Shui Road, King's Road",22.290808072091,114.19810570053,18
+2,Citybus,inbound,N/A,001373,"琴行街, 英皇道","Kam Hong Street, King's Road",22.291435122091,114.20118525053,19
+2,Citybus,inbound,N/A,001264,"港運城, 英皇道","Island Place, King's Road",22.291703622091,114.20248986053,20
+2,Citybus,inbound,N/A,001265,"健康村, 英皇道","Healthy Village, King's Road",22.292089592091,114.20652344053,21
+2,Citybus,inbound,N/A,002677,"模範邨, 英皇道","Model Housing Estate, King's Road",22.291670382091,114.20785144053,22
+2,Citybus,inbound,N/A,001267,"北角官立小學, 英皇道","North Point Government Primary School, King's Road",22.288825782091,114.20986716053,23
+2,Citybus,inbound,N/A,001268,"新威園, 英皇道","Sunway Gardens, King's Road",22.285544382091,114.21133814053,24
+2,Citybus,inbound,N/A,001269,"惠安苑, 英皇道","Westlands Gardens, King's Road",22.284763112091,114.21319278053,25
+2,Citybus,inbound,N/A,001270,"太古城中心, 英皇道","Cityplaza, King's Road",22.285287892091,114.21758355053,26
+2,Citybus,inbound,N/A,001296,"太安樓, 筲箕灣道","Tai On Building, Shau Kei Wan Road",22.282504342091,114.22170603053,27
+2,Citybus,inbound,N/A,001297,"海晏街, 筲箕灣道","Hoi An Street, Shau Kei Wan Road",22.280776032091,114.22363882053,28
+2,Citybus,inbound,N/A,001298,"愛秩序灣道, 筲箕灣道","Aldrich Bay Road, Shau Kei Wan Road",22.280349712091,114.22504094053,29
+2,Citybus,inbound,N/A,001380,"南康街, 筲箕灣道","Nam Hong Street, Shau Kei Wan Road",22.278882572091,114.22627158053,30
+2,Citybus,inbound,N/A,001207,筲箕灣,Shau Kei Wan,22.278421122091,114.22833128053,31
+2,Citybus,inbound,N/A,001390,"愛東商場, 愛賢街","Oi Tung Shopping Centre, Oi Yin Street",22.281464672091,114.22809528053,32
+2,Citybus,inbound,N/A,003157,"東旭苑東曉閣, 愛勤道","Tung Hiu House Tung Yuk Court, Oi Kan Road",22.282753852091,114.22711622053,33
+2,Citybus,inbound,N/A,003155,西灣河 (嘉亨灣),Sai Wan Ho (Grand Promenade),22.284739002091,114.22425488053,34
+6,Citybus,inbound,N/A,002305,"赤柱監獄, 東頭灣道","Stanley Prison, Tung Tau Wan Road",22.215506742091,114.21766010053,1
+6,Citybus,inbound,N/A,002302,"聖士提反書院, 東頭灣道","St. Stephen's College, Tung Tau Wan Road",22.216536362091,114.21719449053,2
+6,Citybus,inbound,N/A,002277,赤柱村,Stanley Village,22.219212682091,114.21300366053,3
+6,Citybus,inbound,N/A,002378,赤柱廣場,Stanley Plaza,22.220223252091,114.20920230053,4
+6,Citybus,inbound,N/A,002387,"馬坑邨駿馬樓, 環角道","Chun Ma House Ma Hang Estate, Cape Road",22.222205242091,114.20584898053,5
+6,Citybus,inbound,N/A,002175,"馬坑邨觀馬樓, 環角道","Koon Ma House Ma Hang Estate, Cape Road",22.220581052091,114.20669370053,6
+6,Citybus,inbound,N/A,002180,"赤柱觀音寺, 環角道","Kwun Yum Buddhist Monastery, Cape Road",22.218424852091,114.20682598053,7
+6,Citybus,inbound,N/A,002178,"柏濤小築, 環角道","Cypresswaver Villas, Cape Road",22.217403942091,114.20637101053,8
+6,Citybus,inbound,N/A,002177,"環角徑, 環角道","Cape Drive, Cape Road",22.217298792091,114.20508929053,9
+6,Citybus,inbound,N/A,002375,"舂坎角海灘, 舂磡角道","Chung Hom Kok Beach, Chung Hom Kok Road",22.216125122091,114.20500513053,10
+6,Citybus,inbound,N/A,002377,"舂磡角道 72 號, 舂磡角道","72 Chung Hom Kok Road, Chung Hom Kok Road",22.216825052091,114.20473847053,11
+6,Citybus,inbound,N/A,002397,"海天徑, 舂磡角道","Horizon Drive, Chung Hom Kok Road",22.218475062091,114.20470134053,12
+6,Citybus,inbound,N/A,002194,"舂坎角消防局, 舂磡角道","Chung Hom Kok Fire Station, Chung Hom Kok Road",22.220322062091,114.20322613053,13
+6,Citybus,inbound,N/A,002192,"舂磡角道 11 號, 舂磡角道","11 Chung Hom Kok Road, Chung Hom Kok Road",22.223190412091,114.20293698053,14
+6,Citybus,inbound,N/A,002278,"赤柱崗道, 赤柱村道","Stanley Mound Road, Stanley Village Road",22.221785752091,114.21114294053,15
+6,Citybus,inbound,N/A,002279,"赤柱灘道, 赤柱村道","Stanley Beach Road, Stanley Village Road",22.224033782091,114.21335388053,16
+6,Citybus,inbound,N/A,002273,"赤柱峽道交匯處, 赤柱峽道","Stanley Gap Road Interchange, Stanley Gap Road",22.224874892091,114.21427843053,17
+6,Citybus,inbound,N/A,002270,赤柱峽道,Stanley Gap Road,22.224972082091,114.21015359053,18
+6,Citybus,inbound,N/A,002271,"衛奕信徑, 赤柱峽道","Wilson Trail, Stanley Gap Road",22.223579742091,114.20865812053,19
+6,Citybus,inbound,N/A,002272,"赫蘭道, 淺水灣道","Headland Road, Repulse Bay Road",22.225869452091,114.20314234053,20
+6,Citybus,inbound,N/A,002380,"淺水灣道 102 號, 淺水灣道","102 Repulse Bay Road, Repulse Bay Road",22.233938732091,114.20093324053,21
+6,Citybus,inbound,N/A,002242,"淺水灣道 90 號, 淺水灣道","90 Repulse Bay Road, Repulse Bay Road",22.235555362091,114.19964630053,22
+6,Citybus,inbound,N/A,002257,"淺水灣別墅, 淺水灣道","Repulse Bay Villas, Repulse Bay Road",22.238098772091,114.19806596053,23
+6,Citybus,inbound,N/A,002241,"淺水灣海灘, 淺水灣道","Repulse Bay Beach, Repulse Bay Road",22.238580522091,114.19490222053,24
+6,Citybus,inbound,N/A,002251,"麗景道, 淺水灣道","Belleview Drive, Repulse Bay Road",22.237393012091,114.19266000053,25
+6,Citybus,inbound,N/A,002381,"怡峰, 淺水灣道","The Somerset, Repulse Bay Road",22.237793702091,114.18966644053,26
+6,Citybus,inbound,N/A,002249,"曼克頓大廈, 淺水灣道","Manhattan Tower, Repulse Bay Road",22.240702802091,114.18913196053,27
+6,Citybus,inbound,N/A,002246,"明慧園, 淺水灣道","Ming Wai Garden, Repulse Bay Road",22.244158102091,114.19096981053,28
+6,Citybus,inbound,N/A,002370,"南山別墅, 淺水灣道","Monte Verde, Repulse Bay Road",22.246079362091,114.19109135053,29
+6,Citybus,inbound,N/A,002255,"淺水灣道 16 號, 淺水灣道","16 Repulse Bay Road, Repulse Bay Road",22.249572072091,114.19159341053,30
+6,Citybus,inbound,N/A,002258,"蔚峰園, 淺水灣道","The Brentwood, Repulse Bay Road",22.252812112091,114.19245051053,31
+6,Citybus,inbound,N/A,002544,"大潭水塘道, 黃泥涌峽道","Tai Tam Reservoir Road, Wong Nai Chung Gap Road",22.257461242091,114.19249610053,32
+6,Citybus,inbound,N/A,002545,"香港網球中心, 黃泥涌峽道","Hong Kong Tennis Centre, Wong Nai Chung Gap Road",22.259090472091,114.19230905053,33
+6,Citybus,inbound,N/A,002546,"怡園, 黃泥涌峽道","Woodland Heights, Wong Nai Chung Gap Road",22.263140312091,114.18575988053,34
+6,Citybus,inbound,N/A,002506,"寶雲道, 司徒拔道","Bowen Road, Stubbs Road",22.264303832091,114.18466630053,35
+6,Citybus,inbound,N/A,002507,"紀園, 司徒拔道","Craigmount, Stubbs Road",22.267170202091,114.18190378053,36
+6,Citybus,inbound,N/A,002508,"東山臺, 司徒拔道","Tung Shan Terrace, Stubbs Road",22.268329442091,114.18188256053,37
+6,Citybus,inbound,N/A,002509,"司徒拔道花園, 司徒拔道","Stubbs Road Garden, Stubbs Road",22.268619682091,114.17984819053,38
+6,Citybus,inbound,N/A,002510,"肇輝臺, 司徒拔道","Shiu Fai Terrace, Stubbs Road",22.270210462091,114.17842103053,39
+6,Citybus,inbound,N/A,002487,"香港華仁書院, 皇后大道東","Wah Yan College Hong Kong, Queen's Road East",22.274833802091,114.17623997053,40
+6,Citybus,inbound,N/A,002569,"胡忠大廈, 皇后大道東","Wu Chung House, Queen's Road East",22.274580512091,114.17250642053,41
+6,Citybus,inbound,N/A,002488,"聯發街, 皇后大道東","Lun Fat Street, Queen's Road East",22.276100292091,114.17002156053,42
+6,Citybus,inbound,N/A,002489,"太古廣場三座, 皇后大道東","Three Pacific Place, Queen's Road East",22.277274142091,114.16820458053,43
+6,Citybus,inbound,N/A,001140,"金鐘 - 太古廣場, 金鐘道","Admiralty - Pacific Place, Queensway",22.278070732091,114.16486695053,44
+6,Citybus,inbound,N/A,002596,"長江集團中心, 皇后大道中","Cheung Kong Center, Queen's Road Central",22.279863942091,114.15992504053,45
+6,Citybus,inbound,N/A,001106,畢打街,Pedder Street,22.281823852091,114.15738082053,46
+6,Citybus,inbound,N/A,001032,中環 (交易廣場),Central (Exchange Square),22.283695952091,114.15803274053,47
+9,Citybus,inbound,N/A,002939,石澳,Shek O,22.230736012091,114.25109673053,1
+9,Citybus,inbound,N/A,002947,"石澳警署, 石澳道","Shek O Police Station, Shek O Road",22.235314602091,114.24883709053,2
+9,Citybus,inbound,N/A,002954,大浪灣,Big Wave Bay,22.244700042091,114.24562718053,3
+9,Citybus,inbound,N/A,002948,"石澳道21號, 石澳道","21 Shek O Road, Shek O Road",22.236774682091,114.24834786053,4
+9,Citybus,inbound,N/A,002949,"石澳道 1 號, 石澳道","1 Shek O Road, Shek O Road",22.232897422091,114.24740221053,5
+9,Citybus,inbound,N/A,002950,"石澳道 4 號, 石澳道","4 Shek O Road, Shek O Road",22.230168202091,114.24668934053,6
+9,Citybus,inbound,N/A,002955,"鶴咀, 鶴咀道","Cape D'Aguilar, Cape D'Aguilar Road",22.221425802091,114.24354178053,7
+9,Citybus,inbound,N/A,002951,"石礦場, 石澳道","Quarry, Shek O Road",22.225075352091,114.24103205053,8
+9,Citybus,inbound,N/A,002952,"土地灣, 石澳道","To Tei Wan, Shek O Road",22.227066172091,114.23967958053,9
+9,Citybus,inbound,N/A,002953,"爛泥灣, 石澳道","Lan Nai Wan, Shek O Road",22.237485362091,114.23787703053,10
+9,Citybus,inbound,N/A,002785,"蓮鶴仙觀, 石澳道","Lin Hok Sin Koon, Shek O Road",22.243891662091,114.23546201053,11
+9,Citybus,inbound,N/A,002786,"歌連臣角, 石澳道","Cape Collinson, Shek O Road",22.256441122091,114.22986259053,12
+9,Citybus,inbound,N/A,002787,"大潭道, 石澳道","Tai Tam Road, Shek O Road",22.257114492091,114.22848066053,13
+9,Citybus,inbound,N/A,001321,"舊女童軍訓練中心, 大潭道","Old Girl Guides Cecilia Mar Venture House, Tai Tam Road",22.263971382091,114.23059713053,14
+9,Citybus,inbound,N/A,001322,"山翠苑, 大潭道","Shan Tsui Court, Tai Tam Road",22.269012232091,114.23272045053,15
+9,Citybus,inbound,N/A,001232,"筲箕灣官立中學, 柴灣道","Shau Kei Wan Government Secondary School, Chai Wan Road",22.272471812091,114.23263770053,16
+9,Citybus,inbound,N/A,001233,"阿公岩道, 柴灣道","A Kung Ngam Road, Chai Wan Road",22.274719782091,114.23085406053,17
+9,Citybus,inbound,N/A,001207,筲箕灣,Shau Kei Wan,22.278421122091,114.22833128053,18
+10,Citybus,inbound,N/A,001249,北角碼頭,North Point Ferry Pier,22.293287872091,114.20149753053,1
+10,Citybus,inbound,N/A,001279,"琴行街, 英皇道","Kam Hong Street, King's Road",22.291204122091,114.20095851053,2
+10,Citybus,inbound,N/A,001280,"新都城大廈, 英皇道","Metropole Building, King's Road",22.290876932091,114.19937984053,3
+10,Citybus,inbound,N/A,001364,"長康街, 英皇道","Cheung Hong Street, King's Road",22.290176642091,114.19594569053,4
+10,Citybus,inbound,N/A,001283,"炮台山站, 英皇道","Fortress Hill Station, King's Road",22.288146742091,114.19355472053,5
+10,Citybus,inbound,N/A,001286,"清風街, 英皇道","Tsing Fung Street, King's Road",22.284713662091,114.19291666053,6
+10,Citybus,inbound,N/A,001214,"皇仁書院, 高士威道","Queen's College, Causeway Road",22.281286912091,114.19065162053,7
+10,Citybus,inbound,N/A,001215,"香港中央圖書館, 高士威道","Hong Kong Central Library, Causeway Road",22.280082042091,114.18887826053,8
+10,Citybus,inbound,N/A,002457,"加路連山道, 禮頓道","Caroline Hill Road, Leighton Road",22.277432082091,114.18577553053,9
+10,Citybus,inbound,N/A,002547,"體育道, 黃泥涌道","Sports Road, Wong Nai Chung Road",22.276258492091,114.18256067053,10
+10,Citybus,inbound,N/A,002548,"樂活道, 黃泥涌道","Broadwood Road, Wong Nai Chung Road",22.274365592091,114.18345343053,11
+10,Citybus,inbound,N/A,002550,跑馬地 (下),Happy Valley (Lower),22.270337792091,114.18483108053,12
+10,Citybus,inbound,N/A,002552,"養和醫院, 黃泥涌道","Hong Kong Sanatorium and Hospital, Wong Nai Chung Road",22.270151022091,114.18267105053,13
+10,Citybus,inbound,N/A,002458,"紀利華木球會, 禮頓道","Craigengower Cricket Club, Leighton Road",22.276970692091,114.18220985053,14
+10,Citybus,inbound,N/A,002558,"跑馬地馬場, 摩理臣山道","Happy Valley Racecourse, Morrison Hill Road",22.275441072091,114.18030536053,15
+10,Citybus,inbound,N/A,002486,"錫克廟, 皇后大道東","Khalsa Diwan Sikh Temple, Queen's Road East",22.274802192091,114.17851714053,16
+10,Citybus,inbound,N/A,002487,"香港華仁書院, 皇后大道東","Wah Yan College Hong Kong, Queen's Road East",22.274833802091,114.17623997053,17
+10,Citybus,inbound,N/A,002569,"胡忠大廈, 皇后大道東","Wu Chung House, Queen's Road East",22.274580512091,114.17250642053,18
+10,Citybus,inbound,N/A,002488,"聯發街, 皇后大道東","Lun Fat Street, Queen's Road East",22.276100292091,114.17002156053,19
+10,Citybus,inbound,N/A,002489,"太古廣場三座, 皇后大道東","Three Pacific Place, Queen's Road East",22.277274142091,114.16820458053,20
+10,Citybus,inbound,N/A,001140,"金鐘 - 太古廣場, 金鐘道","Admiralty - Pacific Place, Queensway",22.278070732091,114.16486695053,21
+10,Citybus,inbound,N/A,001142,"中銀大廈, 金鐘道","Bank of China Tower, Queensway",22.279480102091,114.16214434053,22
+10,Citybus,inbound,N/A,001054,"置地廣場, 德輔道中","The Landmark, Des Voeux Road Central",22.281316152091,114.15825054053,23
+10,Citybus,inbound,N/A,001121,"中環街市, 域多利皇后街","Central Market, Queen Victoria Street",22.283815052091,114.15559526053,24
+10,Citybus,inbound,N/A,001125,"威靈頓街, 皇后大道中","Wellington Street, Queen's Road Central",22.284833042091,114.15330172053,25
+10,Citybus,inbound,N/A,001126,"荷李活華庭, 皇后大道中","Hollywood Terrace, Queen's Road Central",22.284443202091,114.15115814053,26
+10,Citybus,inbound,N/A,001127,"上環文娛中心, 皇后大道中","Sheung Wan Civic Centre, Queen's Road Central",22.285970352091,114.14910338053,27
+10,Citybus,inbound,N/A,001134,"帝后華庭, 皇后大道西","Queen's Terrace, Queen's Road West",22.286525342091,114.14736012053,28
+10,Citybus,inbound,N/A,001135,"修打蘭街, 皇后大道西","Sutherland Street, Queen's Road West",22.286631802091,114.14534782053,29
+10,Citybus,inbound,N/A,001129,"東邊街, 皇后大道西","Eastern Street, Queen's Road West",22.286847912091,114.14426832053,30
+10,Citybus,inbound,N/A,001130,"正街, 皇后大道西","Centre Street, Queen's Road West",22.286844142091,114.14276129053,31
+10,Citybus,inbound,N/A,001131,"西邊街, 皇后大道西","Western Street, Queen's Road West",22.286915762091,114.14144558053,32
+10,Citybus,inbound,N/A,001132,"朝光街, 皇后大道西","Chiu Kwong Street, Queen's Road West",22.286757962091,114.13975003053,33
+10,Citybus,inbound,N/A,001133,"石塘咀市政大廈, 皇后大道西","Shek Tong Tsui Complex, Queen's Road West",22.285969012091,114.13561606053,34
+10,Citybus,inbound,N/A,001128,"日富里, 皇后大道西","Yat Fu Lane, Queen's Road West",22.286430502091,114.13350308053,35
+10,Citybus,inbound,N/A,001002,"西寶城, 卑路乍街","The Westwood, Belcher's Street",22.286057592091,114.13262448053,36
+10,Citybus,inbound,N/A,001003,"山市街, 卑路乍街","Sands Street, Belcher's Street",22.283632272091,114.13063421053,37
+10,Citybus,inbound,N/A,001005,"聯邦新樓, 卑路乍街","Luen Bong Apartment, Belcher's Street",22.282463392091,114.12760792053,38
+10,Citybus,inbound,N/A,001164,"加惠民道, 域多利道","Ka Wai Man Road, Victoria Road",22.282072692091,114.12493465053,39
+10,Citybus,inbound,N/A,001152,堅尼地城,Kennedy Town,22.282465512091,114.12322612053,40
+101,Citybus,inbound,N/A,002977,觀塘 (裕民坊),Kwun Tong (Yue Man Square),22.314506752091,114.22472004053,1
+101,Citybus,inbound,N/A,001648,"牛頭角站, 牛頭角道","Ngau Tau Kok Station, Ngau Tau Kok Road",22.315247332091,114.21981384053,2
+101,Citybus,inbound,N/A,001650,"觀塘官立小學, 牛頭角道","Kwun Tong Government Primary School, Ngau Tau Kok Road",22.316965702091,114.21762044053,3
+101,Citybus,inbound,N/A,002978,"牛頭角下邨, 牛頭角道","Lower Ngau Tau Kok Estate, Ngau Tau Kok Road",22.320004152091,114.21526898053,4
+101,Citybus,inbound,N/A,002979,"淘大花園, 牛頭角道","Amoy Gardens, Ngau Tau Kok Road",22.324506682091,114.21538780053,5
+101,Citybus,inbound,N/A,002889,"啟業邨, 觀塘道","Kai Yip Estate, Kwun Tong Road",22.330495182091,114.20984372053,6
+101,Citybus,inbound,N/A,001502,"麗晶花園, 太子道東","Richland Gardens, Prince Edward Road East",22.332582922091,114.20691744053,7
+101,Citybus,inbound,N/A,001575,"采頤花園, 太子道東","Rhythm Garden, Prince Edward Road East",22.334936902091,114.20201687053,8
+101,Citybus,inbound,N/A,001576,"譽港灣, 太子道東","The Latitude, Prince Edward Road East",22.332221292091,114.19699015053,9
+101,Citybus,inbound,N/A,001577,"富豪東方酒店, 太子道東","Regal Oriental Hotel, Prince Edward Road East",22.327146622091,114.19053280053,10
+101,Citybus,inbound,N/A,001530,"木廠街, 馬頭涌道","Mok Cheong Street, Ma Tau Chung Road",22.323261842091,114.18821017053,11
+101,Citybus,inbound,N/A,001538,"土瓜灣街市, 馬頭圍道","To Kwa Wan Market, Ma Tau Wai Road",22.317651292091,114.18770359053,12
+101,Citybus,inbound,N/A,001643,"浙江街遊樂場, 漆咸道北","Chi Kiang Street Playground, Chatham Road North",22.313753452091,114.18730143053,13
+101,Citybus,inbound,N/A,001644,"北拱街, 漆咸道北","Pak Kung Street, Chatham Road North",22.311833242091,114.18612626053,14
+101,Citybus,inbound,N/A,001415,"平治街, 漆咸道北","Ping Chi Street, Chatham Road North",22.309564142091,114.18459248053,15
+101,Citybus,inbound,N/A,001476,海底隧道巴士轉乘站,Cross Harbour Tunnel Bus-Bus Interchange,22.303015922091,114.18084154053,16
+101,Citybus,inbound,N/A,002441,"天樂里, 軒尼詩道","Tin Lok Lane, Hennessy Road",22.278925922091,114.18029774053,17
+101,Citybus,inbound,N/A,002444,"軒尼詩道官立小學, 軒尼詩道","Hennessy Road Government Primary School, Hennessy Road",22.277744552091,114.17543474053,18
+101,Citybus,inbound,N/A,002566,"利景酒店, 灣仔道","The Charterhouse, Wan Chai Road",22.277832632091,114.17916549053,19
+101,Citybus,inbound,N/A,002537,"普樂里, 灣仔道","Bullock Lane, Wan Chai Road",22.276798792091,114.17597252053,20
+101,Citybus,inbound,N/A,002446,"修頓球場, 軒尼詩道","Southorn Playground, Hennessy Road",22.277433042091,114.17187855053,21
+101,Citybus,inbound,N/A,001140,"金鐘 - 太古廣場, 金鐘道","Admiralty - Pacific Place, Queensway",22.278070732091,114.16486695053,22
+101,Citybus,inbound,N/A,001142,"中銀大廈, 金鐘道","Bank of China Tower, Queensway",22.279480102091,114.16214434053,23
+101,Citybus,inbound,N/A,001054,"置地廣場, 德輔道中","The Landmark, Des Voeux Road Central",22.281316152091,114.15825054053,24
+101,Citybus,inbound,N/A,001121,"中環街市, 域多利皇后街","Central Market, Queen Victoria Street",22.283815052091,114.15559526053,25
+101,Citybus,inbound,N/A,001125,"威靈頓街, 皇后大道中","Wellington Street, Queen's Road Central",22.284833042091,114.15330172053,26
+101,Citybus,inbound,N/A,001126,"荷李活華庭, 皇后大道中","Hollywood Terrace, Queen's Road Central",22.284443202091,114.15115814053,27
+101,Citybus,inbound,N/A,001127,"上環文娛中心, 皇后大道中","Sheung Wan Civic Centre, Queen's Road Central",22.285970352091,114.14910338053,28
+101,Citybus,inbound,N/A,001134,"帝后華庭, 皇后大道西","Queen's Terrace, Queen's Road West",22.286525342091,114.14736012053,29
+101,Citybus,inbound,N/A,001130,"正街, 皇后大道西","Centre Street, Queen's Road West",22.286844142091,114.14276129053,30
+101,Citybus,inbound,N/A,001132,"朝光街, 皇后大道西","Chiu Kwong Street, Queen's Road West",22.286757962091,114.13975003053,31
+101,Citybus,inbound,N/A,001133,"石塘咀市政大廈, 皇后大道西","Shek Tong Tsui Complex, Queen's Road West",22.285969012091,114.13561606053,32
+101,Citybus,inbound,N/A,001128,"日富里, 皇后大道西","Yat Fu Lane, Queen's Road West",22.286430502091,114.13350308053,33
+101,Citybus,inbound,N/A,001003,"山市街, 卑路乍街","Sands Street, Belcher's Street",22.283632272091,114.13063421053,34
+101,Citybus,inbound,N/A,001005,"聯邦新樓, 卑路乍街","Luen Bong Apartment, Belcher's Street",22.282463392091,114.12760792053,35
+101,Citybus,inbound,N/A,001164,"加惠民道, 域多利道","Ka Wai Man Road, Victoria Road",22.282072692091,114.12493465053,36
+101,Citybus,inbound,N/A,001152,堅尼地城,Kennedy Town,22.282465512091,114.12322612053,37
+102,Citybus,inbound,N/A,001685,美孚,Mei Foo,22.337238502091,114.14007882053,1
+102,Citybus,inbound,N/A,001436,"荔枝角站, 長沙灣道","Lai Chi Kok Station, Cheung Sha Wan Road",22.337482972091,114.14837354053,2
+102,Citybus,inbound,N/A,001437,"昌華街, 長沙灣道","Cheung Wah Street, Cheung Sha Wan Road",22.338601292091,114.15198567053,3
+102,Citybus,inbound,N/A,001440,"長沙灣站, 長沙灣道","Cheung Sha Wan Station, Cheung Sha Wan Road",22.336700112091,114.15486415053,4
+102,Citybus,inbound,N/A,001441,"東京街, 長沙灣道","Tonkin Street, Cheung Sha Wan Road",22.335144032091,114.15680913053,5
+102,Citybus,inbound,N/A,001443,"欽州街, 長沙灣道","Yen Chow Street, Cheung Sha Wan Road",22.332255142091,114.16045790053,6
+102,Citybus,inbound,N/A,001444,"北河街, 長沙灣道","Pei Ho Street, Cheung Sha Wan Road",22.330910012091,114.16219576053,7
+102,Citybus,inbound,N/A,001447,"楓樹街, 長沙灣道","Maple Street, Cheung Sha Wan Road",22.328333182091,114.16552917053,8
+102,Citybus,inbound,N/A,001556,"太子站, 彌敦道","Prince Edward Station, Nathan Road",22.325863322091,114.16808965053,9
+102,Citybus,inbound,N/A,001557,"聯合廣場, 彌敦道","Allied Plaza, Nathan Road",22.323454062091,114.16858963053,10
+102,Citybus,inbound,N/A,001559,"銀行中心, 彌敦道","Bank Centre, Nathan Road",22.318424162091,114.16962058053,11
+102,Citybus,inbound,N/A,001562,"登打士街, 彌敦道","Dundas Street, Nathan Road",22.314748642091,114.17037382053,12
+102,Citybus,inbound,N/A,001564,"文明里, 彌敦道","Man Ming Lane, Nathan Road",22.312210192091,114.17088450053,13
+102,Citybus,inbound,N/A,001471,"勞資審裁處, 加士居道","Labour Tribunal, Gascoigne Road",22.308028422091,114.17252808053,14
+102,Citybus,inbound,N/A,001411,"香港理工大學第八期, 漆咸道北","Hong Kong Polytechnic University Phase 8, Chatham Road North",22.306388992091,114.17999535053,15
+102,Citybus,inbound,N/A,001476,海底隧道巴士轉乘站,Cross Harbour Tunnel Bus-Bus Interchange,22.303015922091,114.18084154053,16
+102,Citybus,inbound,N/A,002561,"維多利亞公園, 告士打道","Victoria Park, Gloucester Road",22.279941672091,114.18746677053,17
+102,Citybus,inbound,N/A,001213,"維多利亞公園, 高士威道","Victoria Park, Causeway Road",22.281133262091,114.19006592053,18
+102,Citybus,inbound,N/A,001259,"銀幕街, 英皇道","Ngan Mok Street, King's Road",22.283615512091,114.19246041053,19
+102,Citybus,inbound,N/A,001260,"七海商業中心, 英皇道","7 Seas Shopping Centre, King's Road",22.287742812091,114.19296558053,20
+102,Citybus,inbound,N/A,001261,"電廠街, 英皇道","Tin Chong Street, King's Road",22.290056622091,114.19505769053,21
+102,Citybus,inbound,N/A,001262,"糖水道, 英皇道","Tong Shui Road, King's Road",22.290808072091,114.19810570053,22
+102,Citybus,inbound,N/A,001264,"港運城, 英皇道","Island Place, King's Road",22.291703622091,114.20248986053,23
+102,Citybus,inbound,N/A,001265,"健康村, 英皇道","Healthy Village, King's Road",22.292089592091,114.20652344053,24
+102,Citybus,inbound,N/A,002677,"模範邨, 英皇道","Model Housing Estate, King's Road",22.291670382091,114.20785144053,25
+102,Citybus,inbound,N/A,001267,"北角官立小學, 英皇道","North Point Government Primary School, King's Road",22.288825782091,114.20986716053,26
+102,Citybus,inbound,N/A,001268,"新威園, 英皇道","Sunway Gardens, King's Road",22.285544382091,114.21133814053,27
+102,Citybus,inbound,N/A,001393,"船塢里, 英皇道","Shipyard Lane, King's Road",22.284773752091,114.21420833053,28
+102,Citybus,inbound,N/A,001270,"太古城中心, 英皇道","Cityplaza, King's Road",22.285287892091,114.21758355053,29
+102,Citybus,inbound,N/A,001296,"太安樓, 筲箕灣道","Tai On Building, Shau Kei Wan Road",22.282504342091,114.22170603053,30
+102,Citybus,inbound,N/A,001297,"海晏街, 筲箕灣道","Hoi An Street, Shau Kei Wan Road",22.280776032091,114.22363882053,31
+102,Citybus,inbound,N/A,001298,"愛秩序灣道, 筲箕灣道","Aldrich Bay Road, Shau Kei Wan Road",22.280349712091,114.22504094053,32
+102,Citybus,inbound,N/A,002694,"愛賢街, 愛秩序灣道","Oi Yin Street, Aldrich Bay Road",22.279807302091,114.22720635053,33
+102,Citybus,inbound,N/A,001207,筲箕灣,Shau Kei Wan,22.278421122091,114.22833128053,34
+103,Citybus,inbound,N/A,001455,竹園邨,Chuk Yuen Estate,22.345331622091,114.19223916053,1
+103,Citybus,inbound,N/A,001456,"竹園南邨榮園樓, 竹園道","Wing Yuen House Chuk Yuen South Estate, Chuk Yuen Road",22.345057642091,114.19015178053,2
+103,Citybus,inbound,N/A,001528,"馬仔坑遊樂場, 馬仔坑道","Ma Chai Hang Recreation Ground, Ma Chai Hang Road",22.344207032091,114.18775842053,3
+103,Citybus,inbound,N/A,001465,"橫頭磡邨宏業樓, 富美街","Wang Yip House Wang Tau Hom Estate, Fu Mei Street",22.340518792091,114.18872883053,4
+103,Citybus,inbound,N/A,001615,樂富邨,Lok Fu Estate,22.339000952091,114.18790862053,5
+103,Citybus,inbound,N/A,001488,"浸會大學逸夫校園, 聯合道","HKBU Shaw Campus, Junction Road",22.339184602091,114.18258831053,6
+103,Citybus,inbound,N/A,001622,"聯合道, 窩打老道","Junction Road, Waterloo Road",22.337980182091,114.17926076053,7
+103,Citybus,inbound,N/A,001623,"九龍塘站, 窩打老道","Kowloon Tong Station, Waterloo Road",22.335714472091,114.17908178053,8
+103,Citybus,inbound,N/A,001624,"龍濤花園, 窩打老道","La Villa, Waterloo Road",22.331146882091,114.17880952053,9
+103,Citybus,inbound,N/A,001625,"九龍醫院, 窩打老道","Kowloon Hospital, Waterloo Road",22.323544842091,114.17836146053,10
+103,Citybus,inbound,N/A,001626,"萬基大廈, 窩打老道","Man Kee Mansion, Waterloo Road",22.320013062091,114.17668017053,11
+103,Citybus,inbound,N/A,001627,"何文田街, 窩打老道","Ho Man Tin Street, Waterloo Road",22.317680232091,114.17493643053,12
+103,Citybus,inbound,N/A,001633,"何文田山道, 衛理道","Ho Man Tin Hill Road, Wylie Road",22.312577702091,114.17603903053,13
+103,Citybus,inbound,N/A,001634,"伊利沙伯醫院, 衛理道","Queen Elizabeth Hospital, Wylie Road",22.308976842091,114.17638277053,14
+103,Citybus,inbound,N/A,001411,"香港理工大學第八期, 漆咸道北","Hong Kong Polytechnic University Phase 8, Chatham Road North",22.306388992091,114.17999535053,15
+103,Citybus,inbound,N/A,001537,海底隧道巴士轉乘站,Cross Harbour Tunnel Bus-Bus Interchange,22.302678002091,114.18065137053,16
+103,Citybus,inbound,N/A,002568,"百德新街, 告士打道","Paterson Street, Gloucester Road",22.282502402091,114.18503389053,17
+103,Citybus,inbound,N/A,002415,"伊利莎伯大廈, 告士打道","Elizabeth House, Gloucester Road",22.281055962091,114.18141062053,18
+103,Citybus,inbound,N/A,002563,"馬師道, 告士打道","Marsh Road, Gloucester Road",22.280426062091,114.17971701053,19
+103,Citybus,inbound,N/A,002416,"史釗域道, 告士打道","Stewart Road, Gloucester Road",22.279560092091,114.17698751053,20
+103,Citybus,inbound,N/A,002418,"柯布連道, 告士打道","O'Brien Road, Gloucester Road",22.279144192091,114.17345730053,21
+103,Citybus,inbound,N/A,002420,"分域街, 告士打道","Fenwick Street, Gloucester Road",22.279104112091,114.17085514053,22
+103,Citybus,inbound,N/A,001090,美利道,Murray Road,22.280306002091,114.16188677053,23
+103,Citybus,inbound,N/A,001041,"香港公園, 紅棉路","Hong Kong Park, Cotton Tree Drive",22.277664742091,114.16044539053,24
+103,Citybus,inbound,N/A,001078,"堅麗閣, 堅尼地道","Kennedy Heights, Kennedy Road",22.276481502091,114.15748729053,25
+103,Citybus,inbound,N/A,001018,"明愛中心, 堅道","Caritas Centre, Caine Road",22.279434502091,114.15420482053,26
+103,Citybus,inbound,N/A,001019,"孫中山紀念館, 堅道","Dr Sun Yat-sen Museum, Caine Road",22.281336102091,114.15190655053,27
+103,Citybus,inbound,N/A,001020,"樓梯街, 堅道","Ladder Street, Caine Road",22.282821442091,114.14949489053,28
+103,Citybus,inbound,N/A,001021,"西摩道, 堅道","Seymour Road, Caine Road",22.283159702091,114.14786353053,29
+103,Citybus,inbound,N/A,001011,"豫苑, 般咸道","Euston Court, Bonham Road",22.284879112091,114.14515677053,30
+103,Citybus,inbound,N/A,001013,"東邊街, 般咸道","Eastern Street, Bonham Road",22.284209702091,114.14433785053,31
+103,Citybus,inbound,N/A,001014,"正街, 般咸道","Centre Street, Bonham Road",22.284394942091,114.14230475053,32
+103,Citybus,inbound,N/A,001012,"香港大學東閘, 般咸道","HKU East Gate, Bonham Road",22.283960482091,114.13870250053,33
+103,Citybus,inbound,N/A,001116,"香港大學西閘, 薄扶林道","HKU West Gate, Pok Fu Lam Road",22.283588212091,114.13569933053,34
+103,Citybus,inbound,N/A,001117,"何東夫人堂, 薄扶林道","Lady Ho Tung Hall, Pok Fu Lam Road",22.283819002091,114.13341793053,35
+103,Citybus,inbound,N/A,001115,蒲飛路,Pokfield Road,22.281620582091,114.13225102053,36
+104,Citybus,inbound,N/A,002825,白田邨,Pak Tin Estate,22.336271232091,114.16594467053,1
+104,Citybus,inbound,N/A,002827,"白田邨麗田樓, 偉倫街","Lai Tin House Pak Tin Estate, Wai Lun Street",22.335019812091,114.16727682053,2
+104,Citybus,inbound,N/A,003190,"石硤尾邨美映樓, 南昌街","Mei Ying House Shek Kip Mei Estate, Nam Cheong Street",22.334216712091,114.16786701053,3
+104,Citybus,inbound,N/A,002830,"石硤尾站, 窩仔街","Shek Kip Mei Station, Woh Chai Street",22.331883842091,114.16783961053,4
+104,Citybus,inbound,N/A,002831,"大坑西新邨民樂樓, 窩仔街","Man Lok House Tai Hang Sai Estate, Woh Chai Street",22.331603112091,114.16915727053,5
+104,Citybus,inbound,N/A,002832,"協同中學, 大坑東道","Concordia Lutheran School, Tai Hang Tung Road",22.330954892091,114.17165116053,6
+104,Citybus,inbound,N/A,002833,"大坑東遊樂場, 大坑東道","Tai Hang Tung Recreation Ground, Tai Hang Tung Road",22.328150242091,114.17217151053,7
+104,Citybus,inbound,N/A,002834,勵德街,Knight Street,22.325886452091,114.17632775053,8
+104,Citybus,inbound,N/A,002835,"協和小學, 太子道西","Heep Woh Primary School, Prince Edward Road West",22.324704672091,114.17284338053,9
+104,Citybus,inbound,N/A,001557,"聯合廣場, 彌敦道","Allied Plaza, Nathan Road",22.323454062091,114.16858963053,10
+104,Citybus,inbound,N/A,001775,"旺角中心, 彌敦道","Argyle Centre, Nathan Road",22.319681842091,114.16936520053,11
+104,Citybus,inbound,N/A,001560,"山東街, 彌敦道","Shantung Street, Nathan Road",22.317136402091,114.16988485053,12
+104,Citybus,inbound,N/A,001562,"登打士街, 彌敦道","Dundas Street, Nathan Road",22.314748642091,114.17037382053,13
+104,Citybus,inbound,N/A,001564,"文明里, 彌敦道","Man Ming Lane, Nathan Road",22.312210192091,114.17088450053,14
+104,Citybus,inbound,N/A,001471,"勞資審裁處, 加士居道","Labour Tribunal, Gascoigne Road",22.308028422091,114.17252808053,15
+104,Citybus,inbound,N/A,001411,"香港理工大學第八期, 漆咸道北","Hong Kong Polytechnic University Phase 8, Chatham Road North",22.306388992091,114.17999535053,16
+104,Citybus,inbound,N/A,001476,海底隧道巴士轉乘站,Cross Harbour Tunnel Bus-Bus Interchange,22.303015922091,114.18084154053,17
+104,Citybus,inbound,N/A,002570,"伊利莎伯大廈, 告士打道","Elizabeth House, Gloucester Road",22.281546792091,114.18126242053,18
+104,Citybus,inbound,N/A,002417,"國際調解院, 告士打道","International Organization for Mediation, Gloucester Road",22.279365262091,114.17502194053,19
+104,Citybus,inbound,N/A,002419,"六國酒店, 告士打道","Gloucester Luk Kwok, Gloucester Road",22.279008442091,114.17233107053,20
+104,Citybus,inbound,N/A,002448,"循道衛理大廈, 軒尼詩道","Methodist House, Hennessy Road",22.277587912091,114.16981359053,21
+104,Citybus,inbound,N/A,001140,"金鐘 - 太古廣場, 金鐘道","Admiralty - Pacific Place, Queensway",22.278070732091,114.16486695053,22
+104,Citybus,inbound,N/A,001142,"中銀大廈, 金鐘道","Bank of China Tower, Queensway",22.279480102091,114.16214434053,23
+104,Citybus,inbound,N/A,001054,"置地廣場, 德輔道中","The Landmark, Des Voeux Road Central",22.281316152091,114.15825054053,24
+104,Citybus,inbound,N/A,001121,"中環街市, 域多利皇后街","Central Market, Queen Victoria Street",22.283815052091,114.15559526053,25
+104,Citybus,inbound,N/A,001125,"威靈頓街, 皇后大道中","Wellington Street, Queen's Road Central",22.284833042091,114.15330172053,26
+104,Citybus,inbound,N/A,001126,"荷李活華庭, 皇后大道中","Hollywood Terrace, Queen's Road Central",22.284443202091,114.15115814053,27
+104,Citybus,inbound,N/A,001127,"上環文娛中心, 皇后大道中","Sheung Wan Civic Centre, Queen's Road Central",22.285970352091,114.14910338053,28
+104,Citybus,inbound,N/A,001134,"帝后華庭, 皇后大道西","Queen's Terrace, Queen's Road West",22.286525342091,114.14736012053,29
+104,Citybus,inbound,N/A,001130,"正街, 皇后大道西","Centre Street, Queen's Road West",22.286844142091,114.14276129053,30
+104,Citybus,inbound,N/A,001132,"朝光街, 皇后大道西","Chiu Kwong Street, Queen's Road West",22.286757962091,114.13975003053,31
+104,Citybus,inbound,N/A,001133,"石塘咀市政大廈, 皇后大道西","Shek Tong Tsui Complex, Queen's Road West",22.285969012091,114.13561606053,32
+104,Citybus,inbound,N/A,001128,"日富里, 皇后大道西","Yat Fu Lane, Queen's Road West",22.286430502091,114.13350308053,33
+104,Citybus,inbound,N/A,001003,"山市街, 卑路乍街","Sands Street, Belcher's Street",22.283632272091,114.13063421053,34
+104,Citybus,inbound,N/A,001005,"聯邦新樓, 卑路乍街","Luen Bong Apartment, Belcher's Street",22.282463392091,114.12760792053,35
+104,Citybus,inbound,N/A,001164,"加惠民道, 域多利道","Ka Wai Man Road, Victoria Road",22.282072692091,114.12493465053,36
+104,Citybus,inbound,N/A,001152,堅尼地城,Kennedy Town,22.282465512091,114.12322612053,37

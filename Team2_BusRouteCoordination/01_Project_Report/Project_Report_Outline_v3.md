@@ -1,4 +1,4 @@
-# Team 2: Bus Route Coordination - Project Report Outline v3
+# Team 2: Bus Route Coordination - Project Report Outline v4
 
 ## Project Overview
 **Team:** Bus Route Coordination Optimization
@@ -6,23 +6,23 @@
 **Final Deliverable:** 2,500-3,000 word group research report
 **Current Status:** Week 5 - Project Scoping & Planning
 
-## Core Research Question (Revised v3)
-**Primary Question:** What specific decisions does the Hong Kong Transport Department make regarding coordination of overlapping bus routes from different operators, and how can real-time data analysis inform these decisions?
+## Core Research Question (Revised v4)
+**Primary Question:** Is the Hong Kong Transport Department aware of coordination opportunities between overlapping bus routes from different operators, and what general principles do they follow when considering existing routes during new route approvals?
 
-**Specific Decision Focus:**
-- **The Decision Not to Coordinate:** Transport Department's decision not to coordinate overlapping routes (KMB 272A and Citybus 582)
-- **Data-Driven Decision Making:** How real-time data can inform coordination decisions
-- **Coordination Optimization:** Evidence-based approaches to route coordination
-- **Impact Analysis:** Consequences of coordination decisions on passenger experience and operational efficiency
+**Specific Focus Areas:**
+- **Awareness Assessment:** Whether TD recognizes coordination opportunities between overlapping routes (KMB 272A and Citybus 582)
+- **Approval Process Analysis:** How TD considers existing routes when approving new ones
+- **General Principles:** TD's established principles for route coordination decisions
+- **Coordination Opportunities:** Identification and evaluation of potential coordination benefits
 
-## Report Structure (Draft v3)
+## Report Structure (Draft v4)
 
 ### 1. Introduction (400-500 words)
-- **Background:** Hong Kong's public transportation system and the specific case of overlapping routes
-- **Research Problem:** Transport Department's decision not to coordinate overlapping routes from different operators
-- **Research Question:** What decisions does TD make about route coordination and how can real-time data inform these decisions?
-- **Significance:** Impact of coordination decisions on passenger experience and system efficiency
-- **Scope:** Focus on specific overlapping routes (KMB 272A and Citybus 582) and TD's coordination decisions
+- **Background:** Hong Kong's public transportation system and overlapping route coordination challenges
+- **Research Problem:** Whether TD is aware of coordination opportunities and how they consider existing routes in new approvals
+- **Research Question:** Is TD aware of coordination opportunities and what principles guide their route approval process?
+- **Significance:** Impact of coordination awareness on system efficiency and passenger experience
+- **Scope:** Focus on TD's awareness and decision-making principles for overlapping routes (KMB 272A and Citybus 582)
 - **Literature Context:** Bus stop layout optimization under coordinated control (Liu et al., 2017)
 
 ### 2. Literature Review (500-600 words)
@@ -34,59 +34,59 @@
 - **API Data Utilization:** Use of open data APIs for transportation analysis
 
 ### 3. Methodology (400-500 words)
-- **Research Design:** Focus on specific Transport Department decisions and real-time data analysis
+- **Research Design:** Focus on TD's awareness of coordination opportunities and general principles for route approvals
 - **Data Collection Strategy:** 
-  - Direct enquiry to TD about coordination decisions and data access
-  - Real-time API data collection from Hong Kong Government Open Data
-  - Analysis of TD's decision-making processes and criteria
-  - Assessment of available data for coordination decisions
+  - Direct enquiry to TD about awareness of coordination opportunities
+  - Investigation of TD's general principles for considering existing routes in new approvals
+  - Analysis of TD's decision-making processes and awareness frameworks
+  - Assessment of coordination opportunity identification processes
 - **Mathematical Models:** 
-  - Real-time data analysis for coordination decisions
-  - Simulation of coordinated vs. non-coordinated scenarios
-  - Performance metrics analysis using API data
-- **Analysis Framework:** Decision analysis focusing on TD's specific choices and real-time data utilization
+  - Analysis of coordination opportunity identification
+  - Simulation of awareness-based vs. non-awareness scenarios
+  - Performance metrics analysis for coordination opportunities
+- **Analysis Framework:** Awareness analysis focusing on TD's recognition of coordination opportunities and general principles
 
 ### 4. Data Analysis and Results (600-700 words)
-- **Transport Department Decision Analysis:** 
-  - Specific decisions made regarding route coordination
-  - Factors considered in decision-making process
-  - Data availability and utilization for decisions
-- **Real-time Data Analysis:**
-  - API data collection results for KMB 272A and Citybus 582
-  - Performance metrics analysis using real-time data
-  - Coordination effectiveness assessment
-- **Impact Analysis:**
-  - Consequences of current coordination decisions
-  - Comparison of coordinated vs. non-coordinated scenarios
-  - Passenger experience analysis using real-time data
+- **Transport Department Awareness Analysis:** 
+  - TD's awareness of coordination opportunities between overlapping routes
+  - General principles followed when considering existing routes in new approvals
+  - Awareness frameworks and identification processes
+- **Coordination Opportunity Analysis:**
+  - API data collection results for KMB 272A and Citybus 582 overlap analysis
+  - Performance metrics analysis for coordination opportunities
+  - Coordination effectiveness assessment based on awareness
+- **Approval Process Analysis:**
+  - How TD considers existing routes when approving new ones
+  - General principles and decision-making criteria
+  - Impact of awareness on approval decisions
 - **Key Findings:** 
-  - Specific decisions made by TD
-  - Real-time data insights for coordination decisions
-  - Impact of decisions on system performance
+  - TD's awareness level of coordination opportunities
+  - General principles for route approval considerations
+  - Impact of awareness on system coordination
 
 ### 5. Discussion and Recommendations (400-500 words)
-- **Decision-Making Analysis:** 
-  - Why TD makes specific coordination decisions
-  - Role of real-time data in decision-making process
-  - Factors influencing coordination choices
-- **Real-time Data Implications:** 
-  - How real-time data can improve decision-making
-  - Recommendations for enhanced data utilization
-- **Coordination Optimization:** 
-  - Evidence-based coordination strategies
-  - Implementation of real-time data-driven approaches
+- **Awareness Analysis:** 
+  - Why TD may or may not be aware of coordination opportunities
+  - Role of awareness in decision-making process
+  - Factors influencing awareness of coordination opportunities
+- **General Principles Implications:** 
+  - How general principles can improve coordination awareness
+  - Recommendations for enhanced awareness frameworks
+- **Coordination Opportunity Optimization:** 
+  - Evidence-based awareness strategies
+  - Implementation of awareness-driven approaches
 - **Policy Implications:** 
-  - How findings can inform transportation policy
-  - Recommendations for TD decision-making processes
+  - How findings can inform transportation policy awareness
+  - Recommendations for TD awareness and approval processes
 - **Stakeholder Perspectives:** 
   - Government, operators, and passenger considerations
-  - Impact of coordination decisions on different stakeholders
+  - Impact of awareness on coordination decisions
 
 ### 6. Conclusion (200-300 words)
-- **Summary of Findings:** Key insights about TD's coordination decisions and real-time data utilization
-- **Research Contributions:** Academic and practical contributions to understanding transportation decision-making
+- **Summary of Findings:** Key insights about TD's awareness of coordination opportunities and general principles
+- **Research Contributions:** Academic and practical contributions to understanding transportation awareness and decision-making
 - **Limitations:** Study limitations and areas for improvement
-- **Final Thoughts:** Implications for Hong Kong's transportation decision-making processes
+- **Final Thoughts:** Implications for Hong Kong's transportation awareness and approval processes
 
 ## Data Sources and Collection Strategy (Revised v3)
 
@@ -194,19 +194,19 @@
 - [ ] Supervisor feedback incorporated
 - [ ] Final proofread completed
 
-## Key Research Questions (Revised v3)
+## Key Research Questions (Revised v4)
 
 ### Primary Questions
-1. **What specific decisions does TD make about coordinating overlapping routes from different operators?**
-2. **What real-time data does TD have access to for making coordination decisions?**
-3. **How can real-time data analysis improve coordination decisions?**
-4. **What factors influence TD's coordination decisions and how can real-time data inform these factors?**
+1. **Is the Transport Department aware of coordination opportunities between overlapping routes from different operators?**
+2. **What general principles does TD follow when considering existing routes during new route approvals?**
+3. **How does TD identify and evaluate coordination opportunities between different operators?**
+4. **What factors influence TD's awareness and consideration of coordination opportunities?**
 
 ### Secondary Questions
-1. **What real-time data gaps exist in TD's decision-making process?**
-2. **How can real-time data availability be improved for better coordination decisions?**
-3. **What are the consequences of current coordination decisions on system performance?**
-4. **How can TD's decision-making process be improved using real-time data?**
+1. **What awareness gaps exist in TD's coordination opportunity identification process?**
+2. **How can awareness of coordination opportunities be improved for better route approvals?**
+3. **What are the consequences of coordination awareness (or lack thereof) on system performance?**
+4. **How can TD's awareness and approval processes be improved for better coordination?**
 
 ## Literature Integration
 
@@ -230,4 +230,4 @@
 
 ---
 
-*This v3 outline incorporates both the API data collection framework and literature insights from Liu et al. (2017), focusing on real-time data analysis to inform Transport Department coordination decisions.*
+*This v4 outline incorporates both the API data collection framework and literature insights from Liu et al. (2017), focusing on Transport Department awareness of coordination opportunities and general principles for route approvals.*

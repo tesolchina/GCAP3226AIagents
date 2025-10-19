@@ -1,0 +1,144 @@
+route_number,kmb_orig_en,kmb_dest_en,citybus_orig_en,citybus_dest_en,match_type
+91,CLEAR WATER BAY,DIAMOND HILL STATION,Ap Lei Chau Estate,Central (Ferry Piers),same_route_number
+93A,PO LAM,KWUN TONG FERRY,Lei Tung Estate,Robinson Road,same_route_number
+671X,AP LEI CHAU LEE LOK ST,DIAMOND HILL STATION,Ap Lei Chau (Lee Lok Street),Diamond Hill Station,same_route_number
+101X,KWUN TONG (YUE MAN SQUARE),KENNEDY TOWN,Kennedy Town,Kwun Tong (Yue Man Square),same_route_number
+26,SHUN TIN,TSIM SHA TSUI EAST,Lai Tak Tsuen,Hollywood Road,same_route_number
+112,NORTH POINT (PAK FUK ROAD),CHEUNG SHA WAN (SO UK ESTATE),North Point (Pak Fuk Road),So Uk Estate,same_route_number
+10,CHOI WAN,TAI KOK TSUI (CIRCULAR),Kennedy Town,North Point Ferry Pier,same_route_number
+914,HOI LAI ESTATE,CAUSEWAY BAY (TIN HAU),Tin Hau Station,Hoi Lai Estate,same_route_number
+118P,SIU SAI WAN (ISLAND RESORT),CHEUNG SHA WAN (SHAM MONG ROAD),Siu Sai Wan (Island Resort),Cheung Sha Wan (Sham Mong Road),same_route_number
+948A,TSING YI (CHEUNG ON ESTATE),CAUSEWAY BAY (TIN HAU),Cheung On Estate,Tin Hau Station,same_route_number
+985,MEI TIN (MEI CHI HOUSE),WAN CHAI,Shatin (Mei Tin Estate),Causeway Bay,same_route_number
+982X,YU CHUI COURT,WAN CHAI(FLEMING ROAD),Sha Tin (Yu Chui Court),Wan Chai,same_route_number
+40P,TSUEN WAN (NINA TOWER),KWUN TONG FERRY,Wah Fu (North),Robinson Road,same_route_number
+13,ANDERSON,SHAM SHUI PO (YEN CHOW ST),Admiralty (Tamar Street),Kotewall Road (Mid-levels),same_route_number
+106A,WONG TAI SIN,TAI KOO (KORNHILL PLAZA),Wong Tai Sin,Tai Koo (Kornhill Plaza),same_route_number
+SP10,KAI TAK SPORTS PARK,CENTRAL (MACAU FERRY),Kai Tak Sports Park,Central (Macau Ferry),same_route_number
+619P,SHUN LEE,CENTRAL (MACAU FERRY),Shun Lee Estate,Central (Macau Ferry),same_route_number
+41A,TSING YI (CHEUNG ON ESTATE),TSIM SHA TSUI EAST,Wah Fu (Central),North Point Ferry Pier,same_route_number
+981P,YIU ON,WAN CHAI (FLEMING ROAD),Ma On Shan (Yiu On Estate),Wan Chai,same_route_number
+9,CHOI FOOK,TSIM SHA TSUI EAST (MODY ROAD),Shau Kei Wan,Shek O,same_route_number
+78,SHA TAU KOK,SHEUNG SHUI (TAI PING),Wong Chuk Hang,Wah Kwai Estate,same_route_number
+681P,YIU ON,SHEUNG WAN,Ma On Shan (Yiu On Estate),Sheung Wan,same_route_number
+985B,TIN SAM VILLAGE,WAN CHAI,Tin Sam Village,Causeway Bay,same_route_number
+307P,TAI PO (TING TAI ROAD),CAUSEWAY BAY (TIN HAU),Tin Hau Station,Tai Po (Ting Tai Road / Fu Tip),same_route_number
+102,SHAU KEI WAN,MEI FOO,Shau Kei Wan,Mei Foo,same_route_number
+904,LAI CHI KOK,KENNEDY TOWN (BELCHER BAY),Kennedy Town (Belcher Bay),Lai Chi Kok,same_route_number
+82X,RAVANA GARDEN,WONG TAI SIN (CIRCULAR),Siu Sai Wan (Island Resort),Quarry Bay,same_route_number
+27,SHUN TIN,MONG KOK (CIRCULAR),North Point Ferry Pier,Braemar Hill,same_route_number
+11,DIAMOND HILL STATION,KOWLOON STATION,Central (Ferry Piers),Jardine's Lookout,same_route_number
+681,CENTRAL (HONG KONG STATION),MA ON SHAN TOWN CENTRE,Central (Hong Kong Station),Ma On Shan Town Centre,same_route_number
+102P,SHAU KEI WAN,MEI FOO,Shau Kei Wan,Mei Foo,same_route_number
+N118,CHEUNG SHA WAN (SHAM MONG ROAD),SIU SAI WAN (ISLAND RESORT),Siu Sai Wan (Island Resort),Cheung Sha Wan (Sham Mong Road),same_route_number
+118,CHEUNG SHA WAN (SHAM MONG ROAD),SIU SAI WAN (ISLAND RESORT),Siu Sai Wan (Island Resort),Cheung Sha Wan (Sham Mong Road),same_route_number
+116,TSZ WAN SHAN (CENTRAL),QUARRY BAY (YAU MAN STREET),Quarry Bay (Yau Man Street),Tsz Wan Shan (Central),same_route_number
+12A,WHAMPOA GARDEN,CHEUNG SHA WAN (HOI TAT ESTATE),Admiralty (Tamar Street),MacDonnell Road,same_route_number
+606X,KOWLOON BAY,SIU SAI WAN (ISLAND RESORT),Siu Sai Wan (Island Resort),Kowloon Bay,same_route_number
+N307,TAI WO,SHEUNG WAN,Sheung Wan,Tai Wo,same_route_number
+115,KOWLOON CITY FERRY,CENTRAL (MACAU FERRY),Central (Macau Ferry),Kowloon City Ferry Pier,same_route_number
+905A,EXHIBITION CENTRE STATION,LAI CHI KOK,Exhibition Centre Station,Lai Chi Kok,same_route_number
+103,CHUK YUEN ESTATE,POKFIELD RD,Pokfield Road,Chuk Yuen,same_route_number
+104,KENNEDY TOWN,Sham Shui Po (Pak Tin Estate),Kennedy Town,Pak Tin Estate,same_route_number
+111,PING SHEK / CHOI HUNG STATION,CENTRAL (MACAU FERRY),Central (Macau Ferry),Ping Shek Estate,same_route_number
+307,TAI PO CENTRAL,CENTRAL (CENTRAL FERRY PIERS),Tai Po Centre,Central (Ferry Piers) / Sheung Wan,same_route_number
+7,STAR FERRY,LOK FU,Shek Pai Wan,Central (Ferry Piers),same_route_number
+81,WO CHE,JORDAN (WEST KOWLOON STATION),Hing Wah Estate,Lai Tak Tsuen,same_route_number
+N171,LAI CHI KOK,AP LEI CHAU ESTATE,Ap Lei Chau Estate,Lai Chi Kok,same_route_number
+SP12,KAI TAK SPORTS PARK,LOK MA CHAU,Kai Tak Sports Park,Lok Ma Chau (San Tin),same_route_number
+72A,TAI WAI STATION,TAI PO INDUSTRIAL ESTATE,Sham Wan,Causeway Bay (Moreton Terrace),same_route_number
+111P,CHOI FOOK,CENTRAL (MACAU FERRY),Choi Fook Estate,Central (Macau Ferry),same_route_number
+85,FO TAN CHUN YEUNG ESTATE,KOWLOON CITY FERRY,Siu Sai Wan (Island Resort),Braemar Hill / North Point,same_route_number
+905,LAI CHI KOK,EXHIBITION CENTRE STATION,Exhibition Centre Station,Lai Chi Kok,same_route_number
+N182,KWONG YUEN,CENTRAL (MACAU FERRY),Central (Macau Ferry),Sha Tin (Kwong Yuen),same_route_number
+42,TSING YI (CHEUNG HONG ESTATE),SHUN LEE,Wah Fu (South),North Point Ferry Pier,same_route_number
+72,TAI PO (TAI WO),CHEUNG SHA WAN,Wah Kwai Estate,Causeway Bay (Moreton Terrace),same_route_number
+6,STAR FERRY,LAI CHI KOK,Central (Exchange Square),Stanley Market,same_route_number
+85P,NAI CHUNG,HUNG HOM (HUNG LUEN ROAD),Siu Sai Wan (Island Resort),Braemar Hill,same_route_number
+99,HENG ON,SAI KUNG,South Horizons,Shau Kei Wan,same_route_number
+18,CHEUNG SHA WAN (HOI TAT ESTATE),OI MAN (CIRCULAR),North Point (Healthy Street Central),Kennedy Town (Belcher Bay) / Sheung Wan,same_route_number
+680B,CHEVALIER GARDEN,ADMIRALTY STATION (EAST),Ma On Shan (Chevalier Garden),Admiralty (East),same_route_number
+73,FANLING (WAH MING),TAI PO INDUSTRIAL ESTATE,Cyberport / Wah Fu (North),Stanley Market,same_route_number
+671,DIAMOND HILL STATION,AP LEI CHAU LEE LOK ST,Ap Lei Chau (Lee Lok Street),Diamond Hill Station,same_route_number
+948B,GREENFIELD GARDEN,CAUSEWAY BAY (TIN HAU),Tsing Yi (Greenfield Garden),Tin Hau Station,same_route_number
+106P,WONG TAI SIN,SIU SAI WAN (ISLAND RESORT),Siu Sai Wan (Island Resort),Wong Tai Sin,same_route_number
+40,TSUEN WAN (BELVEDERE GARDEN),LAGUNA CITY,Wah Fu (North),Exhibition Centre Station,same_route_number
+948,TSING YI (CHEUNG ON ESTATE),CAUSEWAY BAY (TIN HAU),Tsing Yi (Cheung On Estate),Tin Hau Station,same_route_number
+37X,KWAI CHUNG ESTATE,YAU MA TEI,Chi Fu Fa Yuen,Admiralty,same_route_number
+73P,TSUEN WAN (NINA TOWER),TAI MEI TUK,Sham Wan,Cyberport,same_route_number
+619X,SHUN LEE,CENTRAL (MACAU FERRY),Shun Lee Estate,Central (Macau Ferry),same_route_number
+102R,HAPPY VALLEY RACE COURSE,MEI FOO,Happy Valley Racecourse,Mei Foo,same_route_number
+85A,KWONG YUEN,KOWLOON CITY FERRY,Shau Kei Wan,Braemar Hill,same_route_number
+42C,TSING YI (CHEUNG HANG ESTATE),LAM TIN STATION,Cyberport,North Point Ferry Pier,same_route_number
+109,HO MAN TIN,CENTRAL (MACAU FERRY),Central (Macau Ferry),Ho Man Tin Estate,same_route_number
+110,SHAU KEI WAN,TSIM SHA TSUI (CIRCULAR),Shau Kei Wan,Tsim Sha Tsui (Mody Road),same_route_number
+N121,CENTRAL (MACAU FERRY),NGAU TAU KOK,Central (Macau Ferry),Ngau Tau Kok,same_route_number
+14,LEI YUE MUN ESTATE,CHINA FERRY TERMINAL,Grand Promenade,Stanley Fort (Gate) / Ma Hang,same_route_number
+98,TSEUNG KWAN O INDUSTRIAL ESTATE,NGAU TAU KOK STATION (CIRCULAR),Lei Tung Estate,Aberdeen (Chengtu Road),same_route_number
+N170,SHATIN CENTRAL,WAH FU (CENTRAL),Wah Fu (Central),Sha Tin Central,same_route_number
+2,STAR FERRY,CHEUNG SHA WAN (SO UK ESTATE),Grand Promenade,Central (Macau Ferry),same_route_number
+90,SHEK MUN ESTATE,TSEUNG KWAN O (CHOI MING),Ap Lei Chau Estate,Central (Exchange Square),same_route_number
+2X,CHOI FOOK,MEI FOO,Grand Promenade,Exhibition Centre Station,same_route_number
+170,SHATIN STATION,WAH FU (CENTRAL),Wah Fu (Central),Sha Tin Station,same_route_number
+182,YU CHUI COURT,CENTRAL (MACAU FERRY),Central (Macau Ferry),Sha Tin (Yu Chui Court),same_route_number
+680X,WU KAI SHA STATION,CENTRAL (MACAU FERRY),Central (Macau Ferry Pier),Ma On Shan (Wu Kai Sha Station),same_route_number
+980X,WU KAI SHA STATION,WAN CHAI (FLEMING ROAD),Ma On Shan (Wu Kai Sha Station),Wan Chai,same_route_number
+619,SHUN LEE,CENTRAL (MACAU FERRY),Central (Macau Ferry),Shun Lee Estate,same_route_number
+948X,TSING YI (CHEUNG WANG ESTATE),CAUSEWAY BAY (TIN HAU),Cheung Wang Estate,Tin Hau Station,same_route_number
+680,LEE ON,ADMIRALTY STATION (EAST),Admiralty (East),Ma On Shan (Lee On Estate),same_route_number
+606,CHOI WAN (FUNG SHING STREET),SIU SAI WAN (ISLAND RESORT),Siu Sai Wan (Island Resort),Choi Wan (Fung Shing Street),same_route_number
+690S,HANG HAU (MING TAK ESTATE),CENTRAL (EXCHANGE SQUARE),Central (Exchange Square),Hang Hau (via: LOHAS Park),same_route_number
+680P,WU KAI SHA STATION,ADMIRALTY STATION (EAST),Ma On Shan (Wu Kai Sha Station),Admiralty (East),same_route_number
+12,HOI LAI ESTATE,TSIM SHA TSUI EAST (MODY ROAD),Central Pier 3,Robinson Road / Park Road,same_route_number
+97,WU KAI SHA STATION,HONG SING GARDEN,Lei Tung Estate,Central (Exchange Square),same_route_number
+23,KWUN TONG FERRY,SHUN LEE (CIRCULAR),North Point Ferry Pier,Pokfield Road,same_route_number
+171,LAI CHI KOK,SOUTH HORIZONS,South Horizons,Lai Chi Kok,same_route_number
+8P,LAGUNA VERDE,TSIM SHA TSUI (CIRCULAR),Siu Sai Wan (Island Resort),Exhibition Centre Station,same_route_number
+76,YAU POK ROAD PUBLIC HOUSING (SOUTH),SHEUNG SHUI STATION (CHOI YUEN ROAD) (CIRCULAR),Wong Chuk Hang Station / Shek Pai Wan,Causeway Bay (Pennington Street),same_route_number
+N680,KAM YING COURT,CENTRAL (MACAU FERRY),Central (Macau Ferry),Ma On Shan (Kam Ying Court),same_route_number
+980A,SHEK MUN ESTATE,WAN CHAI (FLEMING ROAD),Shek Mun Estate,Wan Chai,same_route_number
+948P,TSING YI (CHEUNG ON ESTATE),CAUSEWAY BAY (TIN HAU),Cheung On Estate,Tin Hau Station,same_route_number
+171A,LEI TUNG ESTATE,LAI CHI KOK,Lei Tung Estate,Lai Chi Kok,same_route_number
+X1,TUNG CHUNG STATION,ASIAWORLD EXPO,Tung Chung Station,AsiaWorld-Expo,same_route_number
+N619,SHUN LEE,CENTRAL (MACAU FERRY),Central (Macau Ferry),Shun Lee Estate,same_route_number
+171P,SOUTH HORIZONS,LAI CHI KOK,South Horizons,Lai Chi Kok,same_route_number
+2A,LOK WAH,MEI FOO,Yiu Tung Estate,Exhibition Centre Station,same_route_number
+914P,HOI LAI ESTATE,CAUSEWAY BAY (TIN HAU),Hoi Lai Estate,Tin Hau Station,same_route_number
+38,KWAI SHING (EAST),PING TIN,Chi Fu Fa Yuen,North Point Ferry Pier,same_route_number
+101R,HAPPY VALLEY RACE COURSE,KWUN TONG (YUE MAN SQUARE),Happy Valley Racecourse,Kwun Tong (Yue Man Square),same_route_number
+601,PO TAT,ADMIRALTY STATION (EAST),Admiralty (East),Po Tat Estate,same_route_number
+49X,KWONG YUEN,TSING YI FERRY,Siu Sai Wan (Island Resort),Cyberport,same_route_number
+88X,SUI WO COURT,PING TIN,Siu Sai Wan (Island Resort),Kennedy Town (Belcher Bay),same_route_number
+1,CHUK YUEN ESTATE,STAR FERRY,Central (Macau Ferry),Happy Valley (Upper),same_route_number
+15,PING TIN,HUNG HOM (HUNG LUEN ROAD),Central,The Peak,same_route_number
+907D,TAI PO (TING TAI ROAD),SIU SAI WAN,Tai Po (Ting Tai Road),Siu Sai Wan Sports Ground,same_route_number
+S1,TUNG CHUNG STATION,Airport (Circular),Tung Chung Station,Airport (Passenger Terminal 1 / AsiaWorld-Expo),same_route_number
+117,SHAM SHUI PO (YEN CHOW ST),HAPPY VALLEY (LOWER),Happy Valley (Lower),Sham Shui Po (Yen Chow Street),same_route_number
+678,SHEUNG SHUI,CAUSEWAY BAY (EASTERN HOSPITAL ROAD),Sheung Shui,Causeway Bay (Eastern Hospital Road),same_route_number
+107,KOWLOON BAY,WAH KWAI,Wah Kwai Estate,Kowloon Bay,same_route_number
+914X,HOI LAI ESTATE,CAUSEWAY BAY (TIN HAU),Hoi Lai Estate,Tin Hau Station,same_route_number
+948E,TSING YI STATION,TAIKOO(KORNHILL PLAZA),Tsing Yi Station,Tai Koo (Kornhill Plaza),same_route_number
+N691,TIU KENG LENG,CENTRAL (MACAU FERRY),Central (Macau Ferry),Tiu Keng Leng (King Ling Road),same_route_number
+601P,PO TAT,SHEUNG WAN,Po Tat Estate,Sheung Wan,same_route_number
+690P,HONG SING GARDEN,CENTRAL (EXCHANGE SQUARE),Tseung Kwan O (Hong Sing Garden),Central (Exchange Square),same_route_number
+N122,MEI FOO,SHAU KEI WAN,Shau Kei Wan,Mei Foo,same_route_number
+641,KAI TAK (KAI CHING ESTATE),CENTRAL (MACAU FERRY),Central (Macau Ferry),Kai Tak (Kai Ching Estate),same_route_number
+8,STAR FERRY,KOWLOON STATION,Heng Fa Chuen,Exhibition Centre Station,same_route_number
+606A,CHOI WAN (FUNG SHING STREET),SHAU KEI WAN (YIU TUNG ESTATE),Choi Wan (Fung Shing Street),Yiu Tung Estate,same_route_number
+302,TSZ WAN SHAN (NORTH),SHEUNG WAN,Tsz Wan Shan (North),Sheung Wan,same_route_number
+30X,TSUEN WAN (ALLWAY GARDENS),WHAMPOA GARDEN,Cyberport,Admiralty (East),same_route_number
+690,HONG SING GARDEN,CENTRAL (EXCHANGE SQUARE),Central (Exchange Square),Tseung Kwan O (Hong Sing Garden),same_route_number
+113,CHOI HUNG,KENNEDY TOWN (BELCHER BAY),Kennedy Town (Belcher Bay),Choi Hung,same_route_number
+107P,LAGUNA VERDE,CYBERPORT,Hung Hom (Laguna Verde),Cyberport,same_route_number
+43M,KWAI FONG STATION,CHEUNG CHING (CIRCULAR),Tin Wan,Shek Tong Tsui,same_route_number
+907C,FU TIP BUS TERMINUS,WAN CHAI (CONVENTION CENTRE),Tai Po (Fu Tip),Wan Chai (HKCEC),same_route_number
+985A,MEI TIN ESTATE (MEI CHI HOUSE),WAN CHAI,Shatin (Mei Tin Estate),Causeway Bay,same_route_number
+307A,TAI PO TAU,SHEUNG WAN,Tai Po Tau,Sheung Wan,same_route_number
+302A,TSZ WAN SHAN (NORTH),NORTH POINT (HEALTHY VILLAGE),Tsz Wan Shan (North),North Point (Healthy Village),same_route_number
+106,WONG TAI SIN,SIU SAI WAN (ISLAND RESORT),Siu Sai Wan (Island Resort),Wong Tai Sin,same_route_number
+101,KWUN TONG (YUE MAN SQUARE),KENNEDY TOWN,Kennedy Town,Kwun Tong (Yue Man Square),same_route_number
+R8,DISNEYLAND,Lantau Link BBI (Circular),Disneyland,Lantau Link Bus-Bus Interchange,same_route_number
+182X,CENTRAL (MACAU FERRY),YU CHUI COURT,Central (Macau Ferry),Sha Tin (Yu Chui Court),same_route_number
+115P,LAGUNA VERDE,CENTRAL (MACAU FERRY),Laguna Verde,Central (Macau Ferry),same_route_number
+621,LAGUNA CITY,CENTRAL (HONG KONG STATION),Laguna City,Central (Hong Kong Station),same_route_number
+905P,LAI CHI KOK,WAN CHAI (HARBOUR ROAD),Lai Chi Kok,Wan Chai (Harbour Road),same_route_number

@@ -1,0 +1,177 @@
+================================================================================
+🚌 CITYBUS DATA COLLECTION LOG
+================================================================================
+📅 Start Time: 2025-10-19 14:33:58
+📁 Log File: citybus_data_collection_log_20251019_143358.txt
+================================================================================
+
+[14:33:58] 🚀 STEP 1: Collecting Citybus Routes
+[14:33:58] ==================================================
+[14:33:58] 🔍 API Details:
+[14:33:58]    URL: https://rt.data.gov.hk/v2/transport/citybus/route/ctb
+[14:33:58]    Method: GET
+[14:33:58]    Timeout: 30 seconds
+[14:33:58] 📡 Making Citybus routes API request...
+[14:33:58] ⏱️  Request completed in 0.07 seconds
+[14:33:58] 📊 Status Code: 200
+[14:33:58] 📏 Response Size: 108983 bytes
+[14:33:58] ✅ API request successful!
+[14:33:58] 🔍 Parsing JSON response...
+[14:33:58] 📊 Found 394 Citybus routes
+[14:33:58] 📋 Data structure: ['type', 'version', 'generated_timestamp', 'data']
+[14:33:58] 💾 Saving raw JSON data to: data/collected_data/citybus_all_routes_20251019_143358.json
+[14:33:58] ✅ Raw data saved: data/collected_data/citybus_all_routes_20251019_143358.json
+[14:33:58] 📁 File size: 134213 bytes
+[14:33:58] 📊 Creating CSV file: data/collected_data/citybus_all_routes_20251019_143358.csv
+[14:33:58] 📋 CSV Headers: route, bound, service_type, orig_tc, orig_en, dest_tc, dest_en, data_timestamp
+[14:33:58] 📝 Writing route data to CSV...
+[14:33:58]    📊 Processed 50/394 routes...
+[14:33:58]    📊 Processed 100/394 routes...
+[14:33:58]    📊 Processed 150/394 routes...
+[14:33:58]    📊 Processed 200/394 routes...
+[14:33:58]    📊 Processed 250/394 routes...
+[14:33:58]    📊 Processed 300/394 routes...
+[14:33:58]    📊 Processed 350/394 routes...
+[14:33:58] ✅ CSV file created: data/collected_data/citybus_all_routes_20251019_143358.csv
+[14:33:58] 📁 CSV file size: 44370 bytes
+[14:33:58] 📊 Total routes written: 394
+[14:33:58] 
+📋 Sample Route Data:
+[14:33:58]    Route ID: 1
+[14:33:58]    Origin (TC): 中環 (港澳碼頭)
+[14:33:58]    Origin (EN): Central (Macau Ferry)
+[14:33:58]    Destination (TC): 跑馬地 (上)
+[14:33:58]    Destination (EN): Happy Valley (Upper)
+[14:33:58]    Bound: N/A
+[14:33:58]    Service Type: N/A
+[14:33:58] 
+✅ STEP 1 COMPLETED: Citybus Routes Collection
+[14:33:58] 📊 Citybus Routes: 394 routes
+[14:33:58] 📁 CSV File: data/collected_data/citybus_all_routes_20251019_143358.csv
+[14:33:58] 📁 File Size: 44370 bytes
+[14:33:58] 
+🚀 STEP 2: Collecting Citybus Stops
+[14:33:58] ==================================================
+[14:33:58] 🔍 API Details:
+[14:33:58]    URL: https://rt.data.gov.hk/v2/transport/citybus/stop
+[14:33:58]    Method: GET
+[14:33:58]    Timeout: 30 seconds
+[14:33:58] 📡 Making Citybus stops API request...
+[14:33:58] ⏱️  Request completed in 0.11 seconds
+[14:33:58] 📊 Status Code: 422
+[14:33:58] 📏 Response Size: 65 bytes
+[14:33:58] ❌ API request failed: 422
+[14:33:58] 📄 Response content: {
+  "code": "422",
+  "message": "Invalid/Missing parameter(s)"
+}
+...
+[14:33:58] 
+🚀 STEP 3: Collecting Route-Stop Mappings (Sample Routes)
+[14:33:58] ==================================================
+[14:33:58] 🔍 Testing routes: 582, 581, 580, 1, 2, 3, 5, 6, 9, 10, 101, 102, 103, 104, 105
+[14:33:58] 
+🔍 Processing Citybus route: 582
+[14:33:58]    🚌 Testing inbound...
+[14:34:00]    ✅ Found 13 stops for 582 inbound
+[14:34:00]    ✅ Citybus route 582 processed
+[14:34:00] 
+🔍 Processing Citybus route: 581
+[14:34:00]    🚌 Testing inbound...
+[14:34:00]    ✅ Found 12 stops for 581 inbound
+[14:34:00]    ✅ Citybus route 581 processed
+[14:34:00] 
+🔍 Processing Citybus route: 580
+[14:34:00]    🚌 Testing inbound...
+[14:34:01]    ✅ Found 11 stops for 580 inbound
+[14:34:01]    ✅ Citybus route 580 processed
+[14:34:01] 
+🔍 Processing Citybus route: 1
+[14:34:01]    🚌 Testing inbound...
+[14:34:03]    ✅ Found 18 stops for 1 inbound
+[14:34:03]    ✅ Citybus route 1 processed
+[14:34:03] 
+🔍 Processing Citybus route: 2
+[14:34:03]    🚌 Testing inbound...
+[14:34:06]    ✅ Found 34 stops for 2 inbound
+[14:34:06]    ✅ Citybus route 2 processed
+[14:34:06] 
+🔍 Processing Citybus route: 3
+[14:34:06]    🚌 Testing inbound...
+[14:34:07]    🚌 Testing outbound...
+[14:34:07]    ✅ Citybus route 3 processed
+[14:34:07] 
+🔍 Processing Citybus route: 5
+[14:34:07]    🚌 Testing inbound...
+[14:34:07]    🚌 Testing outbound...
+[14:34:08]    ✅ Citybus route 5 processed
+[14:34:08] 
+🔍 Processing Citybus route: 6
+[14:34:08]    🚌 Testing inbound...
+[14:34:13]    ✅ Found 47 stops for 6 inbound
+[14:34:13]    ✅ Citybus route 6 processed
+[14:34:13] 
+🔍 Processing Citybus route: 9
+[14:34:13]    🚌 Testing inbound...
+[14:34:16]    ✅ Found 18 stops for 9 inbound
+[14:34:16]    ✅ Citybus route 9 processed
+[14:34:16] 
+🔍 Processing Citybus route: 10
+[14:34:16]    🚌 Testing inbound...
+[14:34:18]    ✅ Found 40 stops for 10 inbound
+[14:34:18]    ✅ Citybus route 10 processed
+[14:34:18] 
+🔍 Processing Citybus route: 101
+[14:34:18]    🚌 Testing inbound...
+[14:34:21]    ✅ Found 37 stops for 101 inbound
+[14:34:21]    ✅ Citybus route 101 processed
+[14:34:21] 
+🔍 Processing Citybus route: 102
+[14:34:21]    🚌 Testing inbound...
+[14:34:23]    ✅ Found 34 stops for 102 inbound
+[14:34:23]    ✅ Citybus route 102 processed
+[14:34:23] 
+🔍 Processing Citybus route: 103
+[14:34:23]    🚌 Testing inbound...
+[14:34:26]    ✅ Found 36 stops for 103 inbound
+[14:34:26]    ✅ Citybus route 103 processed
+[14:34:26] 
+🔍 Processing Citybus route: 104
+[14:34:26]    🚌 Testing inbound...
+[14:34:29]    ✅ Found 37 stops for 104 inbound
+[14:34:29]    ✅ Citybus route 104 processed
+[14:34:29] 
+🔍 Processing Citybus route: 105
+[14:34:29]    🚌 Testing inbound...
+[14:34:29]    🚌 Testing outbound...
+[14:34:29]    ✅ Citybus route 105 processed
+[14:34:29] 
+📊 Creating route-stop mappings CSV: data/collected_data/citybus_route_stop_mappings_20251019_143358.csv
+[14:34:29] ✅ Route-stop mappings saved: data/collected_data/citybus_route_stop_mappings_20251019_143358.csv
+[14:34:29] 📊 Total mappings: 337
+[14:34:29] 
+📋 Route Summary:
+[14:34:29]    582: 13 stop mappings
+[14:34:29]    581: 12 stop mappings
+[14:34:29]    580: 11 stop mappings
+[14:34:29]    1: 18 stop mappings
+[14:34:29]    2: 34 stop mappings
+[14:34:29]    6: 47 stop mappings
+[14:34:29]    9: 18 stop mappings
+[14:34:29]    10: 40 stop mappings
+[14:34:29]    101: 37 stop mappings
+[14:34:29]    102: 34 stop mappings
+[14:34:29]    103: 36 stop mappings
+[14:34:29]    104: 37 stop mappings
+[14:34:29] 
+================================================================================
+[14:34:29] 🎉 CITYBUS DATA COLLECTION COMPLETED!
+[14:34:29] ================================================================================
+[14:34:29] 📁 Created Files:
+[14:34:29]    📄 citybus_all_routes_20251019_143358.csv (44370 bytes)
+[14:34:29]    📄 citybus_all_routes_20251019_143358.json (134213 bytes)
+[14:34:29]    📄 citybus_route_stop_mappings_20251019_143358.csv (43521 bytes)
+[14:34:29] 
+📁 Log file: citybus_data_collection_log_20251019_143358.txt
+[14:34:29] 📊 Check data/collected_data/ for all CSV files
+[14:34:29] ================================================================================
