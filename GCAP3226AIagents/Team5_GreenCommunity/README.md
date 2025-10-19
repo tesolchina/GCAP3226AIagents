@@ -1,67 +1,36 @@
-# Team 5: Green @ Community Initiatives
+# Team 5: Green Community Project
 
 ## Project Overview
-Analysis of community-based environmental initiatives and green policy effectiveness in Hong Kong.
+This project focuses on analyzing green community initiatives in Hong Kong through data-driven policy analysis and government engagement.
 
-## Team Members
-- [ ] Add team member names here
+## Folder Organization
 
-## Project Objectives
-1. Evaluate effectiveness of Green @ Community programs
-2. Analyze factors contributing to program success
-3. Develop models for community engagement optimization
-4. Recommend improvements for environmental policy implementation
+### 📊 01_Project_Report
+Contains all project report documents and outlines:
+- (To be added as project develops)
 
-## Key Research Questions
-- What factors determine the success of community green initiatives?
-- How can community engagement be maximized for environmental programs?
-- What is the optimal resource allocation for green community projects?
-- How do local demographics affect program adoption and effectiveness?
+### 📋 02_Data_Collection
+Contains data collection materials:
+- (To be added as data collection progresses)
 
-## Data Sources
-- [ ] Green @ Community program data
-- [ ] Environmental monitoring data
-- [ ] Community participation records
-- [ ] Demographic and socioeconomic data
-- [ ] Environmental policy implementation records
+### 🤖 03_Human_AI_Report
+Contains human-AI collaboration documentation:
+- (To be added as collaboration develops)
 
-## Methodology
-### Regression Analysis
-- Program effectiveness prediction models
-- Community engagement factor analysis
-- Environmental impact assessment
-- Resource utilization optimization
+### 🎯 04_In_Class_Exercises
+Contains project planning and in-class exercise materials:
+- `Project_Roadmap_Team5.md` - Team 5 specific project roadmap
 
-### Simulation Models
-- Community participation scenarios
-- Resource allocation optimization
-- Policy implementation timeline modeling
-- Environmental impact projections
+### ⚙️ 05_Project_Admin_Tutoring
+Contains administrative and tutoring materials:
+- `README.md` - Project documentation
 
-## Deliverables
-- [ ] Program effectiveness analysis
-- [ ] Community engagement optimization model
-- [ ] Resource allocation recommendations
-- [ ] Policy improvement strategies
-- [ ] Interactive community impact dashboard
+### 📈 06_Data_Analysis_Governance_Review
+Contains data analysis, governance review, and policy evaluation materials:
+- (To be added as analysis progresses)
 
-## Timeline
-- [ ] Week 1-2: Data collection and program review
-- [ ] Week 3-4: Effectiveness analysis and modeling
-- [ ] Week 5-6: Community engagement optimization
-- [ ] Week 7-8: Policy recommendations development
-- [ ] Week 9-10: Final report and presentation
+## Project Status
+This project is part of GCAP3226: Empowering Citizens through Data - Participatory Policy Analysis for Hong Kong.
 
-## Expected Outcomes
-- Improved community engagement strategies
-- Optimized resource allocation for green initiatives
-- Evidence-based policy recommendations
-- Scalable models for community environmental programs
-
-## Resources
-- Course materials: `../00_Course_Materials/`
-- Environmental data sources
-- Community engagement tools: Google Drive workspace
-
----
-*Last updated: September 27, 2024*
+## Contact
+For questions about this project, please refer to the team members or course instructor.

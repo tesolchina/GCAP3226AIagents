@@ -1,70 +1,37 @@
-# Team 6: Bus Stop Merge & Optimization
+# Team 6: Bus Stop Merge Optimization Project
 
 ## Project Overview
-Analysis and optimization of bus stop placement and merging strategies to improve urban transportation efficiency.
+This project focuses on analyzing bus stop merger optimization in Hong Kong through data-driven policy analysis and government engagement.
 
-## Team Members
-- [ ] Add team member names here
+## Folder Organization
 
-## Current Materials
-- `GCAP3226-Topic2-BusStopMerge.md` - Bus stop merge analysis
-- `Bus-Stop-Optimization/` - Optimization resources and data
+### 📊 01_Project_Report
+Contains all project report documents and outlines:
+- (To be added as project develops)
 
-## Project Objectives
-1. Analyze current bus stop placement efficiency
-2. Identify optimal merge candidates
-3. Assess impact on passenger accessibility
-4. Develop implementation recommendations
+### 📋 02_Data_Collection
+Contains data collection materials:
+- (To be added as data collection progresses)
 
-## Key Research Questions
-- Which bus stops should be merged for maximum efficiency?
-- How does stop merging affect passenger walking distances?
-- What is the optimal spacing between bus stops?
-- How can accessibility be maintained while improving efficiency?
+### 🤖 03_Human_AI_Report
+Contains human-AI collaboration documentation:
+- (To be added as collaboration develops)
 
-## Data Sources
-- [ ] Bus stop location data
-- [ ] Ridership statistics by stop
-- [ ] Passenger origin-destination patterns
-- [ ] Urban planning and demographic data
-- [ ] Accessibility requirements and regulations
+### 🎯 04_In_Class_Exercises
+Contains project planning and in-class exercise materials:
+- `Project_Roadmap_Team6.md` - Team 6 specific project roadmap
+- `Bus-Stop-Optimization/` - Directory containing bus stop optimization materials
 
-## Methodology
-### Spatial Analysis
-- GIS mapping of current stop locations
-- Catchment area analysis
-- Walking distance optimization
-- Accessibility impact assessment
+### ⚙️ 05_Project_Admin_Tutoring
+Contains administrative and tutoring materials:
+- `README.md` - Project documentation
 
-### Optimization Models
-- Cost-benefit analysis of merge scenarios
-- Multi-objective optimization (efficiency vs. accessibility)
-- Service level maintenance requirements
+### 📈 06_Data_Analysis_Governance_Review
+Contains data analysis, governance review, and policy evaluation materials:
+- (To be added as analysis progresses)
 
-## Deliverables
-- [ ] Current state analysis report
-- [ ] Merge recommendation framework
-- [ ] Impact assessment (accessibility, efficiency)
-- [ ] Implementation roadmap
-- [ ] Interactive mapping tool
+## Project Status
+This project is part of GCAP3226: Empowering Citizens through Data - Participatory Policy Analysis for Hong Kong.
 
-## Timeline
-- [ ] Week 1-2: Data collection and current state analysis
-- [ ] Week 3-4: Spatial analysis and modeling
-- [ ] Week 5-6: Optimization and scenario testing
-- [ ] Week 7-8: Impact assessment and recommendations
-- [ ] Week 9-10: Final report and presentation
-
-## Expected Outcomes
-- Improved operational efficiency through strategic merging
-- Maintained or improved passenger accessibility
-- Clear implementation guidelines for transport authorities
-- Evidence-based recommendations for urban planning
-
-## Resources
-- Course materials: `../00_Course_Materials/Topic_Notes/`
-- Technical tools: Google Drive workspace
-- GIS and mapping resources
-
----
-*Last updated: September 27, 2024*
+## Contact
+For questions about this project, please refer to the team members or course instructor.

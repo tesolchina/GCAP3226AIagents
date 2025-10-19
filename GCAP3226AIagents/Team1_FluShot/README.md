@@ -39,6 +39,13 @@ Contains administrative and tutoring materials:
 - `Published letters/` - Directory containing published correspondence
   - `letters.md` - Published letters and communications
 
+### 📈 06_Data_Analysis_Governance_Review
+Contains data analysis, governance review, and policy evaluation materials:
+- Data analysis reports and findings
+- Governance review documents
+- Policy evaluation and recommendations
+- Statistical analysis and visualizations
+
 ## Project Status
 This project is part of GCAP3226: Empowering Citizens through Data - Participatory Policy Analysis for Hong Kong.
 

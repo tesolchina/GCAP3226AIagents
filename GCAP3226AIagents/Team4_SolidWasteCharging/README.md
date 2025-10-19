@@ -1,67 +1,36 @@
-# Team 4: Municipal Solid Waste Charging
+# Team 4: Solid Waste Charging Project
 
 ## Project Overview
-Analysis of municipal solid waste charging policies and their effectiveness in Hong Kong.
+This project focuses on analyzing solid waste charging schemes in Hong Kong through data-driven policy analysis and government engagement.
 
-## Team Members
-- [ ] Add team member names here
+## Folder Organization
 
-## Project Objectives
-1. Analyze waste generation patterns and charging impacts
-2. Evaluate policy effectiveness and compliance rates
-3. Develop predictive models for waste reduction
-4. Recommend optimal pricing and implementation strategies
+### 📊 01_Project_Report
+Contains all project report documents and outlines:
+- (To be added as project develops)
 
-## Key Research Questions
-- How do charging policies affect waste generation behaviors?
-- What pricing models maximize waste reduction while ensuring compliance?
-- Which demographic factors influence policy adoption?
-- How can implementation be improved for better outcomes?
+### 📋 02_Data_Collection
+Contains data collection materials:
+- (To be added as data collection progresses)
 
-## Data Sources
-- [ ] Municipal waste collection data
-- [ ] Charging policy implementation records
-- [ ] Household demographic and economic data
-- [ ] Recycling and disposal facility data
-- [ ] Comparative policy data from other regions
+### 🤖 03_Human_AI_Report
+Contains human-AI collaboration documentation:
+- (To be added as collaboration develops)
 
-## Methodology
-### Regression Analysis
-- Waste generation prediction models
-- Policy impact assessment
-- Pricing elasticity analysis
-- Compliance factor modeling
+### 🎯 04_In_Class_Exercises
+Contains project planning and in-class exercise materials:
+- `Project_Roadmap_Team4.md` - Team 4 specific project roadmap
 
-### Simulation Models
-- Policy scenario testing
-- Behavioral response modeling
-- Revenue and cost projections
-- Implementation timeline optimization
+### ⚙️ 05_Project_Admin_Tutoring
+Contains administrative and tutoring materials:
+- `README.md` - Project documentation
 
-## Deliverables
-- [ ] Waste generation analysis report
-- [ ] Policy effectiveness assessment
-- [ ] Optimal pricing recommendations
-- [ ] Implementation strategy guide
-- [ ] Interactive policy simulation tool
+### 📈 06_Data_Analysis_Governance_Review
+Contains data analysis, governance review, and policy evaluation materials:
+- (To be added as analysis progresses)
 
-## Timeline
-- [ ] Week 1-2: Data collection and baseline analysis
-- [ ] Week 3-4: Policy impact regression analysis
-- [ ] Week 5-6: Behavioral modeling and simulation
-- [ ] Week 7-8: Optimization and recommendations
-- [ ] Week 9-10: Final report and presentation
+## Project Status
+This project is part of GCAP3226: Empowering Citizens through Data - Participatory Policy Analysis for Hong Kong.
 
-## Expected Outcomes
-- Evidence-based pricing recommendations
-- Improved policy implementation strategies
-- Predictive tools for waste management planning
-- Best practices for community engagement
-
-## Resources
-- Course materials: `../00_Course_Materials/`
-- Data analysis tools: Google Drive workspace
-- Government databases and reports
-
----
-*Last updated: September 27, 2024*
+## Contact
+For questions about this project, please refer to the team members or course instructor.

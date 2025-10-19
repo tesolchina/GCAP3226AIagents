@@ -1,59 +1,37 @@
-# Team 3: Typhoon Preparedness & Emergency Management
+# Team 3: Typhoon Signal Analysis Project
 
 ## Project Overview
-Analysis of typhoon preparedness strategies and emergency management effectiveness in Hong Kong.
+This project focuses on analyzing typhoon signal decision-making processes in Hong Kong through data-driven policy analysis and government engagement.
 
-## Team Members
-- [ ] Add team member names here
+## Folder Organization
 
-## Project Objectives
-1. Analyze historical typhoon impact data
-2. Evaluate current emergency response effectiveness
-3. Develop predictive models for risk assessment
-4. Recommend improvements to preparedness policies
+### 📊 01_Project_Report
+Contains all project report documents and outlines:
+- (To be added as project develops)
 
-## Key Research Questions
-- What factors determine typhoon impact severity?
-- How effective are current evacuation and shelter policies?
-- Can predictive models improve early warning systems?
-- What policy changes would enhance community resilience?
+### 📋 02_Data_Collection
+Contains data collection materials:
+- (To be added as data collection progresses)
 
-## Data Sources
-- [ ] Hong Kong Observatory typhoon records
-- [ ] Emergency services response data
-- [ ] Damage assessment reports
-- [ ] Population and infrastructure data
-- [ ] Social vulnerability indicators
+### 🤖 03_Human_AI_Report
+Contains human-AI collaboration documentation:
+- `Typhoon Signal Decision Analysis_otter_ai.md` - AI-generated analysis of typhoon signal decisions
+- `Simon Talia discussion Typhoon.md` - Discussion notes between Simon and Talia on typhoon analysis
 
-## Methodology
-### Regression Analysis
-- Typhoon impact prediction models
-- Risk factor identification
-- Emergency response effectiveness metrics
+### 🎯 04_In_Class_Exercises
+Contains project planning and in-class exercise materials:
+- `Project_Roadmap_Team3.md` - Team 3 specific project roadmap
 
-### Simulation Models
-- Evacuation scenario modeling
-- Resource allocation optimization
-- Emergency response timing analysis
+### ⚙️ 05_Project_Admin_Tutoring
+Contains administrative and tutoring materials:
+- `README.md` - Project documentation
 
-## Deliverables
-- [ ] Historical impact analysis
-- [ ] Risk prediction models
-- [ ] Policy effectiveness assessment
-- [ ] Emergency preparedness recommendations
-- [ ] Interactive risk mapping tool
+### 📈 06_Data_Analysis_Governance_Review
+Contains data analysis, governance review, and policy evaluation materials:
+- (To be added as analysis progresses)
 
-## Timeline
-- [ ] Week 1-2: Data collection and literature review
-- [ ] Week 3-4: Historical analysis and pattern identification
-- [ ] Week 5-6: Predictive modeling development
-- [ ] Week 7-8: Policy analysis and recommendations
-- [ ] Week 9-10: Final report and presentation
+## Project Status
+This project is part of GCAP3226: Empowering Citizens through Data - Participatory Policy Analysis for Hong Kong.
 
-## Resources
-- Course materials: `../00_Course_Materials/`
-- Weather data APIs: `98_technical/google_api_reusable`
-- Analysis tools: Google Drive workspace
-
----
-*Last updated: September 27, 2024*
+## Contact
+For questions about this project, please refer to the team members or course instructor.
