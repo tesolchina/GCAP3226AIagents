@@ -1,61 +1,81 @@
-# Team 5 Green Community Project - Comments and Focus Areas
+# Team 5 Green Community Project - Comments and Focus Areas (v3 Update)
 
-## Specific Government Decisions to Assess
+## **NEW FOCUS: Resource Allocation Decisions and App Usage Data Visualization**
 
-### 1. **Facility Placement Decisions**
-- **Strategic Alignment Analysis**: Whether Green@Community facility placement aligns with population density across Hong Kong's 18 administrative districts
-- **Data-Driven Placement**: Assessment of methodologies used (population-to-facility ratios, GIS-based planning) for facility location decisions from 2020-present
-- **Geographic Distribution**: Analysis of facility distribution patterns and their relationship to community needs
+### **Primary Research Focus (Updated)**
+- **Resource Allocation Analysis**: How EPD allocates resources to provide incentives and target different user groups
+- **App Usage Data Visualization**: Minimum viable work focusing on visualizing available GREEN$ app usage data
+- **User Targeting Assessment**: Analysis of how EPD targets different demographic groups based on app usage patterns
+- **Stakeholder Engagement**: Direct contact with EPD staff for on-site data collection and insights
 
-### 2. **Resource Allocation Decisions**
-- **Cost-Effectiveness Analysis**: Evaluation of HK$270 million operating costs vs. 20,300 tonnes collected (HK$13,300 per tonne)
-- **Budget Justification**: Assessment of whether current spending represents optimal resource allocation
-- **Performance Metrics**: Analysis of 5.2 million visitors vs. 1.06% of Hong Kong's total recyclables collected
+### **Data Collection Strategy (Revised)**
 
-### 3. **App-Based Engagement Decisions**
-- **GREEN$ ePIS Mobile App Analysis**: 
-  - Monthly active users and user engagement patterns
-  - Average points balance and redemption behaviors
-  - Geographic breakdown of app usage by district
-  - Demographic analysis of user participation
+#### **1. App Usage Data Visualization (Primary Focus)**
+- **Available Data Analysis**: Visualization of existing GREEN$ app usage data
+- **User Engagement Metrics**: Monthly active users, points balance, and participation patterns
+- **Geographic Distribution**: User participation by district and demographic breakdown
+- **Behavioral Patterns**: User engagement trends, redemption behaviors, and app effectiveness
 
-### 4. **Data Utilization in Decision-Making**
-- **GREEN$ App Data Analysis**: Whether EPD conducts analyses of mobile app data to examine recycling participation differences across demographic groups
-- **Stratified Promotion Strategies**: Assessment of whether insights from app data inform targeted promotion strategies
-- **Evidence-Based Policy**: Evaluation of how data drives program design and resource allocation decisions
+#### **2. Resource Allocation Decisions**
+- **Incentive Distribution**: Analysis of how EPD allocates resources for different user groups
+- **Targeting Strategies**: Assessment of demographic targeting based on app usage data
+- **Cost-Effectiveness**: Evaluation of incentive allocation efficiency
+- **Performance Metrics**: Relationship between resource allocation and app usage outcomes
 
-## Key Data Points for Analysis
+#### **3. Stakeholder Engagement (New Priority)**
+- **EPD Staff Contact**: Direct meetings with EPD staff for on-site data collection
+- **User Research**: Team members using the app to earn points and understand user experience
+- **Community Engagement**: Identifying and interviewing app users for insights
+- **Government Enquiry**: Code on Access to Information requests for resource allocation data
 
-### **App Performance Metrics**
-- Monthly active users
-- Average points balance per user
-- Geographic distribution of users by district
-- User engagement patterns and redemption behaviors
-- Demographic breakdown of participants
+#### **4. Survey Data Collection (Backup Plan)**
+- **On-Site Surveys**: Conducting surveys at Green@Community facilities
+- **User Interviews**: Direct engagement with app users to understand usage patterns
+- **Staff Interviews**: EPD staff insights on resource allocation decisions
+- **Community Feedback**: Public perception of incentive effectiveness
 
-### **Facility Performance Data**
-- Visitor volume analysis (5.2 million visitors in 2022)
-- Recycling volume by facility type and location
-- Geographic utilization patterns
-- Cost per tonne analysis (HK$13,300 per tonne)
+## **Key Data Points for Analysis (Updated)**
 
-### **Government Decision-Making Transparency**
-- Data sources used for facility placement decisions
-- Methodology for resource allocation
-- Criteria for program evaluation and improvement
-- Public access to decision-making processes
+### **App Usage Data Visualization (Primary Focus)**
+- **User Engagement Metrics**: Monthly active users, points balance, and participation patterns
+- **Geographic Distribution**: User participation by district and demographic breakdown
+- **Behavioral Patterns**: User engagement trends, redemption behaviors, and app effectiveness
+- **Performance Indicators**: Key metrics for app success and user targeting
 
-## Research Questions for v2 Outline
+### **Resource Allocation Analysis**
+- **Incentive Distribution**: How EPD allocates resources across different user groups
+- **Targeting Strategies**: Assessment of demographic targeting based on app usage data
+- **Cost-Effectiveness**: Economic evaluation of incentive allocation decisions
+- **Performance Metrics**: Relationship between resource allocation and app usage outcomes
 
-1. **How does EPD use data to make facility placement decisions, and are these decisions strategically aligned with population density?**
-2. **What role does GREEN$ app data play in EPD's decision-making processes for program optimization?**
-3. **How cost-effective is the current Green@Community program, and what factors influence resource allocation decisions?**
-4. **To what extent does EPD use demographic and behavioral data to develop targeted promotion strategies?**
+### **Stakeholder Engagement Data**
+- **EPD Staff Insights**: Government perspectives on resource allocation decisions
+- **User Feedback**: Community perception of incentive effectiveness
+- **Best Practices**: Identification of successful targeting strategies
+- **Improvement Recommendations**: Evidence-based suggestions for optimization
 
-## Expected Government Responses Integration
+## **Research Questions for v3 Outline (Updated)**
 
-Based on the earlier enquiry and letter analysis:
-- **Cost-Effectiveness Concerns**: Integration of HK$13,300 per tonne cost analysis
-- **Transparency Issues**: Assessment of public access to decision-making processes
-- **Data Governance**: Evaluation of how EPD collects, analyzes, and uses data for decisions
-- **Accountability Measures**: Analysis of government responsiveness to cost-effectiveness concerns
+1. **How does EPD allocate resources for incentives and target different user groups based on GREEN$ app usage data?**
+2. **What app usage patterns can be visualized from available data, and what do they reveal about user engagement?**
+3. **How does EPD use app usage data to target different demographic groups with incentives?**
+4. **What is the relationship between resource allocation for incentives and app usage effectiveness?**
+
+## **Implementation Strategy (New)**
+
+### **Minimum Viable Work**
+- **Data Visualization Priority**: Focus on visualizing available GREEN$ app usage data
+- **Basic Analysis**: Simple visualization of user engagement patterns and geographic distribution
+- **Stakeholder Contact**: Direct engagement with EPD staff for on-site data collection
+
+### **Enhanced Data Collection**
+- **Team App Usage**: All team members use the app to earn points and understand user experience
+- **User Identification**: Find and interview people who use the app for insights
+- **EPD Staff Meetings**: Direct contact with EPD staff for resource allocation insights
+- **Survey Backup**: On-site surveys at Green@Community facilities if needed
+
+### **Expected Outcomes**
+- **Data Visualization**: Clear presentation of app usage patterns and user engagement
+- **Resource Allocation Insights**: Understanding of how EPD allocates incentives
+- **Targeting Assessment**: Evaluation of demographic targeting strategies
+- **Policy Recommendations**: Evidence-based suggestions for improved resource allocation
