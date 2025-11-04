@@ -1,0 +1,3 @@
+kmb_route,citybus_route,description,kmb_route_info,citybus_route_info,coordination_type,priority
+272A,582,University Station ↔ Pak Shek Kok ↔ Sai Sha connection,University Station → Pak Shek Kok,Pak Shek Kok → Sai Sha and Shap Sze Heung,transfer_connection,high
+1,1,Both serve Central area,Chuk Yuen Estate ↔ Star Ferry,Central (Macau Ferry) ↔ Happy Valley (Upper),area_overlap,medium

@@ -4,7 +4,7 @@
 **Team Focus:** Analysis of flu vaccination campaigns and public health policy effectiveness in Hong Kong
 **Supervisors:** Dr. Talia Wu (Mathematics), Dr. Simon Wang (English)
 **Final Deliverable:** 2,500-3,000 word group research report
-**Current Status:** Week 5 - Project Scoping & Planning
+**Current Status:** Week 8 - Data Collection & Government Enquiry (October 19, 2024)
 
 ## Core Research Question
 **Primary Question:** To what extent does the Hong Kong government use data-driven approaches in flu vaccination campaign planning and resource allocation?
@@ -15,16 +15,18 @@
 - Policy intervention impact assessment
 - Predictive modeling for future campaigns
 
-## Detailed Project Timeline (Weeks 5-13)
+## Detailed Project Timeline (Weeks 8-13) - UPDATED
 
-### Phase 1: Planning & Initial Data Collection (Weeks 5-7)
+### Phase 1: Data Collection & Research (Weeks 8-9) - CURRENT PHASE
 
-#### Week 5: Project Scoping & Planning (Current Week)
-**Tasks:**
-- Finalize research question and scope
-- Assign team roles (see Section 3)
-- Draft enquiry email to Department of Health under Code on Access to Information
-- Begin literature review on flu vaccination policies
+#### Week 8: URGENT - Government Enquiry & Secondary Data Collection (October 19, 2024)
+**CRITICAL TASKS:**
+- **SEND government enquiry email TODAY** to Department of Health under Code on Access to Information
+- Begin intensive secondary data collection from data.gov.hk, Census Department, Center for Health Protection
+- Design survey questionnaire for field data collection (target: parents/elderly)
+- Conduct literature review on flu vaccination effectiveness and policy studies
+
+**Government Enquiry Template:**
 
 **Government Enquiry Template:**
 > **Subject:** Request for Information under the Code on Access to Information: Flu Vaccination Campaign Data Analysis
@@ -41,42 +43,32 @@
 > 2. Could you provide any public reports or policy documents that outline the standard operating procedures for determining vaccination site locations and resource allocation?
 > 3. What data-driven criteria are used to evaluate the success of flu vaccination campaigns and inform future planning?
 
-**Deliverable:** Submit one-page project plan and draft enquiry email to supervisors for feedback.
+**Deliverable:** Copy of sent email with timestamp and preliminary bibliography of at least 10 secondary sources.
 
-#### Week 6: Fieldwork & Primary Data Request (No Class)
+#### Week 9: Field Surveys & Data Analysis (While waiting for government response)
 **Tasks:**
-- Send approved enquiry email to Department of Health
-- Begin intensive secondary data collection
-- Conduct fieldwork at vaccination centers (with permission)
-- Search for government annual reports, press releases, and data on data.gov.hk
+- Conduct fieldwork at vaccination centers and community locations (with permission)
+- Administer surveys to parents and elderly populations
+- Analyze available secondary data from public sources
+- Begin preliminary data analysis and model design
 
 **Actionable Instructions:**
 - Search for flu vaccination data on data.gov.hk
 - Collect demographic data from Census and Statistics Department
 - Review Department of Health annual reports and press releases
 - Create shared document to log all sources
+- Begin mathematical model framework design
 
-**Deliverable:** Copy of sent email with timestamp and preliminary bibliography of at least 10 secondary sources.
+**Deliverable:** Field survey results and preliminary analysis of secondary data.
 
-#### Week 7: Data Consolidation & Model Selection
-**Tasks:**
-- Organize all collected secondary data
-- Review any response from Department of Health
-- Decide on mathematical model (Regression or Simulation)
+### Phase 2: Mathematical Modeling (Weeks 10-11)
 
-**Model Choice Justification:**
-- **Choose Regression** if focusing on predicting vaccination rates based on demographic factors, campaign timing, or resource allocation
-- **Choose Simulation** if modeling complex vaccination campaign scenarios, resource allocation optimization, or population behavior under different policy interventions
-
-**Deliverable:** One-paragraph justification for model choice, submitted to Dr. Wu for approval.
-
-### Phase 2: Modelling & Analysis (Weeks 8-10)
-
-#### Weeks 8-9: Building "The Ideal" Scenario
+#### Week 10: Model Development & Government Response Integration
 **Tasks:**
 - Develop mathematical model for optimal vaccination campaign planning
-- Clean dataset and run model
+- Clean dataset and run preliminary model with available data
 - Document assumptions, variables, and methodology
+- **Expected government response arrives (November 9, 2024)**
 
 **Regression Model Approach:**
 - **Dependent Variable:** Vaccination rates by district/demographic group
@@ -90,17 +82,18 @@
 
 **Deliverable:** Preliminary model results and draft methodology section.
 
-#### Week 10: Synthesizing Reality & Ideal
+#### Week 11: Data Integration & Model Refinement
 **Tasks:**
+- Integrate government response data into models
+- Refine models with official vaccination records
 - Compare current government vaccination campaign practices with model results
 - Identify gaps between current approach and data-driven optimization
-- Analyze potential consequences of current limitations
 
-**Deliverable:** Bullet-point summary of comparative analysis.
+**Deliverable:** Refined model results and comparative analysis summary.
 
-### Phase 3: Reporting & Finalization (Weeks 11-13)
+### Phase 3: Reporting & Finalization (Weeks 12-13)
 
-#### Week 11: Drafting Recommendations & Report Writing
+#### Week 12: Drafting Recommendations & Report Writing
 **Tasks:**
 - Formulate 3-5 concrete, evidence-based recommendations
 - Each team member writes assigned section (~500 words each)
@@ -113,20 +106,21 @@
 
 **Deliverable:** Complete first draft of entire group report.
 
-#### Week 12: Peer Review, Editing & Consolidation
+#### Week 13: Final Review & Submission
 **Tasks:**
 - Edit entire report for consistency, clarity, and tone
 - Check grammar, citations, and formatting
 - Ensure cohesive narrative flow
-
-**Deliverable:** Near-final version of report, ready for final proofread.
-
-#### Week 13: Final Submission
-**Tasks:**
 - Final proofread and submission
 - Prepare presentation materials
 
 **Deliverable:** 2,500-3,000 word group research report.
+
+## Critical Timeline Notes
+- **Government enquiry deadline:** Send by October 19, 2024 (TODAY)
+- **Expected government response:** November 9, 2024 (21 calendar days)
+- **Model development:** Must begin with secondary data while waiting for government response
+- **Final report due:** Week 13
 
 ## Group Collaboration Framework
 

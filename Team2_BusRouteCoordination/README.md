@@ -1,76 +1,50 @@
-# Team 2: Bus Route Coordination
+# Team 2: Bus Route Coordination Project
 
 ## Project Overview
-Optimization of public transportation routes and coordination in Hong Kong using mathematical models and simulation.
+This project focuses on analyzing and improving bus route coordination in Hong Kong through data-driven policy analysis, API data collection, and government engagement.
 
-## Team Members
-- [ ] Add team member names here
+## Folder Organization
 
-## Project Objectives
-1. Develop predictive models for passenger demand
-2. Optimize bus route coordination and scheduling
-3. Improve passenger experience and operational efficiency
-4. Create simulation models for testing scenarios
+### 📊 01_Project_Report
+Contains all project report documents and outlines:
+- `Project_Report_Outline.md` - Initial project report outline
+- `Project_Report_Outline_v2.md` - Second version with updates
+- `Project_Report_Outline_v3.md` - Third version with refinements
 
-## Current Materials
-- `GCAP3226-Topic1-BusFrequency.md` - Bus frequency analysis
-- `Topic3_BusRoutesCoordination_MathModels.md` - Comprehensive mathematical modeling approach
+### 📋 02_Data_Collection
+Contains data collection materials and API data:
+- `Bus_Operators_Email_Draft.md` - Email draft to bus operators
+- `Transport_Department_Email_Draft.md` - Email draft to Transport Department
+- `emailDraft01.md` - General email draft
+- `APIdata/` - Directory containing API data collection and analysis
+  - API endpoints and data access reports
+  - Route overlap analysis and coordination data
+  - Similar cases analysis and documentation
 
-## Key Research Questions
-- How can regression analysis improve demand prediction?
-- What coordination strategies minimize passenger wait times?
-- How do external factors (weather, events) affect ridership?
-- What is the optimal balance between service frequency and cost?
+### 🤖 03_Human_AI_Report
+Contains human-AI collaboration documentation:
+- `Meeting_Notes_Template.md` - Template for meeting notes
+- `Topic3_BusRoutesCoordination_MathModels.md` - Mathematical models and analysis
 
-## Data Sources
-- [ ] Octopus card transaction data
-- [ ] GPS bus tracking data
-- [ ] Weather and event data
-- [ ] Population and demographic data
-- [ ] Route 56 simulation data (available in course materials)
+### 🎯 04_In_Class_Exercises
+Contains project planning and in-class exercise materials:
+- `Project_Roadmap_Team2.md` - Team 2 specific project roadmap
+- `GCAP3226-Topic1-BusFrequency.md` - Bus frequency analysis topic
 
-## Methodology
-### Regression Analysis
-- Passenger demand prediction models
-- Travel time estimation
-- Bus utilization forecasting
+### ⚙️ 05_Project_Admin_Tutoring
+Contains administrative and tutoring materials:
+- `Teacher_Update_Notes.md` - Teacher update notes
+- `README.md` - Project documentation
 
-### Simulation Models
-- Multi-route coordination simulation
-- Service frequency optimization
-- Dynamic scheduling scenarios
-- Transfer efficiency modeling
+### 📈 06_Data_Analysis_Governance_Review
+Contains data analysis, governance review, and literature:
+- `Literature/` - Directory containing research literature and analysis
+  - Academic papers and research findings
+  - Literature review and insights
+  - Policy analysis and recommendations
 
-## Technical Framework
-Based on existing Route 56 simulation:
-- Poisson distribution for passenger arrivals
-- Binomial distribution for alighting behavior
-- Real-time tracking and queue management
-- Performance metrics (wait time, utilization, reliability)
+## Project Status
+This project is part of GCAP3226: Empowering Citizens through Data - Participatory Policy Analysis for Hong Kong.
 
-## Deliverables
-- [ ] Demand prediction models
-- [ ] Route coordination algorithms
-- [ ] Simulation framework extension
-- [ ] Policy recommendations for transport authorities
-- [ ] Interactive demonstration
-
-## Timeline
-- [ ] Week 1-2: Literature review and data analysis
-- [ ] Week 3-4: Regression model development
-- [ ] Week 5-6: Simulation model enhancement
-- [ ] Week 7-8: Integration and testing
-- [ ] Week 9-10: Report and presentation
-
-## Expected Outcomes
-- 15-25% reduction in passenger wait time
-- 10-20% improvement in bus utilization
-- Enhanced coordination algorithms for real-world application
-
-## Resources
-- Course simulation materials: `../00_Course_Materials/Topic_Notes/`
-- Interactive tools: Google Drive `03_instructor_tools/`
-- Technical utilities: `05_scripts_utilities/`
-
----
-*Last updated: September 27, 2024*
+## Contact
+For questions about this project, please refer to the team members or course instructor.

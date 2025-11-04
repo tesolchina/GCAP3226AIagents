@@ -1,0 +1,395 @@
+route,bound,service_type,orig_tc,orig_en,dest_tc,dest_en,data_timestamp
+1,,,中環 (港澳碼頭),Central (Macau Ferry),跑馬地 (上),Happy Valley (Upper),2025-10-19T05:00:02+08:00
+10,,,堅尼地城,Kennedy Town,北角碼頭,North Point Ferry Pier,2025-10-19T05:00:02+08:00
+101,,,堅尼地城,Kennedy Town,觀塘 (裕民坊),Kwun Tong (Yue Man Square),2025-10-19T05:00:02+08:00
+101R,,,跑馬地馬場,Happy Valley Racecourse,觀塘 (裕民坊),Kwun Tong (Yue Man Square),2025-10-19T05:00:02+08:00
+101X,,,堅尼地城,Kennedy Town,觀塘 (裕民坊),Kwun Tong (Yue Man Square),2025-10-19T05:00:02+08:00
+102,,,筲箕灣,Shau Kei Wan,美孚,Mei Foo,2025-10-19T05:00:02+08:00
+102P,,,筲箕灣,Shau Kei Wan,美孚,Mei Foo,2025-10-19T05:00:02+08:00
+102R,,,跑馬地馬場,Happy Valley Racecourse,美孚,Mei Foo,2025-10-19T05:00:02+08:00
+103,,,蒲飛路,Pokfield Road,竹園,Chuk Yuen,2025-10-19T05:00:02+08:00
+104,,,堅尼地城,Kennedy Town,白田邨,Pak Tin Estate,2025-10-19T05:00:02+08:00
+104R,,,中環碼頭,Central (Ferry Piers),旺角,Mong Kok,2025-10-19T05:00:02+08:00
+106,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),黃大仙,Wong Tai Sin,2025-10-19T05:00:02+08:00
+106A,,,黃大仙,Wong Tai Sin,太古 (康怡廣場),Tai Koo (Kornhill Plaza),2025-10-19T05:00:02+08:00
+106P,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),黃大仙,Wong Tai Sin,2025-10-19T05:00:02+08:00
+107,,,華貴邨,Wah Kwai Estate,九龍灣,Kowloon Bay,2025-10-19T05:00:02+08:00
+107P,,,紅磡 (海逸豪園),Hung Hom (Laguna Verde),數碼港,Cyberport,2025-10-19T05:00:02+08:00
+109,,,中環 (港澳碼頭),Central (Macau Ferry),何文田邨,Ho Man Tin Estate,2025-10-19T05:00:02+08:00
+11,,,中環碼頭,Central (Ferry Piers),渣甸山,Jardine's Lookout,2025-10-19T05:00:02+08:00
+110,,,筲箕灣,Shau Kei Wan,尖沙咀 (麼地道),Tsim Sha Tsui (Mody Road),2025-10-19T05:00:02+08:00
+111,,,中環 (港澳碼頭),Central (Macau Ferry),坪石邨,Ping Shek Estate,2025-10-19T05:00:02+08:00
+111P,,,彩福邨,Choi Fook Estate,中環 (港澳碼頭),Central (Macau Ferry),2025-10-19T05:00:02+08:00
+112,,,北角 (百福道),North Point (Pak Fuk Road),蘇屋邨,So Uk Estate,2025-10-19T05:00:02+08:00
+113,,,堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),彩虹,Choi Hung,2025-10-19T05:00:02+08:00
+115,,,中環 (港澳碼頭),Central (Macau Ferry),九龍城碼頭,Kowloon City Ferry Pier,2025-10-19T05:00:02+08:00
+115P,,,海逸豪園,Laguna Verde,中環 (港澳碼頭),Central (Macau Ferry),2025-10-19T05:00:02+08:00
+116,,,鰂魚涌 (祐民街),Quarry Bay (Yau Man Street),慈雲山 (中),Tsz Wan Shan (Central),2025-10-19T05:00:02+08:00
+117,,,跑馬地 (下),Happy Valley (Lower),深水埗 (欽州街),Sham Shui Po (Yen Chow Street),2025-10-19T05:00:02+08:00
+118,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),長沙灣 (深旺道),Cheung Sha Wan (Sham Mong Road),2025-10-19T05:00:02+08:00
+118P,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),長沙灣 (深旺道),Cheung Sha Wan (Sham Mong Road),2025-10-19T05:00:02+08:00
+12,,,中環3號碼頭,Central Pier 3,羅便臣道／柏道,Robinson Road / Park Road,2025-10-19T05:00:02+08:00
+12A,,,金鐘 (添馬街),Admiralty (Tamar Street),麥當勞道,MacDonnell Road,2025-10-19T05:00:02+08:00
+12M,,,金鐘 (添馬街),Admiralty (Tamar Street),柏道,Park Road,2025-10-19T05:00:02+08:00
+13,,,金鐘 (添馬街),Admiralty (Tamar Street),旭龢道 (半山區),Kotewall Road (Mid-levels),2025-10-19T05:00:02+08:00
+14,,,嘉亨灣,Grand Promenade,赤柱炮台 (閘口)／馬坑,Stanley Fort (Gate) / Ma Hang,2025-10-19T05:00:02+08:00
+15,,,中環,Central,山頂,The Peak,2025-10-19T05:00:02+08:00
+15B,,,灣仔 (會展新翼),Wan Chai (HKCEC Extension),山頂,The Peak,2025-10-19T05:00:02+08:00
+15C,,,中環 (香港摩天輪),Central (Hong Kong Observation Wheel),花園道,Garden Road,2025-10-19T05:00:02+08:00
+170,,,華富 (中),Wah Fu (Central),沙田站,Sha Tin Station,2025-10-19T05:00:02+08:00
+171,,,海怡半島,South Horizons,荔枝角,Lai Chi Kok,2025-10-19T05:00:02+08:00
+171A,,,利東邨,Lei Tung Estate,荔枝角,Lai Chi Kok,2025-10-19T05:00:02+08:00
+171P,,,海怡半島,South Horizons,荔枝角,Lai Chi Kok,2025-10-19T05:00:02+08:00
+173R,,,赤柱,Stanley,尖沙咀(麼地道),Tsim Sha Tsui (Mody Road),2025-10-19T05:00:02+08:00
+18,,,北角 (健康中街),North Point (Healthy Street Central),堅尼地城 (卑路乍灣)／上環,Kennedy Town (Belcher Bay) / Sheung Wan,2025-10-19T05:00:02+08:00
+182,,,中環 (港澳碼頭),Central (Macau Ferry),沙田 (愉翠苑),Sha Tin (Yu Chui Court),2025-10-19T05:00:02+08:00
+182X,,,中環 (港澳碼頭),Central (Macau Ferry),沙田 (愉翠苑),Sha Tin (Yu Chui Court),2025-10-19T05:00:02+08:00
+18P,,,堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),北角 (健康中街),North Point (Healthy Street Central),2025-10-19T05:00:02+08:00
+18X,,,筲箕灣,Shau Kei Wan,堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),2025-10-19T05:00:02+08:00
+19P,,,筲箕灣,Shau Kei Wan,跑馬地 (上),Happy Valley (Upper),2025-10-19T05:00:02+08:00
+1M,,,會展站,Exhibition Centre Station,跑馬地／黃泥涌峽,Happy Valley / Wong Nai Chung Gap,2025-10-19T05:00:02+08:00
+1P,,,黃泥涌道 (樂活道),Wong Nai Chung Road (Broadwood Road),中環,Central,2025-10-19T05:00:02+08:00
+2,,,嘉亨灣,Grand Promenade,中環 (港澳碼頭),Central (Macau Ferry),2025-10-19T05:00:02+08:00
+20,,,啟德 (沐安街),Kai Tak (Muk On Street),長沙灣 (海達),Cheung Sha Wan (Hoi Tat),2025-10-19T05:00:02+08:00
+20A,,,啟德郵輪碼頭 (經:旺角),Kai Tak Cruise Terminal (via: Mong Kok),高鐵西九龍站 (經:旺角),HSR West Kowloon Station (via: Mong Kok),2025-10-19T05:00:02+08:00
+20R,,,啟德郵輪碼頭,Kai Tak Cruise Terminal,尖沙咀／高鐵西九龍站,Tsim Sha Tsui / High Speed Rail West Kowloon Station,2025-10-19T05:00:02+08:00
+22,,,啟德郵輪碼頭,Kai Tak Cruise Terminal,九龍塘 (又一城),Kowloon Tong (Festival Walk),2025-10-19T05:00:02+08:00
+22D,,,啟德站,Kai Tak Station,啟德跑道區,Kai Tak Runway Area,2025-10-19T05:00:02+08:00
+22M,,,啟德郵輪碼頭,Kai Tak Cruise Terminal,土瓜灣,To Kwa Wan,2025-10-19T05:00:02+08:00
+22R,,,啟德站,Kai Tak Station,啟德郵輪碼頭,Kai Tak Cruise Terminal,2025-10-19T05:00:02+08:00
+22X,,,維港1號,One Victoria,啟德站,Kai Tak Station,2025-10-19T05:00:02+08:00
+23,,,北角碼頭,North Point Ferry Pier,蒲飛路,Pokfield Road,2025-10-19T05:00:02+08:00
+23B,,,寶馬山,Braemar Hill,柏道／羅便臣道,Park Road / Robinson Road,2025-10-19T05:00:02+08:00
+23X,,,蒲飛路,Pokfield Road,西灣河,Sai Wan Ho,2025-10-19T05:00:02+08:00
+25,,,中環 (3 / 5 號碼頭),Central (Pier 3/5),寶馬山,Braemar Hill,2025-10-19T05:00:02+08:00
+25A,,,會展站,Exhibition Centre Station,寶馬山,Braemar Hill,2025-10-19T05:00:02+08:00
+26,,,勵德邨,Lai Tak Tsuen,荷李活道,Hollywood Road,2025-10-19T05:00:02+08:00
+260,,,中環 (交易廣場),Central (Exchange Square),赤柱市場,Stanley Market,2025-10-19T05:00:02+08:00
+27,,,北角碼頭,North Point Ferry Pier,寶馬山,Braemar Hill,2025-10-19T05:00:02+08:00
+2A,,,耀東邨,Yiu Tung Estate,會展站,Exhibition Centre Station,2025-10-19T05:00:02+08:00
+2X,,,嘉亨灣,Grand Promenade,會展站,Exhibition Centre Station,2025-10-19T05:00:02+08:00
+302,,,慈雲山 (北),Tsz Wan Shan (North),上環,Sheung Wan,2025-10-19T05:00:02+08:00
+302A,,,慈雲山 (北),Tsz Wan Shan (North),北角 (健康村),North Point (Healthy Village),2025-10-19T05:00:02+08:00
+307,,,大埔中心,Tai Po Centre,中環碼頭／上環,Central (Ferry Piers) / Sheung Wan,2025-10-19T05:00:02+08:00
+307A,,,大埔頭,Tai Po Tau,上環,Sheung Wan,2025-10-19T05:00:02+08:00
+307P,,,天后站,Tin Hau Station,大埔 (汀太路／富蝶),Tai Po (Ting Tai Road / Fu Tip),2025-10-19T05:00:02+08:00
+30X,,,數碼港,Cyberport,金鐘(東),Admiralty (East),2025-10-19T05:00:02+08:00
+314,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),赤柱 (海灘／市場),Stanley (Beach / Market),2025-10-19T05:00:02+08:00
+33X,,,數碼港,Cyberport,筲箕灣,Shau Kei Wan,2025-10-19T05:00:02+08:00
+347,,,金鐘 (西),Admiralty (West),香港仔 (經域多利道),Aberdeen (via Victoria Road),2025-10-19T05:00:02+08:00
+37A,,,置富花園,Chi Fu Fa Yuen,中環,Central,2025-10-19T05:00:02+08:00
+37B,,,置富花園,Chi Fu Fa Yuen,金鐘,Admiralty,2025-10-19T05:00:02+08:00
+37X,,,置富花園,Chi Fu Fa Yuen,金鐘,Admiralty,2025-10-19T05:00:02+08:00
+38,,,置富花園,Chi Fu Fa Yuen,北角碼頭,North Point Ferry Pier,2025-10-19T05:00:02+08:00
+382,,,柴灣 (東),Chai Wan (East),泥涌,Nai Chung,2025-10-19T05:00:02+08:00
+388,,,柴灣站,Chai Wan Station,柴灣墳場／歌連臣角,Chai Wan Cemeteries / Cape Collinson,2025-10-19T05:00:02+08:00
+389,,,筲箕灣,Shau Kei Wan,柴灣墳場／歌連臣角,Chai Wan Cemeteries / Cape Collinson,2025-10-19T05:00:02+08:00
+3A,,,中環 (天星碼頭),Central (Star Ferry),摩星嶺,Felix Villas,2025-10-19T05:00:02+08:00
+4,,,黃竹坑／華富 (南),Wong Chuk Hang / Wah Fu (South),中環,Central,2025-10-19T05:00:02+08:00
+40,,,華富 (北),Wah Fu (North),會展站,Exhibition Centre Station,2025-10-19T05:00:02+08:00
+40M,,,華富 (北),Wah Fu (North),會展站,Exhibition Centre Station,2025-10-19T05:00:02+08:00
+40P,,,華富 (北),Wah Fu (North),羅便臣道,Robinson Road,2025-10-19T05:00:02+08:00
+41A,,,華富 (中),Wah Fu (Central),北角碼頭,North Point Ferry Pier,2025-10-19T05:00:02+08:00
+42,,,華富 (南),Wah Fu (South),北角碼頭,North Point Ferry Pier,2025-10-19T05:00:02+08:00
+42C,,,數碼港,Cyberport,北角碼頭,North Point Ferry Pier,2025-10-19T05:00:02+08:00
+43M,,,田灣,Tin Wan,石塘咀,Shek Tong Tsui,2025-10-19T05:00:02+08:00
+43R,,,堅尼地城站,Kennedy Town Station,堅尼地城,Kennedy Town,2025-10-19T05:00:02+08:00
+47P,,,堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),黃竹坑,Wong Chuk Hang,2025-10-19T05:00:02+08:00
+48,,,深灣／海洋公園,Sham Wan / Ocean Park,華富 (北),Wah Fu (North),2025-10-19T05:00:02+08:00
+49X,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),數碼港,Cyberport,2025-10-19T05:00:02+08:00
+4X,,,華富 (南),Wah Fu (South),中環 (交易廣場),Central (Exchange Square),2025-10-19T05:00:02+08:00
+50,,,屯門 (菁田及和田),Tuen Mun (Ching Tin and Wo Tin),尖沙咀 (九龍站),Tsim Sha Tsui (Kowloon Station),2025-10-19T05:00:02+08:00
+50M,,,和田邨,Wo Tin Estate,屯門站,Tuen Mun Station,2025-10-19T05:00:02+08:00
+50R,,,香港體育館,Hong Kong Coliseum,屯門 (菁田及和田),Tuen Mun (Ching Tin and Wo Tin),2025-10-19T05:00:02+08:00
+511,,,大坑徑,Tai Hang Drive,中環碼頭,Central (Ferry Piers),2025-10-19T05:00:02+08:00
+55,,,屯門 (菁田及和田),Tuen Mun (Ching Tin and Wo Tin),觀塘碼頭,Kwun Tong Ferry Pier,2025-10-19T05:00:02+08:00
+56,,,屯門 (和田及菁田),Tuen Mun (Wo Tin and Ching Tin),上水 (天平邨),Sheung Shui (Tin Ping Estate),2025-10-19T05:00:02+08:00
+56A,,,屯門 (和田及菁田),Tuen Mun (Wo Tin and Ching Tin),粉嶺皇后山 (經:上水站),Queen’s Hill Fanling (via: Sheung Shui Station),2025-10-19T05:00:02+08:00
+580,,,西沙GO PARK,GO PARK Sai Sha,沙田市中心,Sha Tin Central,2025-10-19T05:00:02+08:00
+581,,,西沙及十四鄉,Sai Sha and Shap Sze Heung,馬鞍山市中心 (經烏溪沙站),Ma On Shan Town Centre (Via Wu Kai Sha Station),2025-10-19T05:00:02+08:00
+582,,,白石角 (經大學站),Pak Shek Kok (Via University Station),西沙及十四鄉,Sai Sha and Shap Sze Heung,2025-10-19T05:00:02+08:00
+592,,,海怡半島,South Horizons,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+595,,,海怡半島,South Horizons,石排灣 (經香港仔),Shek Pai Wan (via Aberdeen),2025-10-19T05:00:02+08:00
+5B,,,摩星嶺／堅尼地城,Felix Villas / Kennedy Town,銅鑼灣／香港大球場,Causeway Bay / Hong Kong Stadium,2025-10-19T05:00:02+08:00
+5X,,,堅尼地城,Kennedy Town,銅鑼灣 (威非路道),Causeway Bay (Whitfield Road),2025-10-19T05:00:02+08:00
+6,,,中環 (交易廣場),Central (Exchange Square),赤柱市場,Stanley Market,2025-10-19T05:00:02+08:00
+601,,,金鐘 (東),Admiralty (East),寶達邨,Po Tat Estate,2025-10-19T05:00:02+08:00
+601P,,,寶達邨,Po Tat Estate,上環,Sheung Wan,2025-10-19T05:00:02+08:00
+606,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),彩雲 (豐盛街),Choi Wan (Fung Shing Street),2025-10-19T05:00:02+08:00
+606A,,,彩雲 (豐盛街),Choi Wan (Fung Shing Street),耀東邨,Yiu Tung Estate,2025-10-19T05:00:02+08:00
+606X,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),九龍灣,Kowloon Bay,2025-10-19T05:00:02+08:00
+608,,,九龍城 (盛德街),Kowloon City (Shing Tak Street),筲箕灣,Shau Kei Wan,2025-10-19T05:00:02+08:00
+608P,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),啟德,Kai Tak,2025-10-19T05:00:02+08:00
+619,,,中環 (港澳碼頭),Central (Macau Ferry),順利邨,Shun Lee Estate,2025-10-19T05:00:02+08:00
+619P,,,順利邨,Shun Lee Estate,中環 (港澳碼頭),Central (Macau Ferry),2025-10-19T05:00:02+08:00
+619X,,,順利邨,Shun Lee Estate,中環 (港澳碼頭),Central (Macau Ferry),2025-10-19T05:00:02+08:00
+61R,,,沙田第一城,City One Shatin,藍田站,Lam Tin Station,2025-10-19T05:00:02+08:00
+621,,,麗港城,Laguna City,中環 (香港站),Central (Hong Kong Station),2025-10-19T05:00:02+08:00
+629,,,中環 (天星碼頭),Central (Star Ferry),海洋公園 (正門／水上樂園),Ocean Park (Main Entrance / Water World),2025-10-19T05:00:02+08:00
+629M,,,海洋公園 (水上樂園),Ocean Park (Water World),黃竹坑站,Wong Chuk Hang Station,2025-10-19T05:00:02+08:00
+63,,,北角碼頭,North Point Ferry Pier,赤柱市場,Stanley Market,2025-10-19T05:00:02+08:00
+641,,,中環 (港澳碼頭),Central (Macau Ferry),啟德 (啟晴邨),Kai Tak (Kai Ching Estate),2025-10-19T05:00:02+08:00
+65,,,北角碼頭,North Point Ferry Pier,赤柱市場,Stanley Market,2025-10-19T05:00:02+08:00
+66,,,中環 (交易廣場),Central (Exchange Square),赤柱廣場 (馬坑),Stanley Plaza (Ma Hang),2025-10-19T05:00:02+08:00
+671,,,鴨脷洲 (利樂街),Ap Lei Chau (Lee Lok Street),鑽石山站,Diamond Hill Station,2025-10-19T05:00:02+08:00
+671X,,,鴨脷洲 (利樂街),Ap Lei Chau (Lee Lok Street),鑽石山站,Diamond Hill Station,2025-10-19T05:00:02+08:00
+678,,,上水,Sheung Shui,銅鑼灣 (東院道),Causeway Bay (Eastern Hospital Road),2025-10-19T05:00:02+08:00
+679,,,粉嶺皇后山,Queen's Hill Fanling,中環 (香港站),Central (Hong Kong Station),2025-10-19T05:00:02+08:00
+680,,,金鐘 (東),Admiralty (East),馬鞍山 (利安邨),Ma On Shan (Lee On Estate),2025-10-19T05:00:02+08:00
+680B,,,馬鞍山 (富安花園),Ma On Shan (Chevalier Garden),金鐘 (東),Admiralty (East),2025-10-19T05:00:02+08:00
+680P,,,馬鞍山 (烏溪沙站),Ma On Shan (Wu Kai Sha Station),金鐘 (東),Admiralty (East),2025-10-19T05:00:02+08:00
+680X,,,中環 (港澳碼頭),Central (Macau Ferry Pier),馬鞍山 (烏溪沙站),Ma On Shan (Wu Kai Sha Station),2025-10-19T05:00:02+08:00
+681,,,中環 (香港站),Central (Hong Kong Station),馬鞍山市中心,Ma On Shan Town Centre,2025-10-19T05:00:02+08:00
+681P,,,馬鞍山 (耀安邨),Ma On Shan (Yiu On Estate),上環,Sheung Wan,2025-10-19T05:00:02+08:00
+682,,,柴灣 (東),Chai Wan (East),馬鞍山 (烏溪沙站),Ma On Shan (Wu Kai Sha Station),2025-10-19T05:00:02+08:00
+682A,,,馬鞍山市中心,Ma On Shan Town Centre,柴灣 (東),Chai Wan (East),2025-10-19T05:00:02+08:00
+682B,,,水泉澳邨,Shui Chuen O Estate,柴灣 (東),Chai Wan (East),2025-10-19T05:00:02+08:00
+682P,,,烏溪沙站,Wu Kai Sha Station,柴灣 (東),Chai Wan (East),2025-10-19T05:00:02+08:00
+690,,,中環 (交易廣場),Central (Exchange Square),將軍澳 (康盛花園),Tseung Kwan O (Hong Sing Garden),2025-10-19T05:00:02+08:00
+690P,,,將軍澳 (康盛花園),Tseung Kwan O (Hong Sing Garden),中環 (交易廣場),Central (Exchange Square),2025-10-19T05:00:02+08:00
+690S,,,中環 (交易廣場),Central (Exchange Square),坑口 (經:日出康城),Hang Hau (via: LOHAS Park),2025-10-19T05:00:02+08:00
+694,,,小西灣邨,Siu Sai Wan Estate,調景嶺站,Tiu Keng Leng Station,2025-10-19T05:00:02+08:00
+694S,,,小西灣邨,Siu Sai Wan Estate,調景嶺站 (經:日出康城),Tiu Keng Leng Station (via: LOHAS Park),2025-10-19T05:00:02+08:00
+6A,,,中環 (交易廣場),Central (Exchange Square),赤柱炮台 (閘口),Stanley Fort (Gate),2025-10-19T05:00:02+08:00
+6X,,,中環 (交易廣場),Central (Exchange Square),赤柱市場,Stanley Market,2025-10-19T05:00:02+08:00
+7,,,石排灣,Shek Pai Wan,中環碼頭,Central (Ferry Piers),2025-10-19T05:00:02+08:00
+70,,,華貴 (經:香港仔),Wah Kwai (via: Aberdeen),中環 (交易廣場),Central (Exchange Square),2025-10-19T05:00:02+08:00
+701,,,海麗邨／南昌站,Hoi Lai Estate / Nam Cheong Station,旺角,Mong Kok,2025-10-19T05:00:02+08:00
+701A,,,海盈邨,Hoi Ying Estate,旺角,Mong Kok,2025-10-19T05:00:02+08:00
+701S,,,海麗邨／南昌站,Hoi Lai Estate / Nam Cheong Station,旺角,Mong Kok,2025-10-19T05:00:02+08:00
+702,,,海麗邨／南昌站,Hoi Lai Estate / Nam Cheong Station,九龍塘 (又一城),Kowloon Tong (Festival Walk),2025-10-19T05:00:02+08:00
+702A,,,海盈邨,Hoi Ying Estate,白田邨,Pak Tin Estate,2025-10-19T05:00:02+08:00
+702B,,,白田 (北),Pak Tin (North),海盈邨,Hoi Ying Estate,2025-10-19T05:00:02+08:00
+702S,,,蘇屋邨,So Uk Estate,泓景臺／富昌邨,Banyan Garden / Fu Cheong Estate,2025-10-19T05:00:02+08:00
+70P,,,石排灣 (經:香港仔),Shek Pai Wan (via: Aberdeen),中環 (交易廣場),Central (Exchange Square),2025-10-19T05:00:02+08:00
+71,,,黃竹坑,Wong Chuk Hang,中環 (林士街),Central (Rumsey Street),2025-10-19T05:00:02+08:00
+71P,,,深灣,Sham Wan,中環碼頭,Central (Ferry Piers),2025-10-19T05:00:02+08:00
+72,,,華貴邨,Wah Kwai Estate,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+720,,,嘉亨灣,Grand Promenade,中環 (港澳碼頭 / 永和街),Central (Macau Ferry / Wing Wo Street),2025-10-19T05:00:02+08:00
+720A,,,嘉亨灣,Grand Promenade,金鐘 (海富中心)/ 中環(畢打街),Admiralty (Admiralty Centre)/ Central (Pedder Street),2025-10-19T05:00:02+08:00
+720P,,,太古城,Taikoo Shing,中環 (永和街),Central (Wing Wo Street),2025-10-19T05:00:02+08:00
+720X,,,嘉亨灣,Grand Promenade,中環(林士街),Central (Rumsey Street),2025-10-19T05:00:02+08:00
+722,,,耀東邨,Yiu Tung Estate,中環碼頭,Central (Ferry Piers),2025-10-19T05:00:02+08:00
+72A,,,深灣,Sham Wan,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+73,,,數碼港／華富 (北),Cyberport / Wah Fu (North),赤柱市場,Stanley Market,2025-10-19T05:00:02+08:00
+73P,,,深灣,Sham Wan,數碼港,Cyberport,2025-10-19T05:00:02+08:00
+75,,,深灣,Sham Wan,中環 (交易廣場),Central (Exchange Square),2025-10-19T05:00:02+08:00
+76,,,黃竹坑站／石排灣,Wong Chuk Hang Station / Shek Pai Wan,銅鑼灣 (邊寧頓街),Causeway Bay (Pennington Street),2025-10-19T05:00:02+08:00
+77,,,田灣,Tin Wan,筲箕灣,Shau Kei Wan,2025-10-19T05:00:02+08:00
+77A,,,筲箕灣,Shau Kei Wan,田灣,Tin Wan,2025-10-19T05:00:02+08:00
+77X,,,華貴邨,Wah Kwai Estate,西灣河,Sai Wan Ho,2025-10-19T05:00:02+08:00
+78,,,黃竹坑,Wong Chuk Hang,華貴邨,Wah Kwai Estate,2025-10-19T05:00:02+08:00
+780,,,柴灣 (東),Chai Wan (East),中環碼頭,Central (Ferry Piers),2025-10-19T05:00:02+08:00
+780P,,,興華 (經銅鑼灣),Hing Wah (via Causeway Bay),中環碼頭,Central (Ferry Piers),2025-10-19T05:00:02+08:00
+788,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),中環 (港澳碼頭),Central (Macau Ferry),2025-10-19T05:00:02+08:00
+789,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),金鐘 (樂禮街),Admiralty (Rodney Street),2025-10-19T05:00:02+08:00
+78C,,,粉嶺皇后山,Queen's Hill Fanling,啟德 (經: 觀塘),Kai Tak (Via: Kwun Tong),2025-10-19T05:00:02+08:00
+78P,,,粉嶺皇后山,Queen's Hill Fanling,觀塘,Kwun Tong,2025-10-19T05:00:02+08:00
+78X,,,粉嶺皇后山,Queen's Hill Fanling,啟德 (經: 觀塘),Kai Tak (via: Kwun Tong),2025-10-19T05:00:02+08:00
+79,,,粉嶺皇后山 (經:大埔),Queen's Hill Fanling (via: Tai Po),大圍站 (經:大埔),Tai Wai Station (via: Tai Po),2025-10-19T05:00:02+08:00
+790,,,清水灣半島 (經:日出康城),Oscar By The Sea (via: LOHAS Park),尖沙咀(麼地道),Tsim Sha Tsui (Mody Road),2025-10-19T05:00:02+08:00
+792M,,,將軍澳站,Tseung Kwan O Station,西貢,Sai Kung,2025-10-19T05:00:02+08:00
+793,,,將軍澳工業邨,Tseung Kwan O Industrial Estate,蘇屋,So Uk,2025-10-19T05:00:02+08:00
+795,,,將軍澳工業邨 (經:日出康城),Tseung Kwan O Industrial Estate (via: LOHAS Park),長沙灣 (海達),Cheung Sha Wan (Hoi Tat),2025-10-19T05:00:02+08:00
+795X,,,清水灣半島 (經:尚德),Oscar by the Sea (via: Sheung Tak),蘇屋 (經:旺角及美孚),So Uk (via: Mong Kok and Mei Foo),2025-10-19T05:00:02+08:00
+796P,,,將軍澳站,Tseung Kwan O Station,尖沙咀東,Tsim Sha Tsui East,2025-10-19T05:00:02+08:00
+796R,,,香港體育館,Hong Kong Coliseum,日出康城,LOHAS Park,2025-10-19T05:00:02+08:00
+796S,,,將軍澳站,Tseung Kwan O Station,牛頭角站,Ngau Tau Kok Station,2025-10-19T05:00:02+08:00
+796X,,,將軍澳工業邨／將軍澳站,Tseung Kwan O Industrial Estate / Tseung Kwan O Station,尖沙咀東,Tsim Sha Tsui East,2025-10-19T05:00:02+08:00
+797,,,日出康城／將軍澳工業邨,LOHAS Park / Tseung Kwan O Industrial Estate,新蒲崗,San Po Kong,2025-10-19T05:00:02+08:00
+798,,,調景嶺站,Tiu Keng Leng Station,火炭 (駿洋邨) (經:沙田),Fo Tan (Chun Yeung Estate) (via: Sha Tin),2025-10-19T05:00:02+08:00
+798A,,,將軍澳 (康盛花園),Tseung Kwan O (Hong Sing Garden),沙田站,Sha Tin Station,2025-10-19T05:00:02+08:00
+798P,,,將軍澳工業邨,Tseung Kwan O Industrial Estate,大圍站 (經:沙田),Tai Wai Station (via: Sha Tin),2025-10-19T05:00:02+08:00
+798X,,,將軍澳工業邨,Tseung Kwan O Industrial Estate,火炭 (駿洋邨) (經:沙田),Fo Tan (Chun Yeung Estate) (via: Sha Tin),2025-10-19T05:00:02+08:00
+79P,,,粉嶺皇后山,Queen's Hill Fanling,高鐵西九龍站,High Speed Rail West Kowloon Station,2025-10-19T05:00:02+08:00
+79X,,,粉嶺皇后山,Queen's Hill Fanling,長沙灣 (甘泉街) (經: 旺角),Cheung Sha Wan (Kom Tsun Street) (via: Mong Kok),2025-10-19T05:00:02+08:00
+8,,,杏花邨,Heng Fa Chuen,會展站,Exhibition Centre Station,2025-10-19T05:00:02+08:00
+81,,,興華邨,Hing Wah Estate,勵德邨,Lai Tak Tsuen,2025-10-19T05:00:02+08:00
+81A,,,興華邨,Hing Wah Estate,勵德邨,Lai Tak Tsuen,2025-10-19T05:00:02+08:00
+82,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),北角碼頭,North Point Ferry Pier,2025-10-19T05:00:02+08:00
+82S,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),耀東 (惠亨街),Yiu Tung (Wai Hang Street),2025-10-19T05:00:02+08:00
+82X,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),鰂魚涌,Quarry Bay,2025-10-19T05:00:02+08:00
+85,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),寶馬山／北角,Braemar Hill / North Point,2025-10-19T05:00:02+08:00
+85A,,,筲箕灣,Shau Kei Wan,寶馬山,Braemar Hill,2025-10-19T05:00:02+08:00
+85P,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),寶馬山,Braemar Hill,2025-10-19T05:00:02+08:00
+88R,,,沙田第一城,City One Shatin,中環,Central,2025-10-19T05:00:02+08:00
+88X,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),2025-10-19T05:00:02+08:00
+8H,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),東華東院,Tung Wah Eastern Hospital,2025-10-19T05:00:02+08:00
+8P,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),會展站,Exhibition Centre Station,2025-10-19T05:00:02+08:00
+8X,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),跑馬地 (上),Happy Valley (Upper),2025-10-19T05:00:02+08:00
+9,,,筲箕灣,Shau Kei Wan,石澳,Shek O,2025-10-19T05:00:02+08:00
+90,,,鴨脷洲邨,Ap Lei Chau Estate,中環 (交易廣場),Central (Exchange Square),2025-10-19T05:00:02+08:00
+904,,,堅尼地城 (卑路乍灣),Kennedy Town (Belcher Bay),荔枝角,Lai Chi Kok,2025-10-19T05:00:02+08:00
+905,,,會展站,Exhibition Centre Station,荔枝角,Lai Chi Kok,2025-10-19T05:00:02+08:00
+905A,,,會展站,Exhibition Centre Station,荔枝角,Lai Chi Kok,2025-10-19T05:00:02+08:00
+905P,,,荔枝角,Lai Chi Kok,灣仔 (港灣道),Wan Chai (Harbour Road),2025-10-19T05:00:02+08:00
+907C,,,大埔 (富蝶),Tai Po (Fu Tip),灣仔 (會議展覽中心),Wan Chai (HKCEC),2025-10-19T05:00:02+08:00
+907D,,,大埔 (汀太路),Tai Po (Ting Tai Road),小西灣運動場,Siu Sai Wan Sports Ground,2025-10-19T05:00:02+08:00
+90B,,,海怡半島,South Horizons,金鐘 (東),Admiralty (East),2025-10-19T05:00:02+08:00
+90C,,,鴨脷洲大街,Main Street Ap Lei Chau,中環 (怡和大廈),Central (Jardine House),2025-10-19T05:00:02+08:00
+91,,,鴨脷洲邨,Ap Lei Chau Estate,中環碼頭,Central (Ferry Piers),2025-10-19T05:00:02+08:00
+914,,,天后站,Tin Hau Station,海麗邨,Hoi Lai Estate,2025-10-19T05:00:02+08:00
+914P,,,海麗邨,Hoi Lai Estate,天后站,Tin Hau Station,2025-10-19T05:00:02+08:00
+914X,,,海麗邨,Hoi Lai Estate,天后站,Tin Hau Station,2025-10-19T05:00:02+08:00
+91A,,,鴨脷洲邨,Ap Lei Chau Estate,華富 (南),Wah Fu (South),2025-10-19T05:00:02+08:00
+93,,,海怡半島／鴨脷洲邨,South Horizons / Ap Lei Chau Estate,羅便臣道,Robinson Road,2025-10-19T05:00:02+08:00
+930,,,荃灣 (愉景新城／荃灣西站),Tsuen Wan (Discovery Park / Tsuen Wan West Station),會展站,Exhibition Centre Station,2025-10-19T05:00:02+08:00
+930A,,,荃灣西站,Tsuen Wan West Station,會展站,Exhibition Centre Station,2025-10-19T05:00:02+08:00
+930B,,,葵盛 (東),Kwai Shing (East),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+930X,,,荃灣 (愉景新城),Tsuen Wan (Discovery Park),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+933,,,荃灣西站,Tsuen Wan West Station,西灣河,Sai Wan Ho,2025-10-19T05:00:02+08:00
+93A,,,利東邨,Lei Tung Estate,羅便臣道,Robinson Road,2025-10-19T05:00:02+08:00
+93C,,,鴨脷洲大街／田灣,Main Street Ap Lei Chau / Tin Wan,堅道,Caine Road,2025-10-19T05:00:02+08:00
+948,,,青衣 (長安邨),Tsing Yi (Cheung On Estate),天后站,Tin Hau Station,2025-10-19T05:00:02+08:00
+948A,,,長安邨,Cheung On Estate,天后站,Tin Hau Station,2025-10-19T05:00:02+08:00
+948B,,,青衣 (翠怡花園),Tsing Yi (Greenfield Garden),天后站,Tin Hau Station,2025-10-19T05:00:02+08:00
+948E,,,青衣站,Tsing Yi Station,太古 (康怡廣場),Tai Koo (Kornhill Plaza),2025-10-19T05:00:02+08:00
+948P,,,長安邨,Cheung On Estate,天后站,Tin Hau Station,2025-10-19T05:00:02+08:00
+948X,,,長宏邨,Cheung Wang Estate,天后站,Tin Hau Station,2025-10-19T05:00:02+08:00
+94A,,,華富 (中),Wah Fu (Central),利東邨,Lei Tung Estate,2025-10-19T05:00:02+08:00
+950,,,屯門 (菁田及和田),Tuen Mun (Ching Tin and Wo Tin),會展站,Exhibition Centre Station,2025-10-19T05:00:02+08:00
+952,,,屯門 (置樂花園),Tuen Mun (Chi Lok Fa Yuen),銅鑼灣 (摩頓台)／金鐘 (西),Causeway Bay (Moreton Terrace) / Admiralty (West),2025-10-19T05:00:02+08:00
+952C,,,掃管笏,So Kwun Wat,太古 (康怡廣場),Tai Koo (Kornhill Plaza),2025-10-19T05:00:02+08:00
+952P,,,屯門 (置樂花園),Tuen Mun (Chi Lok Fa Yuen),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+955,,,屯門 (菁田及和田),Tuen Mun (Ching Tin and Wo Tin),西灣河,Sai Wan Ho,2025-10-19T05:00:02+08:00
+95C,,,鴨脷洲邨 / 利南工業區,Ap Lei Chau Estate / Lee Nam Industrial Area,置富花園,Chi Fu Fa Yuen,2025-10-19T05:00:02+08:00
+95P,,,田灣,Tin Wan,鴨脷洲邨,Ap Lei Chau Estate,2025-10-19T05:00:02+08:00
+962,,,屯門 (龍門居),Tuen Mun (Lung Mun Oasis),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+962A,,,屯門 (悅湖山莊),Tuen Mun (Yuet Wu Villa),金鐘,Admiralty,2025-10-19T05:00:02+08:00
+962C,,,屯門 (龍門居),Tuen Mun (Lung Mun Oasis),太古 (康怡廣場),Tai Koo (Kornhill Plaza),2025-10-19T05:00:02+08:00
+962G,,,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrance),屯門 (悅湖山莊),Tuen Mun (Yuet Wu Villa),2025-10-19T05:00:02+08:00
+962P,,,屯門 (龍門居),Tuen Mun (Lung Mun Oasis),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+962X,,,屯門 (龍門居),Tuen Mun (Lung Mun Oasis),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+967,,,天水圍 (天恩邨),Tin Shui Wai (Tin Yan Estate),金鐘 (西),Admiralty (West),2025-10-19T05:00:02+08:00
+967X,,,天水圍 (天恩邨),Tin Shui Wai (Tin Yan Estate),銅鑼灣 (經天水圍北),Causeway Bay (via Tin Shui Wai North),2025-10-19T05:00:02+08:00
+969,,,天水圍市中心,Tin Shui Wai Town Centre,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+969B,,,天水圍市中心,Tin Shui Wai Town Centre,灣仔,Wan Chai,2025-10-19T05:00:02+08:00
+969C,,,天水圍 (天瑞邨),Tin Shui Wai (Tin Shui Estate),太古 (康怡廣場),Tai Koo (Kornhill Plaza),2025-10-19T05:00:02+08:00
+969N,,,天水圍市中心,Tin Shui Wai Town Centre,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+969P,,,天水圍市中心,Tin Shui Wai Town Centre,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+969X,,,天水圍市中心,Tin Shui Wai Town Centre,銅鑼灣 (經天水圍南),Causeway Bay (via Tin Shui Wai South),2025-10-19T05:00:02+08:00
+97,,,利東邨,Lei Tung Estate,中環 (交易廣場),Central (Exchange Square),2025-10-19T05:00:02+08:00
+970,,,數碼港,Cyberport,蘇屋邨,So Uk Estate,2025-10-19T05:00:02+08:00
+970X,,,香港仔,Aberdeen,長沙灣 (甘泉街),Cheung Sha Wan (Kom Tsun Street),2025-10-19T05:00:02+08:00
+971,,,香港仔 (石排灣),Aberdeen (Shek Pai Wan),海麗邨,Hoi Lai Estate,2025-10-19T05:00:02+08:00
+971R,,,數碼港 (經域多利道),Cyberport  (via Victoria Road),旺角,Mong Kok,2025-10-19T05:00:02+08:00
+973,,,尖沙咀 (麼地道),Tsim Sha Tsui (Mody Road),赤柱市場,Stanley Market,2025-10-19T05:00:02+08:00
+976,,,落馬洲 (新田),Lok Ma Chau (San Tin),西灣河,Sai Wan Ho,2025-10-19T05:00:02+08:00
+976A,,,落馬洲 (新田),Lok Ma Chau (San Tin),小西灣 (藍灣半島),Siu Sai Wan (Island Resort),2025-10-19T05:00:02+08:00
+979,,,粉嶺皇后山,Queen's Hill Fanling,中環 (香港站),Central (Hong Kong Station),2025-10-19T05:00:02+08:00
+98,,,利東邨,Lei Tung Estate,香港仔 (成都道),Aberdeen (Chengtu Road),2025-10-19T05:00:02+08:00
+980A,,,碩門邨,Shek Mun Estate,灣仔,Wan Chai,2025-10-19T05:00:02+08:00
+980X,,,馬鞍山 (烏溪沙站),Ma On Shan (Wu Kai Sha Station),灣仔,Wan Chai,2025-10-19T05:00:02+08:00
+981P,,,馬鞍山 (耀安邨),Ma On Shan (Yiu On Estate),灣仔,Wan Chai,2025-10-19T05:00:02+08:00
+982C,,,碩門邨,Shek Mun Estate,西灣河,Sai Wan Ho,2025-10-19T05:00:02+08:00
+982X,,,沙田 (愉翠苑),Sha Tin (Yu Chui Court),灣仔,Wan Chai,2025-10-19T05:00:02+08:00
+985,,,沙田 (美田邨),Shatin (Mei Tin Estate),銅鑼灣,Causeway Bay,2025-10-19T05:00:02+08:00
+985A,,,沙田 (美田邨),Shatin (Mei Tin Estate),銅鑼灣,Causeway Bay,2025-10-19T05:00:02+08:00
+985B,,,田心村,Tin Sam Village,銅鑼灣,Causeway Bay,2025-10-19T05:00:02+08:00
+986,,,沙田圍,Sha Tin Wai,西灣河,Sai Wan Ho,2025-10-19T05:00:02+08:00
+987,,,西灣河,Sai Wan Ho,火炭(駿洋邨),Fo Tan (Chun Yeung Estate),2025-10-19T05:00:02+08:00
+989,,,火炭 (駿洋邨),Fo Tan (Chun Yeung Estate),西灣河,Sai Wan Ho,2025-10-19T05:00:02+08:00
+99,,,海怡半島,South Horizons,筲箕灣,Shau Kei Wan,2025-10-19T05:00:02+08:00
+99X,,,海怡半島,South Horizons,西灣河,Sai Wan Ho,2025-10-19T05:00:02+08:00
+9C,,,筲箕灣,Shau Kei Wan,歌連臣角,Cape Collinson,2025-10-19T05:00:02+08:00
+A10,,,鴨脷洲 (利樂街),Ap Lei Chau (Lee Lok Street),機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+A11,,,北角碼頭,North Point Ferry Pier,機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+A12,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+A17,,,深灣 (經海洋公園),Sham Wan (via Ocean Park),機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+A20,,,紅磡站,Hung Hom Station,機場,Airport,2025-10-19T05:00:02+08:00
+A21,,,紅磡站,Hung Hom Station,機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+A22,,,藍田站,Lam Tin Station,機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+A23,,,慈雲山 (北),Tsz Wan Shan (North),機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+A25,,,啟德 (經尖沙咀),Kai Tak (via Tsim Sha Tsui),機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+A25S,,,啟德體育園,Kai Tak Sports Park,機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+A26,,,油塘,Yau Tong,機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+A28,,,日出康城,LOHAS Park,機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+A29,,,將軍澳 (寶琳),Tseung Kwan O (Po Lam),機場 (經港珠澳大橋香港口岸),Airport (via HZMB Hong Kong Port),2025-10-19T05:00:02+08:00
+B3,,,屯門碼頭,Tuen Mun Ferry Pier,深圳灣口岸,Shenzhen Bay Port,2025-10-19T05:00:02+08:00
+B3A,,,山景邨,Shan King Estate,深圳灣口岸,Shenzhen Bay Port,2025-10-19T05:00:02+08:00
+B3M,,,深圳灣口岸,Shenzhen Bay Port,屯門站,Tuen Mun Station,2025-10-19T05:00:02+08:00
+B3X,,,屯門市中心,Tuen Mun Town Centre,深圳灣口岸,Shenzhen Bay Port,2025-10-19T05:00:02+08:00
+B5,,,港珠澳大橋香港口岸,Hong Kong-Zhuhai-Macao Bridge Hong Kong Port,欣澳站,Sunny Bay Station,2025-10-19T05:00:02+08:00
+B7,,,上水 (寶運路) (經粉嶺站),Sheung Shui (Po Wan Road) (via Fanling Station),香園圍 (蓮塘) 口岸 (經粉嶺站),Heung Yuen Wai (Liantang) Port (via Fanling Station),2025-10-19T05:00:02+08:00
+B7X,,,上水站,Sheung Shui Station,香園圍口岸,Heung Yuen Wai Port,2025-10-19T05:00:02+08:00
+B8,,,大圍站 (經大埔),Tai Wai Station (via Tai Po),香園圍 (蓮塘) 口岸 (經大埔),Heung Yuen Wai (Liantang) Port (via Tai Po),2025-10-19T05:00:02+08:00
+E11,,,天后站,Tin Hau Station,航天城,SKYCITY,2025-10-19T05:00:02+08:00
+E11A,,,天后站,Tin Hau Station,航天城 (經東涌北),SKYCITY (via Tung Chung North),2025-10-19T05:00:02+08:00
+E11B,,,天后站,Tin Hau Station,東涌 (滿東邨),Tung Chung (Mun Tung Estate),2025-10-19T05:00:02+08:00
+E11S,,,東涌 (滿東邨),Tung Chung (Mun Tung Estate),天后站,Tin Hau Station,2025-10-19T05:00:02+08:00
+E21,,,大角咀 (維港灣),Tai Kok Tsui (Island Harbourview),航天城,SKYCITY,2025-10-19T05:00:02+08:00
+E21A,,,何文田 (愛民邨),Ho Man Tin (Oi Man Estate),東涌 (逸東邨),Tung Chung (Yat Tung Estate),2025-10-19T05:00:02+08:00
+E21B,,,何文田 (愛民邨),Ho Man Tin (Oi Man Estate),東涌 (逸東邨),Tung Chung (Yat Tung Estate),2025-10-19T05:00:02+08:00
+E21C,,,大角咀 (維港灣),Tai Kok Tsui (Island Harbourview),飛機維修區,Aircraft Maintenance Area,2025-10-19T05:00:02+08:00
+E21D,,,大角咀 (維港灣),Tai Kok Tsui (Island Harbourview),航天城 (經:東涌北),SKYCITY (via: Tung Chung North),2025-10-19T05:00:02+08:00
+E21X,,,東涌 (滿東邨),Tung Chung (Mun Tung Estate),紅磡站,Hung Hom Station,2025-10-19T05:00:02+08:00
+E22,,,藍田 (北),Lam Tin (North),航天城,SKYCITY,2025-10-19T05:00:02+08:00
+E22A,,,將軍澳 (康盛花園),Tseung Kwan O (Hong Sing Garden),航天城,SKYCITY,2025-10-19T05:00:02+08:00
+E22C,,,調景嶺站,Tiu Keng Leng Station,飛機維修區,Aircraft Maintenance Area,2025-10-19T05:00:02+08:00
+E22P,,,油塘,Yau Tong,航天城,SKYCITY,2025-10-19T05:00:02+08:00
+E22S,,,東涌 (滿東邨),Tung Chung (Mun Tung Estate),將軍澳 (寶琳),Tseung Kwan O (Po Lam),2025-10-19T05:00:02+08:00
+E22X,,,油塘,Yau Tong,航天城,SKYCITY,2025-10-19T05:00:02+08:00
+E23,,,慈雲山 (南),Tsz Wan Shan (South),機場 (地面運輸中心),Airport (Ground Transportation Centre),2025-10-19T05:00:02+08:00
+E23A,,,慈雲山 (南),Tsz Wan Shan (South),機場 (經東涌北),Airport (via Tung Chung North),2025-10-19T05:00:02+08:00
+H1,,,中環碼頭-天星小輪,Central Ferry - Star Ferry,尖沙咀 ．落日飛車,Tsim Sha Tsui,2025-10-19T05:00:02+08:00
+H1S,,,中環碼頭-天星小輪 ．落日飛車,Central Ferry - Star Ferry,西九文化區 ．落日飛車,West Kowloon Cultural District,2025-10-19T05:00:02+08:00
+H2,,,中環碼頭-天星小輪 ．落日飛車,Central Ferry - Star Ferry,尖沙咀,Tsim Sha Tsui,2025-10-19T05:00:02+08:00
+H2K,,,中環碼頭-天星小輪 ．落日飛車,Central Ferry - Star Ferry,西九文化區 ．落日飛車,West Kowloon Cultural District,2025-10-19T05:00:02+08:00
+H3,,,中環碼頭 -香港摩天輪,Central Ferry - Hong Kong Observation Wheel,赤柱村／赤柱市集  ．落日飛車,Stanley Village / Stanley Market,2025-10-19T05:00:02+08:00
+H4,,,赤柱村／赤柱市集,Stanley Village / Stanley Market,中環碼頭 -香港摩天輪 ．落日飛車,Central Ferry - Hong Kong Observation Wheel,2025-10-19T05:00:02+08:00
+N11,,,中環 (港澳碼頭),Central (Macau Ferry),機場 (地面運輸中心),Airport (Ground Transportation Centre),2025-10-19T05:00:02+08:00
+N118,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),長沙灣 (深旺道),Cheung Sha Wan (Sham Mong Road),2025-10-19T05:00:02+08:00
+N121,,,中環 (港澳碼頭),Central (Macau Ferry),牛頭角,Ngau Tau Kok,2025-10-19T05:00:02+08:00
+N122,,,筲箕灣,Shau Kei Wan,美孚,Mei Foo,2025-10-19T05:00:02+08:00
+N170,,,華富 (中),Wah Fu (Central),沙田巿中心,Sha Tin Central,2025-10-19T05:00:02+08:00
+N171,,,鴨脷洲邨,Ap Lei Chau Estate,荔枝角,Lai Chi Kok,2025-10-19T05:00:02+08:00
+N182,,,中環 (港澳碼頭),Central (Macau Ferry),沙田 (廣源),Sha Tin (Kwong Yuen),2025-10-19T05:00:02+08:00
+N20,,,大角咀 (維港灣),Tai Kok Tsui (Island Harbourview),啟德 (沐安街),Kai Tak (Muk On Street),2025-10-19T05:00:02+08:00
+N21,,,尖沙咀 (天星碼頭),Tsim Sha Tsui (Star Ferry),機場 (地面運輸中心),Airport (Ground Transportation Centre),2025-10-19T05:00:02+08:00
+N21A,,,尖沙咀 (天星碼頭),Tsim Sha Tsui (Star Ferry),機場 (經逸東邨),Airport (via Yat Tung Estate),2025-10-19T05:00:02+08:00
+N23,,,慈雲山 (北),Tsz Wan Shan (North),東涌站,Tung Chung Station,2025-10-19T05:00:02+08:00
+N26,,,油塘,Yau Tong,東涌站,Tung Chung Station,2025-10-19T05:00:02+08:00
+N29,,,將軍澳 (康盛花園),Tseung Kwan O (Hong Sing Garden),東涌站,Tung Chung Station,2025-10-19T05:00:02+08:00
+N307,,,上環,Sheung Wan,太和,Tai Wo,2025-10-19T05:00:02+08:00
+N50,,,屯門 (菁田及和田),Tuen Mun (Ching Tin and Wo Tin),尖沙咀 (九龍站),Tsim Sha Tsui (Kowloon Station),2025-10-19T05:00:02+08:00
+N619,,,中環 (港澳碼頭),Central (Macau Ferry),順利邨,Shun Lee Estate,2025-10-19T05:00:02+08:00
+N680,,,中環 (港澳碼頭),Central (Macau Ferry),馬鞍山 (錦英苑),Ma On Shan (Kam Ying Court),2025-10-19T05:00:02+08:00
+N691,,,中環 (港澳碼頭),Central (Macau Ferry),調景嶺 (景嶺路),Tiu Keng Leng (King Ling Road),2025-10-19T05:00:02+08:00
+N72,,,華貴邨,Wah Kwai Estate,鰂魚涌 (海澤街),Quarry Bay (Hoi Chak Street),2025-10-19T05:00:02+08:00
+N796,,,日出康城,LOHAS Park,旺角 (經尖沙咀),Mongkok (via Tsim Sha Tsui),2025-10-19T05:00:02+08:00
+N8,,,杏花邨 (城巴創富道車廠),Heng Fa Chuen (Citybus Chong Fu Road Garage),鰂魚涌,Quarry Bay,2025-10-19T05:00:02+08:00
+N8P,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),灣仔 (港灣道),Wan Chai (Harbour Road),2025-10-19T05:00:02+08:00
+N8X,,,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),堅尼地城,Kennedy Town,2025-10-19T05:00:02+08:00
+N90,,,海怡半島,South Horizons,中環 (港澳碼頭),Central (Macau Ferry),2025-10-19T05:00:02+08:00
+N930,,,荃灣 (愉景新城),Tsuen Wan (Discovery Park),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+N952,,,屯門 (置樂花園),Tuen Mun (Chi Lok Fa Yuen),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+N962,,,屯門 (龍門居),Tuen Mun (Lung Mun Oasis),銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+N969,,,天水圍市中心,Tin Shui Wai Town Centre,銅鑼灣 (摩頓台),Causeway Bay (Moreton Terrace),2025-10-19T05:00:02+08:00
+NA10,,,鴨脷洲 (利樂街),Ap Lei Chau (Lee Lok Street),機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,2025-10-19T05:00:02+08:00
+NA11,,,北角碼頭,North Point Ferry Pier,機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,2025-10-19T05:00:02+08:00
+NA12,,,杏花邨,Heng Fa Chuen,機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,2025-10-19T05:00:02+08:00
+NA20,,,黃埔花園,Whampoa Garden,機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,2025-10-19T05:00:02+08:00
+NA21,,,機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,大角咀 (海輝道),Tai Kok Tsui (Hoi Fai Road),2025-10-19T05:00:02+08:00
+NA29,,,將軍澳 (寶琳),Tseung Kwan O (Po Lam),機場 / 港珠澳大橋香港口岸,Airport / HZMB Hong Kong Port,2025-10-19T05:00:02+08:00
+NP1,,,機場／昂坪360 - 東涌纜車站,Airport / Ngong Ping 360 - Tung Chung Cable Car Station,香港迪士尼樂園,Hong Kong Disneyland,2025-10-19T05:00:02+08:00
+NP2,,,昂坪360 - 東涌纜車站,Ngong Ping 360 - Tung Chung Cable Car Station,機場／飛機維修區,Airport / Aircraft Maintenance Area,2025-10-19T05:00:02+08:00
+R11,,,迪士尼樂園,Disneyland,北角碼頭,North Point Ferry Pier,2025-10-19T05:00:02+08:00
+R8,,,迪士尼樂園,Disneyland,青嶼幹線巴士轉乘站,Lantau Link Bus-Bus Interchange,2025-10-19T05:00:02+08:00
+S1,,,東涌站,Tung Chung Station,機場 (一號客運大樓／博覽館),Airport (Passenger Terminal 1 / AsiaWorld-Expo),2025-10-19T05:00:02+08:00
+S52,,,東涌 (逸東邨),Tung Chung (Yat Tung Estate),飛機維修區,Aircraft Maintenance Area,2025-10-19T05:00:02+08:00
+S52A,,,裕雅苑,Yu Nga Court,飛機維修區,Aircraft Maintenance Area,2025-10-19T05:00:02+08:00
+S52P,,,東涌 (逸東邨),Tung Chung (Yat Tung Estate),駿坪路 (亞洲空運中心),Chun Ping Road (Asia Airfreight Terminal),2025-10-19T05:00:02+08:00
+S56,,,東涌站,Tung Chung Station,機場 (一號客運大樓),Airport (Passenger Terminal 1),2025-10-19T05:00:02+08:00
+SP10,,,啟德體育園,Kai Tak Sports Park,中環 (港澳碼頭),Central (Macau Ferry),2025-10-19T05:00:02+08:00
+SP11,,,啟德體育園,Kai Tak Sports Park,小西灣 (藍灣半島),Siu Sai Wan (Island Resort),2025-10-19T05:00:02+08:00
+SP12,,,啟德體育園,Kai Tak Sports Park,落馬洲 (新田),Lok Ma Chau (San Tin),2025-10-19T05:00:02+08:00
+SP2,,,啟德體育園,Kai Tak Sports Park,旺角,Mong Kok,2025-10-19T05:00:02+08:00
+SP5B,,,啟德體育園,Kai Tak Sports Park,屯門 (菁田及和田),Tuen Mun (Ching Tin and Wo Tin),2025-10-19T05:00:02+08:00
+SP9,,,啟德體育園,Kai Tak Sports Park,日出康城,LOHAS Park,2025-10-19T05:00:02+08:00
+X1,,,東涌站,Tung Chung Station,機場博覽館,AsiaWorld-Expo,2025-10-19T05:00:02+08:00
+X15,,,中環 (天星碼頭),Central (Star Ferry),山頂,The Peak,2025-10-19T05:00:02+08:00
+X55,,,亞洲國際博覽館,AsiaWorld-Expo,亞洲國際博覽館,AsiaWorld-Expo,2025-10-19T05:00:02+08:00
+X8,,,跑馬地 (上),Happy Valley (Upper),小西灣 (藍灣半島),Siu Sai Wan (Island Resort),2025-10-19T05:00:02+08:00
+X9,,,中環 (天星碼頭),Central (Star Ferry),石澳,Shek O,2025-10-19T05:00:02+08:00
+X962,,,金鐘 (西),Admiralty (West),屯門 (龍門居),Tuen Mun (Lung Mun Oasis),2025-10-19T05:00:02+08:00
+X970,,,海怡半島,South Horizons,長沙灣 (甘泉街),Cheung Sha Wan (Kom Tsun Street),2025-10-19T05:00:02+08:00

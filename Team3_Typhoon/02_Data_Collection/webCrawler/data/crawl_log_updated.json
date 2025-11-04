@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2025-10-19T16:00:22.825404",
+    "activity": "CRAWL_START",
+    "details": "Starting HKO typhoon data crawling (Updated)"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:22.825462",
+    "activity": "CRAWL_API",
+    "details": "Fetching data from HKO API"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:22.825485",
+    "activity": "API_REQUEST",
+    "details": "Fetching API data from: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=warnsum&lang=en"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:22.825510",
+    "activity": "HTTP_REQUEST",
+    "details": "Fetching: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=warnsum&lang=en"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:22.884994",
+    "activity": "HTTP_SUCCESS",
+    "details": "Status: 200, URL: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=warnsum&lang=en"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:22.885112",
+    "activity": "API_SUCCESS",
+    "details": "Retrieved API data: 2 items"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:22.885162",
+    "activity": "API_PARSE",
+    "details": "Found 0 Signal 8 references in API"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:22.885197",
+    "activity": "CRAWL_WARNING",
+    "details": "Crawling typhoon warning page"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:22.885227",
+    "activity": "HTTP_REQUEST",
+    "details": "Fetching: https://www.hko.gov.hk/en/wservice/warning/ts.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:23.057401",
+    "activity": "HTTP_ERROR",
+    "details": "Error fetching https://www.hko.gov.hk/en/wservice/warning/ts.htm: 404 Client Error: Not Found for url: https://www.hko.gov.hk/en/wservice/warning/ts.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:23.057637",
+    "activity": "CRAWL_WEATHER",
+    "details": "Crawling weather page"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:23.057675",
+    "activity": "HTTP_REQUEST",
+    "details": "Fetching: https://www.hko.gov.hk/en/wxinfo/currwx/weather.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:23.131446",
+    "activity": "HTTP_ERROR",
+    "details": "Error fetching https://www.hko.gov.hk/en/wxinfo/currwx/weather.htm: 404 Client Error: Not Found for url: https://www.hko.gov.hk/en/wxinfo/currwx/weather.htm"
+  },
+  {
+    "timestamp": "2025-10-19T16:00:23.131623",
+    "activity": "SAVE_DATA",
+    "details": "Saving collected data"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "timestamp": "2025-10-19T16:07:27.506066",
+    "activity": "COLLECTION_START",
+    "details": "Starting Signal 8 data collection"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.506110",
+    "activity": "COLLECT_WIND",
+    "details": "Collecting current wind data"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.506143",
+    "activity": "FETCH_WIND",
+    "details": "Fetching current wind data"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.506164",
+    "activity": "HTTP_REQUEST",
+    "details": "Fetching: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=flw&lang=en"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.572990",
+    "activity": "HTTP_SUCCESS",
+    "details": "Status: 200, URL: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=flw&lang=en"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.573102",
+    "activity": "WIND_DATA_SUCCESS",
+    "details": "Retrieved wind data: 7 items"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.573141",
+    "activity": "WIND_DATA_PROCESSED",
+    "details": "Processed 0 wind data entries"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.573173",
+    "activity": "COLLECT_REGIONAL",
+    "details": "Collecting regional wind data"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.573197",
+    "activity": "FETCH_REGIONAL_WIND",
+    "details": "Fetching regional wind data"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.573217",
+    "activity": "HTTP_REQUEST",
+    "details": "Fetching: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.588513",
+    "activity": "HTTP_SUCCESS",
+    "details": "Status: 200, URL: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=rhrread&lang=en"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.588629",
+    "activity": "REGIONAL_WIND_SUCCESS",
+    "details": "Retrieved regional wind data: 13 items"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.588674",
+    "activity": "REGIONAL_WIND_PROCESSED",
+    "details": "Processed 4 regional wind entries"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.588703",
+    "activity": "COLLECT_WARNING",
+    "details": "Collecting warning data"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.588726",
+    "activity": "FETCH_WARNING",
+    "details": "Fetching warning data"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.588745",
+    "activity": "HTTP_REQUEST",
+    "details": "Fetching: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=warnsum&lang=en"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.602470",
+    "activity": "HTTP_SUCCESS",
+    "details": "Status: 200, URL: https://data.weather.gov.hk/weatherAPI/opendata/weather.php?dataType=warnsum&lang=en"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.602588",
+    "activity": "WARNING_SUCCESS",
+    "details": "Retrieved warning data: 2 items"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.602634",
+    "activity": "NO_SIGNAL8",
+    "details": "No Signal 8 warnings currently active"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.602666",
+    "activity": "GENERATE_SAMPLE",
+    "details": "Generating sample Signal 8 data"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.602691",
+    "activity": "GENERATE_SAMPLE",
+    "details": "Generating sample Signal 8 data"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.603406",
+    "activity": "SAMPLE_GENERATED",
+    "details": "Generated 24 sample Signal 8 data points"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.603462",
+    "activity": "SAVE_DATA",
+    "details": "Saving collected data"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.603810",
+    "activity": "SAVE_CSV",
+    "details": "Saved 28 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/signal8_wind_data.csv"
+  },
+  {
+    "timestamp": "2025-10-19T16:07:27.604271",
+    "activity": "SAVE_JSON",
+    "details": "Saved 28 records to /Users/simonwang/Documents/Usage/GCAP3226/Team3_Typhoon/02_Data_Collection/webCrawler/data/signal8_wind_data.json"
+  }
+]

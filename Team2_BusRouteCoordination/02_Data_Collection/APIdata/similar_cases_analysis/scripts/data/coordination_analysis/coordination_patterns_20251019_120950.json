@@ -1,0 +1,12 @@
+{
+  "total_overlapping_pairs": 2,
+  "operator_combinations": {
+    "kmb-citybus": 2
+  },
+  "geographic_distribution": {},
+  "overlap_statistics": {
+    "max_overlap": 4,
+    "min_overlap": 4,
+    "avg_overlap": 4.0
+  }
+}

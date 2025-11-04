@@ -1,0 +1,23 @@
+[
+  {
+    "route1": {
+      "operator": "kmb",
+      "route_id": "272A",
+      "route_name": "University Station",
+      "total_stops": 3
+    },
+    "route2": {
+      "operator": "citybus",
+      "route_id": "582",
+      "route_name": "University Station",
+      "total_stops": 3
+    },
+    "overlap_count": 2,
+    "overlap_percentage": 0.6666666666666666,
+    "common_stops": [
+      "STOP002",
+      "STOP001"
+    ],
+    "analysis_timestamp": "2025-10-19T12:04:33.754822"
+  }
+]
