@@ -3,8 +3,8 @@
 
 ### Assignment Overview
 **Assignment:** Human-AI Collaboration Report (Individual)  
-**Word Count:** 2,000 words (adjusted from original 2,000 to be more manageable)  
-**Weight:** Individual assignment (percentage to be determined)  
+**Word Count:** 1,000 words (reduced from original 2,000 words)  
+**Weight:** Individual assignment (20% of course grade)  
 **Due Date:** Week 13 (December 2, 2024)  
 **Format:** Portfolio-style report with chat history and reflection
 
@@ -28,7 +28,7 @@
 
 ## Report Structure & Requirements
 
-### 1. Executive Summary (200-300 words)
+### 1. Executive Summary (100-150 words)
 **Purpose:** Provide overview of your AI usage and key insights
 
 **Content:**
@@ -37,7 +37,7 @@
 - Key insights gained about human-AI collaboration
 - Overall assessment of AI's impact on your learning
 
-### 2. AI Usage Overview (400-500 words)
+### 2. AI Usage Overview (200-250 words)
 **Purpose:** Document and categorize your AI interactions
 
 **Content:**
@@ -51,7 +51,7 @@
 - **Frequency:** Estimate usage patterns and intensity
 - **Context:** When and why you chose to use AI vs. traditional methods
 
-### 3. Complete Chat History (Portfolio Section)
+### 3. Complete Chat History (Portfolio Section - Not counted in word limit)
 **Purpose:** Provide evidence of your AI collaboration process
 
 **Requirements:**
@@ -67,7 +67,7 @@
 - Screenshots of important conversations
 - AI-generated summaries of chat patterns
 
-### 4. Reflection on Human-AI Collaboration (800-1000 words)
+### 4. Reflection on Human-AI Collaboration (400-500 words)
 **Purpose:** Deep analysis of your collaboration experience
 
 **Content Areas:**
@@ -95,7 +95,7 @@
 - How did you adapt your approach over time?
 - What would you do differently?
 
-### 5. Learning Outcomes and Transferable Skills (300-400 words)
+### 5. Learning Outcomes and Transferable Skills (150-200 words)
 **Purpose:** Assess the impact on your learning and future capabilities
 
 **Content:**
